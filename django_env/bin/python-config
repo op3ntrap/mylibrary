@@ -1,4 +1,4 @@
-#!/home/devika/librarybuddy/django_env/bin/python
+#!/home/risan/PycharmProjects/mylibrarybuddy/django_env/bin/python
 
 import sys
 import getopt

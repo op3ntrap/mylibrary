@@ -28,7 +28,7 @@ MEMBERSHIP_CHOICES = (
 )
 
 
-class User(models.Model):
+class Member(models.Model):
     """
     Main Class of all the users of a library.
     This class does not hold the librarians working in the library.
@@ -58,13 +58,15 @@ class User(models.Model):
     """
     Format for lending log of the User class is
     lending_log = [
-    		{
-    		'Lend_ID': '34343434',
-    		'date':'date_time',
-    		'return_status': (boolean),
-			'penalty_paid': (penalty_paid),
-    	}
+        {
+        'Lend_ID': '34343434',
+        'date':'date_time',
+        'return_status': (boolean),
+        'penalty_paid': (penalty_paid),
+        }
     ]
     """
-    def user_functions(self):
-    	pass
+
+
+class Membership:
+    pass
