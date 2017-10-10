@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 from django.db import models
 from localflavor.in_.forms import INPhoneNumberField, INAadhaarNumberField
 from django.contrib.postgres.fields import ArrayField, JSONField
+
 # from django.contrib.localflavor
 
 # TODO Class specific functions of User needs to be written
@@ -68,5 +69,37 @@ class Member(models.Model):
     """
 
 
-class Membership:
-    pass
+VALIDITY_CHOICES = (
+    ('1yr', '1 year'),
+    ('2yr', '2 year'),
+    ('lifetime', 'lifetime'),
+)
+
+
+class Membership(models.Model):
+    """
+    Membership Class to maintain operations related to memberships in library
+    """
+    joining_fee = models.FloatField(help_text="Amount which is needed to be paid to get a membership in the library")
+    validity = models.CharField(
+        max_length=10,
+        choices=VALIDITY_CHOICES,
+        help_text="Validity of the Type of a Membership"
+    )
+    lending_power = models.IntegerField()
+    type = models.CharField(
+        max_length=10, choices=MEMBERSHIP_CHOICES
+    )
+
+
+ROLE_CHOICES = (
+    ('pages', 'Pages'),
+    ('technician', 'Library Technician'),
+    ('librarian', 'Librarian'),
+    ('manager', 'Manager'),
+    ('director', 'Director'),
+)
+
+
+class Librarian(models.Model):
+    role = models.CharField(max_length=20, choices=ROLE_CHOICES)
