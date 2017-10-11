@@ -1,2 +1,2 @@
-django_env/
-.idea/
+django_env/*
+.idea/*
