@@ -3,11 +3,11 @@ sudo apt-get install python-pip python-dev libpq-dev postgresql postgresql-contr
 sudo su - postgres
 # After logging in enter these commands
 # psql
-# CREATE DATABASE myproject;
-# CREATE USER myprojectuser WITH PASSWORD 'password';
-# ALTER ROLE myprojectuser SET client_encoding TO 'utf8';
-# ALTER ROLE myprojectuser SET default_transaction_isolation TO 'read committed';
-# ALTER ROLE myprojectuser SET timezone TO 'UTC';
-# GRANT ALL PRIVILEGES ON DATABASE myproject TO myprojectuser;
+# CREATE DATABASE library_buddy;
+# CREATE USER op3ntrap WITH password 'a';
+# ALTER ROLE op3ntrap SET client_encoding TO 'utf8';
+# ALTER ROLE op3ntrap SET default_transaction_isolation TO 'read committed';
+# ALTER ROLE op3ntrap SET timezone TO 'UTC+5:30';
+# GRANT ALL PRIVILEGES ON DATABASE myproject TO op3ntrap;
 # \q
 # exit
