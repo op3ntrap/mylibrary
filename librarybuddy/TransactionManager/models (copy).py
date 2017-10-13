@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import uuid
-from django.utils.deconstruct import deconstructible
 from django.db import models
 from BookManager.models import Book
 from UserManager.models import Member, Membership, Librarian
@@ -18,18 +17,6 @@ Lending Actions:
 
 """
 
-# @deconstructible
-# class DeriveLendRecord(object):
-#     path = "students/{0}/{1}{2}"
-
-#     def __init__(object, sub_path):
-#         object.sub_path = sub_path
-
-#     def __call__(object, instance, filename):
-#         return path.format(instance.user.username, object.sub_path, filename)
-
-# upload_dir = UploadToStudentDir('committee/reports/')
-
 
 class Transaction(models.Model):
     """
@@ -38,29 +25,18 @@ class Transaction(models.Model):
     primary_id = models.UUIDField(
         primary_key=True, default=uuid.uuid4, editable=False)
     book = models.ForeignKey(
-        'BookManager.Book', on_delete=models.CASCADE, )
+        'Book', on_delete=models.CASCADE, null=False, default=Book.objects.get(title='Test Book(Application)').primary_id)
     client = models.ForeignKey(
-        'UserManager.Member', on_delete=models.CASCADE,)
+        'Member', on_delete=models.CASCADE, null=False, default=Member.objects.get(email_address='op3ntrap@gmail.com').primary_id)
     issuer = models.ForeignKey(
-        'UserManager.Librarian', on_delete=models.CASCADE,)
-    issue_date = models.DateTimeField(auto_now_add=True)
-
-    class Meta:
-        abstract = True
+        'Librarian', on_delete=models.CASCADE, null=False, default=Librarian.objects.get(email_address='op3ntrap@gmail.com').primary_id)
 
 
 class Lend(Transaction):
     """
     This class holds all the records of Lending Transactions within the library.
     """
-    lend_membership = models.ForeignKey(
-        'UserManager.Membership', on_delete=models.CASCADE, null=True)
-
-
-class take:
-    def derive_lend_record(object):
-        return Lend.objects.get(
-            client=object.client, book=object.book, issue_date=object.issue_date)
+    issue_date = models.DateTimeField(auto_now_add=True)
 
 
 class Returning(models.Model):
@@ -69,5 +45,5 @@ class Returning(models.Model):
     """
     returned_date = models.DateTimeField(auto_now_add=True)
     lending_record = models.ForeignKey(
-        'Lend', on_delete=models.CASCADE, null=True, default=Returning.derive_lend_record)
+        'Lend', on_delete=models.CASCADE, null=True)
     penalty_charged = models.FloatField()
