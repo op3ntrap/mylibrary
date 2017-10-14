@@ -1,7 +1,6 @@
 Django==1.11.6
+django-extensions==1.9.1
 django-localflavor==1.5.2
-olefile==0.44
-Pillow==4.3.0
-pkg-resources==0.0.0
 psycopg2==2.7.3.1
 pytz==2017.2
+six==1.11.0
