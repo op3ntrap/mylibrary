@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 
 from django.contrib import admin
+
 from .models import Book, Magazine, Journal, ResearchPaper, DigitalRecords
 
 # Register your models here.
@@ -63,13 +64,36 @@ admin.site.register(Model,ModelAdmin)
 """
 
 
-class BookAdmin(admin.ModelAdmin):
-    pass
+@admin.register(Book)
+class ArchiveAdmin(admin.ModelAdmin):
+    list_display = ('title', 'authors', 'is_available', 'access', 'publisher', 'published_date', 'tags', 'page_count')
+    list_filter = ('is_available', 'access',)
+    ordering = ['title']
+    search_fields = ['title', 'authors', 'description', 'tags']
+    date_hierarchy = 'last_modified_on'
 
+    def get_actions(self, request):
+        actions = super(ArchiveAdmin, self).get_actions(request)
+        if request.user.is_superuser is False and 'delete_selected' in actions:
+            del actions['delete_selected']
+        return actions
 
-class JournalAdmin(admin.ModelAdmin):
-    pass
+    def update_availability_false(self, request, queryset):
+        rows_updated = queryset.update(is_available=False)
+        if rows_updated == 1:
+            message_bit = "1 archive was"
+        else:
+            message_bit = "%s archives were" % rows_updated
+        self.message_user(request, "%s successfully marked as not available." % message_bit)
 
+    update_availability_false.short_description = "Update the archives selected as not available"
 
-admin.site.register(Book)
-admin.site.register(Magazine)
+    def update_availability_true(self, request, queryset):
+        rows_updated = queryset.update(is_available=True)
+        if rows_updated == 1:
+            message_bit = "1 archive was"
+        else:
+            message_bit = "%s archives were" % rows_updated
+        self.message_user(request, "%s successfully marked as available." % message_bit)
+
+    update_availability_true.short_description = "Update the archives selected as available"

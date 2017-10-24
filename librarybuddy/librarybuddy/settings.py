@@ -29,6 +29,8 @@ ALLOWED_HOSTS = []
 
 # Application definition
 INSTALLED_APPS = [
+    'material',
+    'material.admin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -42,6 +44,7 @@ INSTALLED_APPS = [
     'AlertManager.apps.AlertmanagerConfig',
     'AnalyticsManager.apps.AnalyticsmanagerConfig',
     'django_extensions',
+    'languages',
 ]
 
 MIDDLEWARE = [

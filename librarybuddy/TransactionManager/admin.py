@@ -7,6 +7,6 @@ from .models import Lend, Returning
 
 # Register your models here.
 
-@admin.register(Lend)
+@admin.register(Lend, Returning)
 class TransactionAdmin(admin.ModelAdmin):
     list_display = ('book', 'client', 'issuer', 'issue_date')

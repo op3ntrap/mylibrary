@@ -3,4 +3,16 @@ from __future__ import unicode_literals
 
 from django.shortcuts import render
 
+
 # Create your views here.
+
+class CatalogViews:
+    pass
+
+
+class DetailedViews:
+    pass
+
+
+class FeedbackViews:
+    pass

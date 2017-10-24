@@ -3,20 +3,13 @@ from __future__ import unicode_literals
 import uuid
 from django.db import models
 from django.contrib.postgres.fields import ArrayField, JSONField
+from languages.fields import LanguageField
 
 
 def archive_url_json():
     urls = {
         'libgen'      : "",
-        'google_books': "",
-        'amazon'      : "",
-        'publisher'   : "",
-        'doc_self'    : "",
-        'author'      : "",
-        'social_media': {
-            'facebook': "",
-            'twitter' : ""
-        }
+        'google_books': ""
     }
     return urls
 
@@ -34,11 +27,6 @@ class Archive(models.Model):
         )
     """
     # Field Choice Tuples
-    LANGUAGE_CHOICES = (
-        ('EN', 'English'),
-        ('HIN', 'Hindi'),
-        ('others', 'Others')
-    )
     MEMBERSHIP_CHOICES = (
         ('a', 'A'),
         ('b', 'B'),
@@ -55,13 +43,7 @@ class Archive(models.Model):
     )
 
     def __str__(self):
-        author = ""
-        for val in self.authors:
-            if len(self.authors) == 1:
-                author = self.authors[0]
-                break
-            author += val + " , "
-        return "{} by {}".format(self.title, author)
+        return "{} by {}".format(self.title, self.authors)
 
     # Internal Reference
     _id = models.UUIDField(
@@ -74,42 +56,38 @@ class Archive(models.Model):
     # MetaData Fields
     title = models.CharField(
             max_length=100, help_text="Book Title", null=False, blank=False)
-    authors = ArrayField(
-            models.CharField(max_length=100,
-                             default="Unknown Author",
-                             help_text='Enter the Author names separated by a comma: <br>Eg. good,bad <br>For Tags '
-                                       'which contain spaces can be entered by surrounding them with double quotes. '
-                                       '<br>Eg."Risan Raja"')
-    )
+    authors = models.TextField(max_length=100,
+                               default="Unknown Author",
+                               help_text='Enter the Author names separated by a comma: <br>Eg. good,bad <br>For Tags '
+                                         'which contain spaces can be entered by surrounding them with double quotes. '
+                                         '<br>Eg."Risan Raja"')
     publisher = models.CharField(max_length=30, null=True, blank=True)
-    published_date = models.DateField(auto_now_add=False)
-    languages = models.CharField(
-            max_length=30, choices=LANGUAGE_CHOICES, null=False, blank=False)
-    cover = models.ImageField()
-
-    tags = ArrayField(models.CharField(max_length=50, null=True, blank=True),
+    published_date = models.DateField(auto_now_add=False, null=True, blank=True, editable=False)
+    cover = models.ImageField(null=True, blank=True)
+    description = models.TextField(null=True, blank=True)
+    tags = models.CharField(max_length=50, null=True, blank=True,
                       help_text='Enter the relevant Tags separated by a comma: <br>Eg. good,bad <br>For Tags which '
                                 'contain spaces can be entered by surrounding them with double quotes. <br>Eg."Machine '
                                 'Learning"')
+    page_count = models.IntegerField(null=True, blank=True)
+    # Universal Identification
+    identifier = models.CharField(
+            max_length=10, choices=IDENTIFIER_CHOICES, default='isbn', help_text='Select the type of Identifier')
+    identifier_value = models.CharField(max_length=13, default="654656", unique=True,
+                                        help_text='Please enter the Identifier Code')
     # Access Control Parameters
     is_available = models.BooleanField(default=True, editable=False)
     access = models.BooleanField(default=True)
     accessibility = models.CharField(
             max_length=10, choices=MEMBERSHIP_CHOICES, default='d', help_text='Membership Level Required')
-    # Universal Identification
-    identifier = models.CharField(
-            max_length=10, choices=IDENTIFIER_CHOICES, default='isbn', help_text='Select the type of Identifier')
-    id_val = models.CharField(max_length=13, default="654656", unique=True,
-                              help_text='Please enter the Identifier Code')
     # Others
-    penalty = models.FloatField()
+    penalty = models.FloatField(default=100)
     urls = JSONField(default=archive_url_json)
-
     copies = models.IntegerField(default=1, editable=False, verbose_name='Number of Copies')
 
     class Meta:
         abstract = True
-        unique_together = ['identifier', 'id_val']
+        unique_together = ['identifier', 'identifier_value']
         ordering = ['title', '-published_date']
 
     permissions = (('modify_access', 'Modify Access'), ('access_lending_logs', 'Access the Lending Logs'))
@@ -118,19 +96,6 @@ class Archive(models.Model):
 class DigitalRecords(Archive):
     file_format = models.CharField(max_length=20)
     source_url = models.URLField(null=True, blank=True)
-
-
-"""
-Format for lending log of the User class is
-lending_log = [
-    {
-    'Lend_ID': '34343434',
-    'date':'date_time',
-    'return_status': (boolean),
-    'penalty_paid': (penalty_paid),
-    }
-]
-"""
 
 
 class Book(Archive):
@@ -152,8 +117,6 @@ class Magazine(Archive):
             max_length=39, choices=PERIODICITY_CHOICES, help_text='Periodicity of the Magazine')
     archive_editions = ArrayField(models.DateField(help_text='enter date in YYYY-MM-DD'), null=True, blank=True,
                                   help_text='enter date in YYYY-MM-DD')
-    # def __str__(self):
-    #     return self.title,
 
 
 class Journal(Archive):

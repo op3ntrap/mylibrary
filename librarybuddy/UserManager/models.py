@@ -1,9 +1,11 @@
-# -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+
 import uuid
+
+from django.contrib.postgres.fields import ArrayField, JSONField
 from django.db import models
 from localflavor.in_.forms import INPhoneNumberField, INAadhaarNumberField
-from django.contrib.postgres.fields import ArrayField, JSONField
+from django.apps import apps
 
 
 # TODO Class specific functions of User needs to be written
@@ -21,18 +23,18 @@ class Membership(models.Model):
         ('c', 'C'),
         ('d', 'D'),
     )  # Field Choices for the Membership.mode field
-
     VALIDITY_CHOICES = (
         ('1yr', '1 year'),
         ('2yr', '2 year'),
         ('lifetime', 'lifetime'),
     )  # Field Choices for the validity field
-
     primary_id = models.UUIDField(
             primary_key=True, default=uuid.uuid4, editable=False)  # pk field
+
     joining_fee = models.FloatField(
             help_text="Amount which is needed to be paid to get a membership in the library", default=100.0,
             verbose_name="Joining Fee")
+
     validity = models.CharField(
             max_length=10,
             choices=VALIDITY_CHOICES,
@@ -44,6 +46,12 @@ class Membership(models.Model):
     mode = models.CharField(
             max_length=10, choices=MEMBERSHIP_CHOICES, unique=True, default='c', verbose_name='Membership '
     )
+
+    def __str__(self):
+        return "Class {} Membership with {} validity".format(self.mode, self.validity)
+
+
+# -*- coding: utf-8 -*-
 
 
 class Member(models.Model):
@@ -95,7 +103,7 @@ class Member(models.Model):
             max_length=63, help_text='Middle Name', null=True, blank=True, default='', verbose_name='Middle Name')
     last_name = models.CharField(
             max_length=63, help_text='Last Name', blank=False, verbose_name='Last Name')
-    age = models.IntegerField(help_text='Age of the User eg 18', blank=True, verbose_name='Age')
+    age = models.IntegerField(help_text='Age of the User eg 18', verbose_name='Age')
     occupation = models.CharField(
             max_length=20, choices=OCCUPATION_CHOICES, help_text='Select the Occupation of the User', blank=False,
             verbose_name='Occupation')
@@ -116,8 +124,24 @@ class Member(models.Model):
     join_date = models.DateField(auto_now_add=True, verbose_name='Joining Date')
     entry_log = ArrayField(
             models.DateField(auto_now=True))
-    lending_log = ArrayField(
-            JSONField(blank=True, null=True), blank=True, null=True)
+
+    def get_lending_history(self):
+        records_db = apps.get_model('TransactionManager', 'Lend')
+        logs = records_db.objects.get(user=self)
+        payload = ""
+        if len(logs) != 0:
+            payload = [val.__dict__ for val in logs]
+        else:
+            payload = [{}]
+        return payload
+
+    # lending_log = ArrayField(JSONField(null=True, blank=True), default=get_lending_log, blank=True, null=True)
+
+    def __str__(self):
+        if self.middle_name is not None:
+            return "{} {} {}".format(self.first_name, self.middle_name, self.last_name)
+        else:
+            return "{} {}".format(self.first_name, self.last_name)
 
 
 class Librarian(models.Model):
@@ -133,6 +157,27 @@ class Librarian(models.Model):
     )
     primary_id = models.UUIDField(
             primary_key=True, default=uuid.uuid4, editable=False)
+    first_name = models.CharField(
+            max_length=63, help_text='First Name', blank=False, verbose_name='First Name')
+    middle_name = models.CharField(
+            max_length=63, help_text='Middle Name', null=True, blank=True, default='', verbose_name='Middle Name')
+    last_name = models.CharField(
+            max_length=63, help_text='Last Name', blank=False, verbose_name='Last Name')
+
+    def __str__(self):
+        if self.middle_name is not None:
+            return "{} {} {}".format(self.first_name, self.middle_name, self.last_name)
+        else:
+            return "{} {}".format(self.first_name, self.last_name)
+
     role = models.CharField(max_length=20, choices=ROLE_CHOICES, verbose_name='Role')
     book_recommendations = ArrayField(
             JSONField(blank=True, null=True), blank=True, null=True)
+    primary_mobile = INPhoneNumberField(
+            help_text='Primary Mobile Number')
+    alternate_mobile = INPhoneNumberField(
+            help_text='Alternate Mobile Number')
+    aadhar_id = INAadhaarNumberField(
+            help_text='12 digit Aadhar Number', )
+    email_address = models.EmailField(
+            help_text='Email Address', blank=False, unique=True, verbose_name='Email Address')
