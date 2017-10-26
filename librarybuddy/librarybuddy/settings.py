@@ -29,6 +29,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 INSTALLED_APPS = [
+    'material.theme.indigo',
     'material',
     'material.admin',
     'django.contrib.admin',
@@ -62,10 +63,10 @@ ROOT_URLCONF = 'librarybuddy.urls'
 
 TEMPLATES = [
     {
-        'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'BACKEND' : 'django.template.backends.django.DjangoTemplates',
+        'DIRS'    : [],
         'APP_DIRS': True,
-        'OPTIONS': {
+        'OPTIONS' : {
             'context_processors': [
                 'django.template.context_processors.debug',
                 'django.template.context_processors.request',
@@ -83,12 +84,12 @@ WSGI_APPLICATION = 'librarybuddy.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'library_buddy',
-        'USER': 'op3ntrap',
+        'ENGINE'  : 'django.db.backends.postgresql_psycopg2',
+        'NAME'    : 'library_buddy',
+        'USER'    : 'op3ntrap',
         'PASSWORD': 'a',
-        'HOST': 'localhost',
-        'PORT': '',
+        'HOST'    : 'localhost',
+        'PORT'    : '',
 
     }
 }
@@ -128,3 +129,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = ''

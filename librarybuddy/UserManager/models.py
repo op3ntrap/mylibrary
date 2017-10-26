@@ -8,11 +8,6 @@ from localflavor.in_.forms import INPhoneNumberField, INAadhaarNumberField
 from django.apps import apps
 
 
-# TODO Class specific functions of User needs to be written
-# TODO custom permissions need to be set up on each classes.
-# TODO verbose_names of user_input processing Fields needs to be written.
-
-
 class Membership(models.Model):
     """
     Membership Class to maintain operations related to memberships in library
@@ -122,8 +117,6 @@ class Member(models.Model):
             'Membership', on_delete=models.CASCADE, null=True,
             verbose_name='Membership Type')
     join_date = models.DateField(auto_now_add=True, verbose_name='Joining Date')
-    entry_log = ArrayField(
-            models.DateField(auto_now=True))
 
     def get_lending_history(self):
         records_db = apps.get_model('TransactionManager', 'Lend')

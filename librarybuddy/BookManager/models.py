@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import uuid
+from urllib.request import urlretrieve
 from django.db import models
 from django.contrib.postgres.fields import ArrayField, JSONField
-from languages.fields import LanguageField
+from .extract import Extractor
+from dateutil import parser
 
 
 def archive_url_json():
     urls = {
-        'libgen'      : "",
         'google_books': ""
     }
     return urls
@@ -48,41 +49,45 @@ class Archive(models.Model):
     # Internal Reference
     _id = models.UUIDField(
             primary_key=True, default=uuid.uuid4, editable=False)
-    last_modified_on = models.DateTimeField(auto_now=True, auto_created=True)
-
     lending_log = ArrayField(
             JSONField(null=True, editable=False),
             blank=True, null=True, editable=False)
+    last_modified_on = models.DateTimeField(auto_now=True, auto_created=True)
+    # Universal Identification
+    identifier = models.CharField(
+            max_length=10, choices=IDENTIFIER_CHOICES, default='isbn',
+            help_text='Select the type of Identifier<div class="right-align"><button type="submit" value="Save and '
+                      'add another" class="waves-effect waves-light btn white-text" name="_continue">Autocomplete</button></div>')
+    identifier_value = models.CharField(max_length=13, default="654656", unique=True,
+                                        help_text='Please enter the Identifier Code')
+    autocomplete_using_isbn = models.BooleanField(default=True, verbose_name="AutoComplete Using ISBN",
+                                                  help_text="Check this box to autocomplete the book data using ISBN")
+
     # MetaData Fields
     title = models.CharField(
-            max_length=100, help_text="Book Title", null=False, blank=False)
+            max_length=100, help_text="Book Title", null=False, blank=True, )
     authors = models.TextField(max_length=100,
                                default="Unknown Author",
                                help_text='Enter the Author names separated by a comma: <br>Eg. good,bad <br>For Tags '
                                          'which contain spaces can be entered by surrounding them with double quotes. '
                                          '<br>Eg."Risan Raja"')
-    publisher = models.CharField(max_length=30, null=True, blank=True)
+    publisher = models.CharField(max_length=255, null=True, blank=True)
     published_date = models.DateField(auto_now_add=False, null=True, blank=True, editable=False)
     cover = models.ImageField(null=True, blank=True)
     description = models.TextField(null=True, blank=True)
-    tags = models.CharField(max_length=50, null=True, blank=True,
-                      help_text='Enter the relevant Tags separated by a comma: <br>Eg. good,bad <br>For Tags which '
-                                'contain spaces can be entered by surrounding them with double quotes. <br>Eg."Machine '
-                                'Learning"')
+    tags = models.CharField(max_length=255, null=True, blank=True,
+                            help_text='Enter the relevant Tags separated by a comma: <br>Eg. good,bad <br>For Tags which '
+                                      'contain spaces can be entered by surrounding them with double quotes. <br>Eg."Machine '
+                                      'Learning"')
     page_count = models.IntegerField(null=True, blank=True)
-    # Universal Identification
-    identifier = models.CharField(
-            max_length=10, choices=IDENTIFIER_CHOICES, default='isbn', help_text='Select the type of Identifier')
-    identifier_value = models.CharField(max_length=13, default="654656", unique=True,
-                                        help_text='Please enter the Identifier Code')
     # Access Control Parameters
-    is_available = models.BooleanField(default=True, editable=False)
+    is_available = models.BooleanField(default=True, )
     access = models.BooleanField(default=True)
     accessibility = models.CharField(
             max_length=10, choices=MEMBERSHIP_CHOICES, default='d', help_text='Membership Level Required')
     # Others
     penalty = models.FloatField(default=100)
-    urls = JSONField(default=archive_url_json)
+    urls = models.URLField(null=True, blank=True)
     copies = models.IntegerField(default=1, editable=False, verbose_name='Number of Copies')
 
     class Meta:
@@ -104,6 +109,28 @@ class Book(Archive):
     genre = models.CharField(max_length=30, help_text='Book - Genre',
                              null=False, default='Uncategorised', blank=True)
 
+    def extract_metadata(self):
+        if self.identifier_value is not None and len(self.identifier_value) in [13, 10]:
+            payload_data = Extractor(self.identifier, self.identifier_value)
+            payload = payload_data.metadata()
+            if payload == 0:
+                return
+            else:
+                self.urls = payload['google_url']
+                self.description = payload['description']
+                self.tags = payload['tags']
+                urlretrieve(payload['cover'], str(self.identifier_value) + ".png")
+                self.cover = (self.identifier_value) + ".png"
+                self.published_date = payload['published_date']
+                self.publisher = payload['publisher']
+                self.authors = payload['authors']
+                self.page_count = payload['page_count']
+                self.title = payload['title']
+
+    def save(self, *args, **kwargs):
+        if self.autocomplete_using_isbn is True:
+            self.extract_metadata()
+        super(Book, self).save(*args, **kwargs)
 
 class Magazine(Archive):
     PERIODICITY_CHOICES = (
