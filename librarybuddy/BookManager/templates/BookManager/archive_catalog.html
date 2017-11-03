@@ -8,6 +8,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <title>Library Buddy</title>
+    <link rel="icon" href="/covers/logo-home.ico" type="image/x-icon">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -115,7 +116,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/">Home</a>
                     <li class="nav-item btn-group">
                         <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
                            aria-haspopup="true" aria-expanded="false">Filter by availability
@@ -181,8 +182,14 @@
                                 <div class="card-block text-left">
                                     <p style="vertical-align: middle;" class="text-center">
                                         <a href="{{ card.urls }}" class="card-link">Google Books</a>
-                                        <a href="{{ card.urls }}" class="card-link text-right" style="align:right">Check
-                                            Availability</a>
+                                        {% if card.is_available %}
+                                            <img src='/covers/images.png' class="text-right" style="align:right"
+                                                 height="45" width="45"/>
+                                        {% else %}
+                                            <img src='/covers/depositphotos_136598368-stock-illustration-not-available-sign-or-stamp.jpg'
+                                                 class="text-right" style="align:right" height="45" width="45"/>
+                                        {% endif %}
+
                                     </p>
                                 </div>
                             </div>
