@@ -1,0 +1,127 @@
+{% extends 'UserManager/profile.html' %}
+{% block title %}
+    Account Management
+{% endblock %}
+{% block body_title %}
+{% endblock %}
+{% block body %}
+
+    <div class="container">
+        <p align="center">
+        <h3><b>Books you have to return.</b></h3></p>
+        {% if lend %}
+            <!--row-->
+            <div class="card-deck wow">
+                {% for card in lend %}
+
+                    <!--Card-->
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="card mb-sm-3 card-outline-primary">
+
+                            <!--Card image-->
+                            <img class="card-img-top text-center"
+                                 style="width: 100px;horiz-align:center; margin-left: 100px; margin-top:20px;"
+                                 height="auto"
+                                 width="100%"
+                                 src="{{ card.archive.cover.url }}"
+                                 alt="{{ card.archive.title }}">
+                            <!--Card image-->
+
+                            <!--Title-->
+                            <h5 class="card-header text-center">{{ card.archive.title | truncatewords:5 }}</h5>
+                            <!--Card content-->
+                            <!--Text-->
+                            <div class="card-body text-center">
+
+                                <p class="card-text text-capitalize">{{ card.archive.description | truncatechars:200 | lower }}</p>
+                                <div class="card-block text-center">
+                                    <p style="vertical-align: middle;" class="text-center">
+                                        <a href="{{ card.archive.urls }}" class="card-link">Google Books</a>
+                                        {#                                        {% if card.archive.is_available %}#}
+                                        {#                                            <img src='/covers/images.png' class="text-right" style="align:right"#}
+                                        {#                                                 height="45" width="45"/>#}
+                                        {#                                        {% else %}#}
+                                        {#                                            <img src='/covers/depositphotos_136598368-stock-illustration-not-available-sign-or-stamp.jpg'#}
+                                        {#                                                 class="text-right" style="align:right" height="45" width="45"/>#}
+                                        {#                                        {% endif %}#}
+
+
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-footer text-center" style="color: red">
+                                Returning Date:<br>{{ card.issue_date }}                            </div>
+                        </div>
+                    </div>
+                    <!--/.Card-->
+
+                {% endfor %}
+            </div>
+        {% else %}
+            <p>Oops No Books were to be found. Keep calm.</p>
+        {% endif %}
+        <!--Page Custom-->
+
+    </div>
+    <hr>
+    <div class="container">
+        <p align="center" class="text-center">
+        <h3><b>Books you have returned</b></h3></b>
+        {% if lend %}
+            <!--row-->
+            <div class="card-deck wow">
+                {% for card in lend %}
+
+                    <!--Card-->
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="card mb-sm-3 card-outline-primary">
+
+                            <!--Card image-->
+                            <img class="card-img-top text-center"
+                                 style="width: 100px;horiz-align:center; margin-left: 100px; margin-top:20px;"
+                                 height="auto"
+                                 width="100%"
+                                 src="{{ card.archive.cover.url }}"
+                                 alt="{{ card.archive.title }}">
+                            <!--Card image-->
+
+                            <!--Title-->
+                            <h5 class="card-header text-center">{{ card.archive.title | truncatewords:5 }}</h5>
+                            <!--Card content-->
+                            <!--Text-->
+                            <div class="card-body text-center">
+
+                                <p class="card-text text-capitalize">{{ card.archive.description | truncatechars:200 | lower }}</p>
+                                <div class="card-block text-center">
+                                    <p style="vertical-align: middle;" class="text-center">
+                                        <a href="{{ card.archive.urls }}" class="card-link">Google Books</a>
+                                        {#                                        {% if card.archive.is_available %}#}
+                                        {#                                            <img src='/covers/images.png' class="text-right" style="align:right"#}
+                                        {#                                                 height="45" width="45"/>#}
+                                        {#                                        {% else %}#}
+                                        {#                                            <img src='/covers/depositphotos_136598368-stock-illustration-not-available-sign-or-stamp.jpg'#}
+                                        {#                                                 class="text-right" style="align:right" height="45" width="45"/>#}
+                                        {#                                        {% endif %}#}
+
+
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-footer text-muted text-center">
+                                Returned Date:<br>{{ card.issue_date }}                            </div>
+                        </div>
+                    </div>
+                    <!--/.Card-->
+
+                {% endfor %}
+            </div>
+        {% else %}
+            <p>Oops No Books were to be found. Keep calm.</p>
+        {% endif %}
+        <!--Page Custom-->
+
+    </div>
+
+
+
+{% endblock %}

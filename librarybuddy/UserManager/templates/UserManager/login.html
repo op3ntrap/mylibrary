@@ -1,0 +1,33 @@
+{% extends 'UserManager/base.html' %}
+{% block title %}
+    Login - Library Buddy
+{% endblock %}
+{% block body_title %}
+    Login
+{% endblock %}
+{% block body_sub_title %}
+    Please enter you credentials below
+{% endblock %}
+{% block body %}
+    <style>
+        span.helptext {
+            color: lightgray;
+            display: inline;
+        }
+
+        ul.errorlist {
+            list-style-image: url("/covers/ul_warning.png");
+        }
+    </style>
+    {% if form.errors %}
+        <p>Your username and password didn't match. Please try again.</p>
+    {% endif %}
+
+    <form method="post" action="{% url 'login' %}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" name="_submit" class="btn btn-primary">Login</button>
+        <input type="hidden" name="next" value="{{ next }}"/>
+        <a href="sign_up">Register here!</a>
+    </form>
+{% endblock %}

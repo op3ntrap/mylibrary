@@ -25,7 +25,7 @@ SECRET_KEY = '5wusq4(0vgelry_8)un*jq*4&b^=hx81redl^o+&**7md(9@rk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
 
 # Application definition
 INSTALLED_APPS = [
@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'AlertManager.apps.AlertManagerConfig',
     'AnalyticsManager.apps.AnalyticsManagerConfig',
     'django_extensions',
+    'sorl.thumbnail',
+    'captcha',
     'languages',
 ]
 
@@ -117,7 +119,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
@@ -141,3 +143,11 @@ STATICFILES_FINDERS = (
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'covers')
 MEDIA_URL = '/covers/'
+LOGOUT_REDIRECT_URL = '/'
+MAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'op3ntrap@gmail.com'
+EMAIL_HOST_PASSWORD = 'ngtqgfgjdtbnezmx'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

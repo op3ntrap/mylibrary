@@ -1,0 +1,24 @@
+{% extends 'UserManager/base.html' %}
+{% block title %}
+    {{ User.first_name }}'s Profile
+{% endblock %}
+{% block body_title %}
+    Edit your Employment Information
+{% endblock %}
+{% block body %}
+    <style>
+        span.helptext {
+            color: lightgray;
+            display: inline;
+        }
+
+        ul.errorlist {
+            list-style-image: url("/covers/ul_warning.png");
+        }
+    </style>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" name="_submit" class="btn btn-primary">Submit</button>
+    </form>
+{% endblock %}

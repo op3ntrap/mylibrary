@@ -18,7 +18,10 @@
 
     <!-- Material Design Bootstrap -->
     <link href="/static/BookManager/css/mdb.min.css" rel="stylesheet">
-
+    {% load thumbnail %}
+    {#{% thumbnail item.image "100x100" crop="center" as im %}#}
+    {#    <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}">#}
+    {#{% endthumbnail %}#}
     <!-- Template styles -->
     <style rel="stylesheet">
         /* TEMPLATE STYLES */
@@ -122,9 +125,9 @@
                            aria-haspopup="true" aria-expanded="false">Filter by availability
                         </a>
                         <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/">All</a>
                             <a class="dropdown-item" href="/?available=True">Available Books Only</a>
                             <a class="dropdown-item" href="/?available=False">Currently Not Available Books</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
                         </div>
                     </li>
                 </ul>
@@ -132,6 +135,28 @@
                     <input value="{{ input_param }}" class="form-control mr-sm-2" name="search_book" type="text"
                            placeholder="Search" aria-label="Search">
                 </form>
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item btn-group">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">
+                            {% if user.is_authenticated %}
+                                {{ user.email }}
+                            {% else %}
+                                User
+                            {% endif %}
+                        </a>
+                        {% if user.is_authenticated %}
+                        {% else %}
+                            <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/UserManager/login">Login</a>
+                        {% endif %}
+                        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/UserManager/profile">Profile</a>
+                            <a class="dropdown-item" href="/UserManager/account_management">Account Management</a>
+                            <a class="dropdown-item" href="/UserManager/logout">Logout</a>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </nav>
@@ -174,24 +199,26 @@
                                  alt="{{ card.title }}">
                             <!--Card image-->
                             <!--Card content-->
-                            <div class="card-body text-center">
-                                <!--Title-->
-                                <h5 class="card-header">{{ card.title | truncatewords:5 }}</h5>
+                            <!--Title-->
+                            <h5 class="card-header text-center">{{ card.title | truncatewords:5 }}</h5>
+                            <div class="card-body text-left">
+
                                 <!--Text-->
                                 <p class="card-text text-capitalize">{{ card.description | truncatechars:200 | lower }}</p>
-                                <div class="card-block text-left">
-                                    <p style="vertical-align: middle;" class="text-center">
-                                        <a href="{{ card.urls }}" class="card-link">Google Books</a>
-                                        {% if card.is_available %}
-                                            <img src='/covers/images.png' class="text-right" style="align:right"
-                                                 height="45" width="45"/>
-                                        {% else %}
-                                            <img src='/covers/depositphotos_136598368-stock-illustration-not-available-sign-or-stamp.jpg'
-                                                 class="text-right" style="align:right" height="45" width="45"/>
-                                        {% endif %}
 
-                                    </p>
-                                </div>
+                            </div>
+                            <div class="card-footer text-center">
+                                <p style="vertical-align: middle;" class="text-center">
+                                    <a href="{{ card.urls }}" class="card-link">Google Books</a>
+                                    {% if card.is_available %}
+                                        <img src='/covers/images.png' class="text-right" style="align:right"
+                                             height="45" width="45"/>
+                                    {% else %}
+                                        <img src='/covers/depositphotos_136598368-stock-illustration-not-available-sign-or-stamp.jpg'
+                                             class="text-right" style="align:right" height="45" width="45"/>
+                                    {% endif %}
+
+                                </p>
                             </div>
 
                         </div>

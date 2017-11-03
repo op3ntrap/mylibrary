@@ -6,6 +6,7 @@ from django.contrib.postgres.fields import ArrayField, JSONField
 from django.db import models
 from localflavor.in_.forms import INPhoneNumberField, INAadhaarNumberField
 from django.apps import apps
+from django.contrib.auth.models import User
 
 
 class Membership(models.Model):
@@ -112,11 +113,13 @@ class Member(models.Model):
             help_text='Email Address', blank=False, unique=True, verbose_name='Email Address')
     twitter_handle = models.CharField(
             max_length=20, help_text='(optional) Twitter Handle', null="", blank=True, verbose_name='Twitter Handle')
-    membership = models.BooleanField(verbose_name='Is a Member?')
+    membership = models.NullBooleanField(verbose_name='Is a Member?', null=True)
     membership_type = models.ForeignKey(
             'Membership', on_delete=models.CASCADE, null=True,
             verbose_name='Membership Type')
     join_date = models.DateField(auto_now_add=True, verbose_name='Joining Date')
+    user = models.OneToOneField(User, on_delete=models.CASCADE, null=True)
+    profile_pic = models.ImageField(verbose_name="Profile Picture", null=True)
 
     def get_lending_history(self):
         records_db = apps.get_model('TransactionManager', 'Lend')
@@ -150,12 +153,14 @@ class Librarian(models.Model):
     )
     primary_id = models.UUIDField(
             primary_key=True, default=uuid.uuid4, editable=False)
+    user = models.OneToOneField(User, on_delete=models.CASCADE, null=True)
     first_name = models.CharField(
             max_length=63, help_text='First Name', blank=False, verbose_name='First Name')
     middle_name = models.CharField(
             max_length=63, help_text='Middle Name', null=True, blank=True, default='', verbose_name='Middle Name')
     last_name = models.CharField(
             max_length=63, help_text='Last Name', blank=False, verbose_name='Last Name')
+    profile_pic = models.ImageField(verbose_name="Profile Picture", null=True)
 
     def __str__(self):
         if self.middle_name is not None:

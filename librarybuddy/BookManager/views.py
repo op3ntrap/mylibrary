@@ -5,20 +5,6 @@ from django.shortcuts import render
 from .models import Book
 
 
-# Create your views here.
-
-class CatalogViews:
-    pass
-
-
-class DetailedViews:
-    pass
-
-
-class FeedbackViews:
-    pass
-
-
 def archive_catalog(request):
     catalog_list = Book.objects.all()
     # section = []
@@ -67,8 +53,8 @@ def archive_catalog(request):
     return render(request, 'BookManager/archive_catalog.html', context)
 
 
-def archive_search(request):
-    pass
+def view_base_template(request):
+    return render(request, 'BookManager/account_management.html', context=None)
 
 
 """
@@ -112,3 +98,7 @@ def archive_search(request):
 {#        {% endif %}#}
 {#    <!--Page Custom-->#}
 """
+
+
+def test(request):
+    return render(request, 'BookManager/account_management.html', context=None)

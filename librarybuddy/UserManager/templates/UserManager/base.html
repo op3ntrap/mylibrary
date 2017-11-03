@@ -21,7 +21,10 @@
 
     <!-- Material Design Bootstrap -->
     <link href="/static/BookManager/css/mdb.min.css" rel="stylesheet">
-
+    {% load thumbnail %}
+    {#{% thumbnail item.image "100x100" crop="center" as im %}#}
+    {#    <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}">#}
+    {#{% endthumbnail %}#}
     <!-- Template styles -->
     <style rel="stylesheet">
         /* TEMPLATE STYLES */
@@ -99,11 +102,6 @@
 
         }
     </style>
-    {% load thumbnail %}
-    {#{% thumbnail item.image "100x100" crop="center" as im %}#}
-    {#    <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}">#}
-    {#{% endthumbnail %}#}
-
 </head>
 
 <body>
@@ -123,37 +121,49 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/">Home</a>
+                    <li class="nav-item btn-group">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">Filter by availability
+                        </a>
+                        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/">All</a>
+                            <a class="dropdown-item" href="/?available=True">Available Books Only</a>
+                            <a class="dropdown-item" href="/?available=False">Currently Not Available Books</a>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="navbar-nav mr-auto">
                     {% block header_bar_links %}
                     {% endblock %}
                 </ul>
-                <form class="form-inline">
-                    {% block searchbar %}
-                    {% endblock %}
-                </form>
-            </div>
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item btn-group">
-                    <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
-                       aria-haspopup="true" aria-expanded="false">
+                {% block headerbar_userlinks %}
+                {% endblock %}
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item btn-group">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">
+                            {% if user.is_authenticated %}
+                                {{ user.email }}
+                            {% else %}
+                                User
+                            {% endif %}
+                        </a>
                         {% if user.is_authenticated %}
-                            {{ user.email }}
                         {% else %}
-                            User
+                            <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/UserManager/login">Login</a>
                         {% endif %}
-                    </a>
-                    {% if user.is_authenticated %}
-                    {% else %}
                         <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="/UserManager/login">Login</a>
-                    {% endif %}
-                    <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="/UserManager/profile">Profile</a>
-                        <a class="dropdown-item" href="/UserManager/account_management">Account Management</a>
-                        <a class="dropdown-item" href="/UserManager/logout">Logout</a>
-                    </div></div>
-                </li>
-            </ul>
+                            <a class="dropdown-item" href="/UserManager/profile">Profile</a>
+                            <a class="dropdown-item" href="/UserManager/account_management">Account Management</a>
+                            <a class="dropdown-item" href="/UserManager/logout">Logout</a>
+                        </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
     </nav>
     <!--/.Navbar-->

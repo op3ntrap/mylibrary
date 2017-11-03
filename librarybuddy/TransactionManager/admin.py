@@ -18,9 +18,9 @@ class LendForm(forms.ModelForm):
 class LendAdmin(admin.ModelAdmin):
     form = LendForm
     fields = ['archive', 'client', 'issuer', 'issue_date', '_QR_Code', ]
-    list_display = ('archive', 'client', 'issuer', 'issue_date', '_QR_Code')
+    list_display = ('archive', 'client', 'issuer', 'issue_date',)
     search_fields = ['archive__identifier_value']
-    list_filter = ('issue_date', 'client__email_address')
+    list_filter = ['issue_date', 'client__email_address']
     ordering = ['issue_date']
 
     def _QR_Code(self, obj):

@@ -20,11 +20,11 @@ from django.conf.urls.static import static
 from django.contrib.auth import views as auth_views
 
 urlpatterns = [
-                  url(r'^login.html', auth_views.login, name='login'),
-                  url(r'^logout.html', auth_views.logout, name='logout'),
                   url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
                   url(r'^admin/', admin.site.urls),
-                  url(r'^', include('BookManager.urls'))
+                  url(r'^', include('BookManager.urls')),
+                  url(r'^UserManager/', include('UserManager.urls')),
+                  url(r'^captcha/', include('captcha.urls')),
 
               ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT) + static(settings.MEDIA_URL,
                                                                                            document_root=settings.MEDIA_ROOT)

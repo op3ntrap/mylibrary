@@ -5,7 +5,8 @@ import uuid
 from django.apps import apps
 from django.db import models
 from django.core import validators
-
+from dateutil.relativedelta import relativedelta
+from django.utils import timezone
 
 # import qrcode
 # from io import StringIO
@@ -29,7 +30,8 @@ class Transaction(models.Model):
     issuer = models.ForeignKey(
             'UserManager.Librarian', on_delete=models.CASCADE, )
     from datetime import datetime
-    issue_date = models.DateTimeField(default=datetime.now, )
+    issue_date = models.DateTimeField(default=datetime.now, editable=False)
+    returning_date = models.DateTimeField(default=timezone.now() + relativedelta(months=1))
 
     class Meta:
         abstract = True
@@ -44,7 +46,6 @@ class Returning(Transaction):
         """
 
     returned = models.BooleanField(default=False)
-
     returned_date = models.DateTimeField(null=True)
     penalty_charged = models.FloatField(default=0)
 

@@ -1,0 +1,27 @@
+{% extends 'UserManager/base.html' %}
+{% block title %}
+    This is a title Bitch!!!!
+{% endblock %}
+{% block body_title %}
+    Test Page
+{% endblock %}
+{% block body_sub_title %}
+    This Page is for testing purposes, and to demonstrate the individual block elements
+{% endblock %}
+{% block body %}
+    <style>
+        span.helptext {
+            color: lightgray;
+            display: inline;
+        }
+
+        ul.errorlist {
+            list-style-image: url("/covers/ul_warning.png");
+        }
+    </style>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" name="_submit" class="btn btn-primary">Submit</button>
+    </form>
+{% endblock %}
