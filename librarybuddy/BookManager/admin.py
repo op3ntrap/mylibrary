@@ -15,17 +15,40 @@ class BookAdminForm(forms.ModelForm):
 
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
+    fields = (
+        '_Cover', 'identifier', 'identifier_value', 'title', 'description', 'authors', 'publisher', 'published_date',
+        'page_count',
+        'is_available', 'access', 'copies', 'accessibility', 'tags', 'genre',)
+    readonly_fields = ('_Cover', '_Cover_list',)
     list_display = (
-        'title', 'authors', 'is_available', 'access', 'publisher', 'published_date', 'tags', 'page_count',
-        '_book_cover')
-    list_filter = ('is_available', 'access',)
+        'title', 'authors', 'is_available', '_Cover_list', 'access', 'publisher', 'published_date', 'tags',
+        'page_count',)
+    list_filter = ('is_available', 'access', 'genre')
 
-    def _book_cover(self, obj=None):
-        return format_html('<img src="{}" />', obj.cover.url)
+    def _Cover(self, obj=None):
+        return format_html(
+                '<div><img style="Float : left" src="{}" /><img style="Float : right" height="150" width="150" src="{}" /></div><p style="clear: both;">',
+                obj.cover.url, '/covers/' + obj.identifier_value + "_qr_code.png")
 
-    _book_cover.allow_tags = True
+    _Cover.allow_tags = True
+    _Cover.short_description = "Cover"
+
+    # def _QR_Field(self, obj=None):
+    #     return format_html(
+    #             '<img style="Float : left" height="150" width="150" src="{}" /><p style="clear: both;">',
+    #             '/covers/' + obj.identifier_value + "_qr_code.png")
+
+    # _QR_Field.allow_tags = True
+    # _QR_Field.short_description = "QR Code"
+
+    def _Cover_list(self, obj=None):
+        return format_html(
+                '<img src="{}" />', obj.cover.url, '/covers/')
+
+    _Cover_list.allow_tags = True
+    _Cover_list.short_description = "Cover"
     ordering = ['title']
-    search_fields = ['identifier_value']
+    search_fields = ['identifier_value', 'title', 'authors']
     date_hierarchy = 'last_modified_on'
     actions = ['update_availability_true', 'update_availability_false']
     form = BookAdminForm

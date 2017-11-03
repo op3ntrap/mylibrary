@@ -13,7 +13,6 @@ from django.core import validators
 # from django.core.files.uploadedfile import InMemoryUploadedFile
 
 
-# TODO when return is processed following things have to be executed
 # TODO Create alert object for returning the book and alert the issuer if the book has not been returned.
 
 
@@ -30,7 +29,7 @@ class Transaction(models.Model):
     issuer = models.ForeignKey(
             'UserManager.Librarian', on_delete=models.CASCADE, )
     from datetime import datetime
-    issue_date = models.DateTimeField(default=datetime.now)
+    issue_date = models.DateTimeField(default=datetime.now, )
 
     class Meta:
         abstract = True
@@ -68,30 +67,6 @@ class Lend(Transaction):
     This class holds all the records of Lending Transactions within the library.
     """
 
-    # qrcode = models.ImageField(upload_to='qrcode', blank=True, null=True)
-    #
-    # def get_absolute_url(self):
-    #     return reverse('Lend.views.details', args=[str(self.id)])
-
-    # def generate_qrcode(self):
-    #     qr = qrcode.QRCode(
-    #             version=1,
-    #             error_correction=qrcode.constants.ERROR_CORRECT_L,
-    #             box_size=6,
-    #             border=0,
-    #     )
-    #     qr.add_data(self.get_absolute_url())
-    #     qr.make(fit=True)
-    #
-    #     img = qr.make_image()
-    #
-    #     buffer = StringIO()
-    #     img.save(buffer)
-    #     filename = 'events-%s.png' % (self.id)
-    #     filebuffer = InMemoryUploadedFile(
-    #             buffer, None, filename, 'image/png', buffer, None)
-    #     self.qrcode.save(filename, filebuffer)
-
     def update_lending_log(self, book):
         lending_log = book.lending_log
         payload = self.__dict__
@@ -108,7 +83,7 @@ class Lend(Transaction):
         if self.returning_record is None:
             return_record = Returning.objects.create(archive_id=self.archive._id, client_id=self.client.primary_id,
                                                     issue_date=self.issue_date, issuer_id=self.issuer.primary_id)
-        self.returning_record = return_record
+            self.returning_record = return_record
         # updating the availability of the book
         book_thread = apps.get_model('BookManager', model_name='Book')
         book_instance = book_thread.objects.get(_id=self.archive_id)

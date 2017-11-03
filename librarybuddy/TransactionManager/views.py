@@ -5,7 +5,6 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 
-# TODO Create the Transactional Views.
 
 def details(request, *args, **kwargs):
     pass

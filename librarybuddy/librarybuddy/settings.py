@@ -39,11 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admindocs',
-    'UserManager.apps.UsermanagerConfig',
-    'BookManager.apps.BookmanagerConfig',
-    'TransactionManager.apps.TransactionmanagerConfig',
-    'AlertManager.apps.AlertmanagerConfig',
-    'AnalyticsManager.apps.AnalyticsmanagerConfig',
+    'UserManager.apps.UserManagerConfig',
+    'BookManager.apps.BookManagerConfig',
+    'TransactionManager.apps.TransactionManagerConfig',
+    'AlertManager.apps.AlertManagerConfig',
+    'AnalyticsManager.apps.AnalyticsManagerConfig',
     'django_extensions',
     'languages',
 ]
@@ -129,5 +129,15 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATICFILES_DIRS = (
+)
 
-STATIC_ROOT = ''
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    #    'django.contrib.staticfiles.finders.DefaultStorageFinder',
+)
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'covers')
+MEDIA_URL = '/covers/'

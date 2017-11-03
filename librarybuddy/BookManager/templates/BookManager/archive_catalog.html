@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Library Buddy</title>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/BookManager/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Material Design Bootstrap -->
+    <link href="/static/BookManager/css/mdb.min.css" rel="stylesheet">
+
+    <!-- Template styles -->
+    <style rel="stylesheet">
+        /* TEMPLATE STYLES */
+
+        main {
+            margin-top: 3rem;
+            height: 100%;
+            padding-bottom: 20px;
+        }
+
+        main .card {
+            margin-bottom: 2rem;
+        }
+
+        @media only screen and (max-width: 768px) {
+            .read-more {
+                text-align: center;
+            }
+        }
+
+        .navbar {
+            background-color: #0f1a62;
+        }
+
+        footer.page-footer {
+            position: relative;
+        {#            margin-top: -234px; /* negative value of footer height */#} height: 234px;
+            width: 100%;
+            background-color: #0f1a62;
+            margin-bottom: 0;
+            margin-top: 0;
+
+        }
+
+        .navbar .btn-group .dropdown-menu a:hover {
+            color: #207155 !important;
+        }
+
+        .navbar .btn-group .dropdown-menu a:active {
+            color: #fff !important;
+        }
+
+    </style>
+    <style>
+
+        .back-to-top {
+
+            margin: 45px;
+
+            position: fixed;
+
+            bottom: 0;
+
+            right: 0;
+
+            width: auto;
+
+            height: auto;
+
+            z-index: 100;
+
+            display: none;
+
+            text-decoration: none;
+
+            color: #303f9f;
+
+            background: rgba(255, 255, 255, 0) none;
+
+        }
+
+        .back-to-top i {
+
+            font-size: 60px;
+
+        }
+    </style>
+</head>
+
+<body>
+
+
+<header>
+    <!--Navbar-->
+    <nav class="navbar navbar-default navbar-fixed-top navbar-expand-lg navbar-inverse navbar-dark ">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="/covers/logo-home.ico" alt="Brand" height="45" width="45">
+                Library Buddy
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                    <li class="nav-item btn-group">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">Filter by availability
+                        </a>
+                        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/?available=True">Available Books Only</a>
+                            <a class="dropdown-item" href="/?available=False">Currently Not Available Books</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                </ul>
+                <form class="form-inline">
+                    <input value="{{ input_param }}" class="form-control mr-sm-2" name="search_book" type="text"
+                           placeholder="Search" aria-label="Search">
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!--/.Navbar-->
+</header>
+
+<main>
+    <!--Main layout-->
+    <div class="container">
+        <a href="#" class="back-to-top" style="display: inline;">
+            <i class=" fa fa-arrow-circle-o-up"></i>
+        </a>
+        <!--Page heading-->
+        <div class="row">
+            <div class="col-md-13">
+                <h1 class="h1-responsive">Books
+                    <small class="text-muted"><b>List of Books Available</b></small>
+                </h1>
+            </div>
+        </div>
+        <!--/.Page heading-->
+        <hr>
+
+
+        {% if sections %}
+            <!--row-->
+            <div class="card-deck wow">
+                {% for card in sections %}
+
+                    <!--Card-->
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="card mb-sm-3 card-outline-primary">
+
+                            <!--Card image-->
+                            <img class="card-img-top text-center"
+                                 style="width: 100px;horiz-align:center; margin-left: 100px; margin-top:20px;"
+                                 height="auto"
+                                 width="100%"
+                                 src="{{ card.cover.url }}"
+                                 alt="{{ card.title }}">
+                            <!--Card image-->
+                            <!--Card content-->
+                            <div class="card-body text-center">
+                                <!--Title-->
+                                <h5 class="card-header">{{ card.title | truncatewords:5 }}</h5>
+                                <!--Text-->
+                                <p class="card-text text-capitalize">{{ card.description | truncatechars:200 | lower }}</p>
+                                <div class="card-block text-left">
+                                    <p style="vertical-align: middle;" class="text-center">
+                                        <a href="{{ card.urls }}" class="card-link">Google Books</a>
+                                        <a href="{{ card.urls }}" class="card-link text-right" style="align:right">Check
+                                            Availability</a>
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--/.Card-->
+
+                {% endfor %}
+            </div>
+        {% else %}
+            <p>Oops No Books were to be found. Keep looking.</p>
+        {% endif %}
+        <!--Page Custom-->
+
+        <hr>
+    </div>
+    <!--/.Main layout-->
+</main>
+
+<!--Footer-->
+<footer class="navbar navbar-default navbar-fixed-bottom" style="bottom:5%">
+    <!--Footer links-->
+    <div class="container-fluid">
+        <div class="row justify-content-around">
+            <!--First column-->
+            <div class="col-lg-3 col-md-6 ">
+                <h5 class="title font-bold mt-3 mb-4" style="color: white">About Library Buddy</h5>
+                <p style="color: white" align="left">Material Design (codenamed Quantum Paper) is a design language
+                    developed by Google.</p>
+                <p style="color: white" align="left">Material Design for Bootstrap (MDB) is a powerful Material Design
+                    UI KIT for most popular HTML, CSS,
+                    and JS framework - Bootstrap.</p>
+            </div>
+            <!--/.First column-->
+            <!--Second column-->
+            <div class="col-lg-3 col-md-6 ">
+                <h5 class="title font-bold mt-3 mb-4" style="color: white" align="rigtht">Find me on</h5>
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com" style="color: white">Facebook</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com" style="color: white">Youtube</a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com" style="color: white">Instagram</a>
+                    </li>
+                    <li>
+                        <a href="https://www.pinterest.com" style="color: white">Pinterest</a>
+                    </li>
+                </ul>
+            </div>
+            <!--/.Second column-->
+        </div>
+    </div>
+</footer>
+<!--/.Footer-->
+
+<!-- SCRIPTS -->
+
+<!-- JQuery -->
+<script type="text/javascript" src="/static/BookManager/js/jquery-3.1.1.min.js"></script>
+
+<!-- Bootstrap dropdown -->
+<script type="text/javascript" src="/static/BookManager/js/popper.min.js"></script>
+
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="/static/BookManager/js/bootstrap.min.js"></script>
+
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="/static/BookManager/js/mdb.min.js"></script>
+<script src=”//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js”></script>
+<script>
+    new WOW().init();
+</script>
+
+<!--Back to Top -->
+<script>
+
+
+    jQuery(document).ready(function () {
+
+        var offset = 950;
+
+        var duration = 5000;
+
+        jQuery(window).scroll(function () {
+
+            if (jQuery(this).scrollTop() > offset) {
+
+                jQuery('.back-to-top').fadeIn(duration);
+
+            } else {
+
+                jQuery('.back-to-top').fadeOut(duration);
+
+            }
+
+        });
+
+
+        jQuery('.back-to-top').click(function (event) {
+
+            event.preventDefault();
+
+            jQuery('html, body').animate({scrollTop: 0}, duration);
+
+            return false;
+
+        })
+
+    });
+
+
+</script>
+
+</body>
+
+</html>
