@@ -1,424 +1,2608 @@
 
-Google
-About 391,000 results (1.39 seconds) 
+Sitara Devi�s 97th birthday
+
+
+python
+
+
+AllImagesMapsBooksNewsMore
+SettingsTools
+About 4,11,000 results (0.82 seconds) 
 Search Results
-Effective Python: 59 Specific Ways to Write Better Python
-https://books.google.com/books?isbn=0134034287
-Brett Slatkin - 2015 - ‎No preview - ‎More editions
-Using Effective Python, you can systematically improve all the Python code you write: not by blindly following rules or mimicking incomprehensible idioms, but by gaining a deep understanding of the technical reasons why they make sense."- ...
 Learning Python: Powerful Object-Oriented Programming
-https://books.google.com/books?isbn=1449355692
-Mark Lutz - 2013 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1449355692
+Mark Lutz - 2013 - ?Preview - ?More editions
 Get a comprehensive, in-depth introduction to the core Python language with this hands-on book.
 Python: A Study of Delphic Myth and Its Origins
-https://books.google.com/books?isbn=0520040910
-Joseph Eddy Fontenrose - 1959 - ‎Full view - ‎More editions
+
+https://books.google.co.in/books?isbn=0520040910
+Joseph Eddy Fontenrose - 1959 - ?Full view - ?More editions
 Python
-https://books.google.com/books?isbn=0201748843
-Chris Fehily - 2002 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=0201748843
+Chris Fehily - 2002 - ?Preview - ?More editions
 This guide contains cross-platform coverage for the Mac, Windows, and Unix environments as it teaches techniques for cookies, session management, and integration with XML.
-Python for Kids: A Playful Introduction to Programming
-https://books.google.com/books?isbn=1593274076
-Jason R. Briggs - 2013 - ‎Preview - ‎More editions
-Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter.
-Python Programming: An Introduction to Computer Science
-https://books.google.com/books?isbn=1887902996
-John M. Zelle - 2004 - ‎Preview - ‎More editions
-This book is suitable for use in a university-level first course in computing (CS1), as well as the increasingly popular course known as CS0.
-Natural Language Processing with Python: Analyzing Text with the ...
-https://books.google.com/books?isbn=0596555717
-Steven Bird, ‎Ewan Klein, ‎Edward Loper - 2009 - ‎Preview - ‎More editions
-This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.
 A Primer on Scientific Programming with Python
-https://books.google.com/books?isbn=3662498871
-Hans Petter Langtangen - 2016 - ‎Preview - ‎More editions
-F. H. Wild III, Choice, Vol. 47 (8), April 2010 Those of us who have learned scientific programming in Python ‘on the streets’ could be a little jealous of students who have the opportunity to take a course out of Langtangen’s Primer ...
-Core Python Programming
-https://books.google.com/books?isbn=0137061595
-Wesley J Chun - 2006 - ‎Preview - ‎More editions
-After you learn the core fundamentals of Python, he shows you what you can do with your new skills, delving into advanced topics, such as regular expressions, networking programming with sockets, multithreading, GUI development, Web/CGI ...
-Python Machine Learning
-https://books.google.com/books?isbn=1783555149
-Sebastian Raschka - 2015 - ‎Preview - ‎More editions
-Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analytics About This Book Leverage Python's most powerful open-source libraries for deep learning, data wrangling, and data visualization Learn ...
-Python for Bioinformatics
-https://books.google.com/books?isbn=1449613071
-Jason Kinser - 2010 - ‎Preview - ‎More editions
-Important Notice: The digital edition of this book is missing some of the images or content found in the physical edition.
+
+https://books.google.co.in/books?isbn=3662498871
+Hans Petter Langtangen - 2016 - ?Preview - ?More editions
+F. H. Wild III, Choice, Vol. 47 (8), April 2010 Those of us who have learned scientific programming in Python �on the streets� could be a little jealous of students who have the opportunity to take a course out of Langtangen�s Primer ...
+Python for Kids: A Playful Introduction to Programming
+
+https://books.google.co.in/books?isbn=1593274076
+Jason R. Briggs - 2013 - ?Preview - ?More editions
+Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter.
+Natural Language Processing with Python: Analyzing Text with the ...
+
+https://books.google.co.in/books?isbn=0596555717
+Steven Bird, ?Ewan Klein, ?Edward Loper - 2009 - ?Preview - ?More editions
+This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.
 Think Python
-https://books.google.com/books?isbn=144933072X
-Allen Downey - 2012 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=144933072X
+Allen Downey - 2012 - ?Preview - ?More editions
 "How to think like a computer scientist"--Cover.
-Python: Create - Modify - Reuse
-https://books.google.com/books?isbn=0470419598
-James O. Knowlton - 2008 - ‎Preview - ‎More editions
-Taking a real-world approach, the book explains how Python can be used to solve programming problems. It includes a Python refresher or primer for programmers new to Python.
-Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
-https://books.google.com/books?isbn=1491957638
-Wes McKinney - 2017 - ‎Preview - ‎More editions
-You’ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python.
-Python Essential Reference
-https://books.google.com/books?isbn=0768687020
-David Beazley - 2009 - ‎Preview - ‎More editions
-This fourth edition of Python Essential Reference features numerous improvements, additions, and updates: Coverage of new language features, libraries, and modules Practical coverage of Python's more advanced features including generators, ...
-Text Processing in Python
-https://books.google.com/books?isbn=0321112547
-David Mertz - 2003 - ‎Preview
-A companion Web site (http: //gnosis.cx/TPiP) contains source code and examples from the book. Here is some of what you will find in thie book: When do I use formal parsers to process structured and semi-structured data?
-Python in a Nutshell: A Desktop Quick Reference
-https://books.google.com/books?isbn=1449379109
-Alex Martelli - 2006 - ‎Preview - ‎More editions
-This book will immediately earn its place in any Pythonprogrammer's library. Praise for the First Edition: "In a nutshell, Python in a Nutshell serves oneprimary goal: to act as an immediately accessible goal for the Pythonlanguage.
-Python Programming for Biology
-https://books.google.com/books?isbn=0521895839
-Tim J. Stevens, ‎Wayne Boucher - 2015 - ‎Preview - ‎More editions
-This book introduces Python as a powerful tool for the investigation of problems in computational biology, for novices and experienced programmers alike.
-Python Scripting for Computational Science
-https://books.google.com/books?isbn=3540739157
-Hans Petter Langtangen - 2009 - ‎Preview - ‎More editions
-All the tools and examples in this book are open source codes. This third edition features lots of new material. It is also released after a comprehensive reorganization of the text.
-Programming Python: Powerful Object-Oriented Programming
-https://books.google.com/books?isbn=1449302750
-Mark Lutz - 2010 - ‎Preview - ‎More editions
-This book focuses on commonly used tools and libraries to give you a comprehensive understanding of Python’s many roles in practical, real-world programming.
-Programming Computer Vision with Python: Tools and Algorithms for ...
-https://books.google.com/books?isbn=1449316549
-Jan Solem - 2012 - ‎Preview - ‎More editions
-A guide to computer vision offers complete code samples with explanations and exercises, with information on such topics as object recognition, 3D reconstruction, stereo imaging, and augmented reality.
-Violent Python: A Cookbook for Hackers, Forensic Analysts, ...
-https://books.google.com/books?isbn=1597499641
-TJ O'Connor - 2012 - ‎Preview - ‎More editions
-This book demonstrates how to write Python scripts to automate large-scale network attacks, extract metadata, and investigate forensic artifacts.
-PYTHON 36 TUTORIAL
-https://books.google.com/books?isbn=9888406906
-Guido Van Rossum, ‎Python Dev Team - 2016 - ‎No preview - ‎More editions
-Python is just the language for you. This book is a paper version of the freely available electronic documentation of the python project.
-How to Think Like a Computer Scientist: Learning with Python
-https://books.google.com/books?isbn=0975058347
-Allen Downey, ‎Jeffrey Elkner - 2002 - ‎No preview - ‎More editions
-Here you'll find a short introduction to Logo as a general purpose programming language, as opposed to its limited educational use with turtle graphics.
-Automate the Boring Stuff with Python: Practical Programming for ...
-https://books.google.com/books?isbn=1593275994
-Al Sweigart - 2015 - ‎Preview - ‎More editions
-Even if you’ve never written a line of code, you can make your computer do the grunt work. Learn how in Automate the Boring Stuff with Python. Note: The programs in this book are written to run on Python 3.
-Black Hat Python: Python Programming for Hackers and Pentesters
-https://books.google.com/books?isbn=1593275900
-Justin Seitz - 2014 - ‎Preview - ‎More editions
-In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you’ll explore the darker side of Python’s capabilities—writing network sniffers, manipulating packets, infecting virtual machines, ...
-Gray Hat Python: Python Programming for Hackers and Reverse Engineers
-https://books.google.com/books?isbn=1593271921
-Justin Seitz - 2009 - ‎Preview - ‎More editions
-"Gray Hat Python," the first Python book written for advanced security analysts, explains the intricacies of using Python to assist in a range of security analysis tasks.
-Making Use of Python
-https://books.google.com/books?isbn=0471449385
-Rashi Gupta - 2003 - ‎Preview - ‎More editions
-With its unique task-oriented approach, this book explores the language basics and then describes how to quickly begin using it for development work.
-Python: Visual QuickStart Guide
-https://books.google.com/books?isbn=0133435156
-Toby Donaldson - 2013 - ‎Preview - ‎More editions
-At the end of the book, a special section walks you through a longer, realistic application, tying the concepts of the book together.
-Adventures in Python
-https://books.google.com/books?isbn=1118951794
-Craig Richardson - 2015 - ‎Preview - ‎More editions
-Original. Ready to learn Python programming? This is the place to start!
-Python for Unix and Linux System Administration
-https://books.google.com/books?isbn=0596515820
-Noah Gift, ‎Jeremy Jones - 2008 - ‎Preview - ‎More editions
-A guide to using the Python computer language to handle a variety of tasks in both the Unix and Linux servers.
-The Python Programming Language
-https://books.google.com/books?isbn=076374316X
-Bradley N. Miller, ‎David L. Ranum - 2006 - ‎Preview
-An Excellent Supplement To Computer Science Illuminated, As Well As A Superb Primer, Computer Science: The Python Programming Language Offers A Clear Introduction To This User-Friendly Language.
-Functional Python Programming
-https://books.google.com/books?isbn=178439761X
-Steven Lott - 2015 - ‎Preview - ‎More editions
-This book is for developers who want to use Python to write programs that lean heavily on functional programming design patterns.
-Python Programming On Win32: Help for Windows Programmers
-https://books.google.com/books?isbn=1565926218
-Mark Hammond, ‎Andy Robinson - 2000 - ‎Preview - ‎More editions
-A demonstration of Python's basic technologies showcases the programming language's possiblities as a Windows development and administration tool.
-Bioinformatics Programming in Python: A Practical Course for Beginners
-https://books.google.com/books?isbn=3527644903
-Ruediger-Marcus Flaig - 2011 - ‎Preview - ‎More editions
-This first introductory book designed to train novice programmers is based on a student course taught by the author, and has been optimized for biology students without previous experience in programming.
-Python for Informatics: Exploring Information
-https://books.google.com/books?isbn=1492339245
-Charles R. Severance, ‎Charles Severance - 2013 - ‎No preview - ‎More editions
-All the supporting materials for the book are available under open and remixable licenses. This book is designed to teach people to program even if they have no prior experience.
-Python Cookbook
-https://books.google.com/books?isbn=0596554745
-Alex Martelli, ‎Anna Ravenscroft, ‎David Ascher - 2005 - ‎Preview - ‎More editions
-Python's advantages in the system administration domain are also quite familiar to other Python programmers,but Python's competition is different. On Unix platforms,at any rate,the landscape is dominated by a handful of lightweight languages ...
+Core Python Programming
+
+https://books.google.co.in/books?isbn=0137061595
+Wesley J Chun - 2006 - ?Preview - ?More editions
+After you learn the core fundamentals of Python, he shows you what you can do with your new skills, delving into advanced topics, such as regular expressions, networking programming with sockets, multithreading, GUI development, Web/CGI ...
+Python Programming: An Introduction to Computer Science
+
+https://books.google.co.in/books?isbn=1887902996
+John M. Zelle - 2004 - ?Preview - ?More editions
+This book is suitable for use in a university-level first course in computing (CS1), as well as the increasingly popular course known as CS0.
 Next-Generation Web Frameworks in Python
-https://books.google.com/books?isbn=0596513712
-Liza Daly - 2007 - ‎Preview
+
+https://books.google.co.in/books?isbn=0596513712
+Liza Daly - 2007 - ?Preview
 With its flexibility, readability, and maturecode libraries, Python is a naturalchoice for developing agile and maintainableweb applications.
-The Quick Python Book
-https://books.google.com/books?isbn=1617294039
-Naomi Ceder - 2017 - ‎No preview
-This edition covers 5 years worth of minor updates to the language, and the last 5 chapters have been reworked to be data based project work.
-Fundamentals of Python: From First Programs through Data Structures
-https://books.google.com/books?isbn=1423902181
-Kenneth A. Lambert - 2009 - ‎Preview - ‎More editions
-The book uses the Python programming language, which is both easy to learn for beginners and scales well to advanced applications.
-PYTHON 36 C API
-https://books.google.com/books?isbn=9888406868
-Guido Van Rossum, ‎Python Dev Team - 2016 - ‎No preview - ‎More editions
-This book is a paper version of the freely available electronic documentation of the python project.
-Pro Python
-https://books.google.com/books?isbn=1430227575
-Marty Alchin - 2010 - ‎Preview - ‎More editions
-Design complete frameworks and libraries (two are included in the book!). For more information, including a link to the source code referenced in the book, please visit http://propython.com/.
-Scientific Computing with Python 3
-https://books.google.com/books?isbn=1786463644
-Claus Fuhrer, ‎Jan Erik Solem, ‎Olivier Verdier - 2016 - ‎Preview - ‎More editions
-An example-rich, comprehensive guide for all of your Python computational needs About This Book Your ultimate resource for getting up and running with Python numerical computations Explore numerical computing and mathematical libraries ...
-Python Programming for the Absolute Beginner, Third Edition
-https://books.google.com/books?isbn=1435456017
-Michael Dawson - 2010 - ‎Preview - ‎More editions
-If you are new to programming with Python and are looking for a solid introduction, this is the book for you.
-Python Power!: The Comprehensive Guide
-https://books.google.com/books?isbn=1598631594
-Matt Telles - 2008 - ‎Preview - ‎More editions
-"Python Power!: The Comprehensive Guide" shows readers how to use Python to run Web
-Python For Kids For Dummies
-https://books.google.com/books?isbn=1119093104
-Brendan Scott - 2015 - ‎Preview - ‎More editions
-Want to learn coding? Python is a great place to start! This book includes 10 fun step-by-step projects that help you learn coding basics with Python while you create guessing games, a geek-speak translator, and more!
+Python for Bioinformatics
+
+https://books.google.co.in/books?isbn=1449613071
+Jason Kinser - 2010 - ?Preview - ?More editions
+Important Notice: The digital edition of this book is missing some of the images or content found in the physical edition.
+Python Machine Learning
+
+https://books.google.co.in/books?isbn=1783555149
+Sebastian Raschka - 2015 - ?Preview - ?More editions
+Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analytics About This Book Leverage Python's most powerful open-source libraries for deep learning, data wrangling, and data visualization Learn ...
+Gray Hat Python: Python Programming for Hackers and Reverse Engineers
+
+https://books.google.co.in/books?isbn=1593271921
+Justin Seitz - 2009 - ?Preview - ?More editions
+"Gray Hat Python," the first Python book written for advanced security analysts, explains the intricacies of using Python to assist in a range of security analysis tasks.
+Python in a Nutshell: A Desktop Quick Reference
+
+https://books.google.co.in/books?isbn=1449379109
+Alex Martelli - 2006 - ?Preview - ?More editions
+This book will immediately earn its place in any Pythonprogrammer's library. Praise for the First Edition: "In a nutshell, Python in a Nutshell serves oneprimary goal: to act as an immediately accessible goal for the Pythonlanguage.
+Python: Create - Modify - Reuse
+
+https://books.google.co.in/books?isbn=0470419598
+James O. Knowlton - 2008 - ?Preview - ?More editions
+Taking a real-world approach, the book explains how Python can be used to solve programming problems. It includes a Python refresher or primer for programmers new to Python.
+Programming Python: Powerful Object-Oriented Programming
+
+https://books.google.co.in/books?isbn=1449302750
+Mark Lutz - 2010 - ?Preview - ?More editions
+This book focuses on commonly used tools and libraries to give you a comprehensive understanding of Python�s many roles in practical, real-world programming.
+Text Processing in Python
+
+https://books.google.co.in/books?isbn=0321112547
+David Mertz - 2003 - ?Preview
+A companion Web site (http: //gnosis.cx/TPiP) contains source code and examples from the book. Here is some of what you will find in thie book: When do I use formal parsers to process structured and semi-structured data?
+PYTHON 36 TUTORIAL
+
+https://books.google.co.in/books?isbn=9888406906
+Guido Van Rossum, ?Python Dev Team - 2016 - ?No preview - ?More editions
+Python is just the language for you. This book is a paper version of the freely available electronic documentation of the python project.
+Python Essential Reference
+
+https://books.google.co.in/books?isbn=0768687020
+David Beazley - 2009 - ?Preview - ?More editions
+This fourth edition of Python Essential Reference features numerous improvements, additions, and updates: Coverage of new language features, libraries, and modules Practical coverage of Python's more advanced features including generators, ...
+Programming Computer Vision with Python: Tools and Algorithms for ...
+
+https://books.google.co.in/books?isbn=1449316549
+Jan Solem - 2012 - ?Preview - ?More editions
+A guide to computer vision offers complete code samples with explanations and exercises, with information on such topics as object recognition, 3D reconstruction, stereo imaging, and augmented reality.
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
+
+https://books.google.co.in/books?isbn=1491957611
+Wes McKinney - 2017 - ?Preview - ?More editions
+You�ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python.
+Python Scripting for Computational Science
+
+https://books.google.co.in/books?isbn=3540739157
+Hans Petter Langtangen - 2009 - ?Preview - ?More editions
+All the tools and examples in this book are open source codes. This third edition features lots of new material. It is also released after a comprehensive reorganization of the text.
+Adventures in Python
+
+https://books.google.co.in/books?isbn=1118951794
+Craig Richardson - 2015 - ?Preview - ?More editions
+Original. Ready to learn Python programming? This is the place to start!
 Python Crash Course: A Hands-On, Project-Based Introduction to ...
-https://books.google.com/books?isbn=1593276036
-Eric Matthes - 2015 - ‎Preview - ‎More editions
-In the first half of the book, you’ll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic.
-Python for Rookies: A First Course in Programming
-https://books.google.com/books?isbn=1844807010
-Sarah Mount, ‎James Shuttleworth, ‎Russel Winder - 2008 - ‎Preview - ‎More editions
-The book covers programming from small script-style applications to larger pieces of software. The emphasis remains on problem-solving, even through the introduction of common libraries and object-oriented programming.
-Hacking Secret Ciphers With Python
-https://books.google.com/books?isbn=1482614375
-Al Sweigart - 2013 - ‎No preview
-This book teaches you how to write your own cipher programs and also the hacking programs that can break the encrypted messages from these ciphers.
-Python For Dummies
-https://books.google.com/books?isbn=1118084845
-Stef Maruch, ‎Aahz Maruch - 2011 - ‎Preview - ‎More editions
-This guide gives you the tools you need to: Master basic elements and syntax Document, design, and debug programs Work with strings like a pro Direct a program with control structures Integrate integers, complex numbers, and modules Build ...
+
+https://books.google.co.in/books?isbn=1593276036
+Eric Matthes - 2015 - ?Preview - ?More editions
+In the first half of the book, you�ll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic.
+Python Programming for Biology
+
+https://books.google.co.in/books?isbn=0521895839
+Tim J. Stevens, ?Wayne Boucher - 2015 - ?Preview - ?More editions
+This book introduces Python as a powerful tool for the investigation of problems in computational biology, for novices and experienced programmers alike.
+Black Hat Python: Python Programming for Hackers and Pentesters
+
+https://books.google.co.in/books?isbn=1593275900
+Justin Seitz - 2014 - ?Preview - ?More editions
+In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you�ll explore the darker side of Python�s capabilities�writing network sniffers, manipulating packets, infecting virtual machines, ...
+Effective Python: 59 Specific Ways to Write Better Python
+
+https://books.google.co.in/books?isbn=0134034406
+Brett Slatkin - 2015 - ?Preview - ?More editions
+�Each item in Slatkin�s Effective Python teaches a self-contained lesson with its own source code. This makes the book random-access: Items are easy to browse and study in whatever order the reader needs.
+Python: Visual QuickStart Guide
+
+https://books.google.co.in/books?isbn=0133435156
+Toby Donaldson - 2013 - ?Preview - ?More editions
+At the end of the book, a special section walks you through a longer, realistic application, tying the concepts of the book together.
+Making Use of Python
+
+https://books.google.co.in/books?isbn=0471449385
+Rashi Gupta - 2003 - ?Preview - ?More editions
+With its unique task-oriented approach, this book explores the language basics and then describes how to quickly begin using it for development work.
+Python for Unix and Linux System Administration
+
+https://books.google.co.in/books?isbn=0596515820
+Noah Gift, ?Jeremy Jones - 2008 - ?Preview - ?More editions
+A guide to using the Python computer language to handle a variety of tasks in both the Unix and Linux servers.
+Violent Python: A Cookbook for Hackers, Forensic Analysts, ...
+
+https://books.google.co.in/books?isbn=1597499641
+TJ O'Connor - 2012 - ?Preview - ?More editions
+This book demonstrates how to write Python scripts to automate large-scale network attacks, extract metadata, and investigate forensic artifacts.
+Python Programming for the Absolute Beginner, Third Edition
+
+https://books.google.co.in/books?isbn=1435456017
+Michael Dawson - 2010 - ?Preview - ?More editions
+If you are new to programming with Python and are looking for a solid introduction, this is the book for you.
+PYTHON 36 C API
+
+https://books.google.co.in/books?isbn=9888406868
+Guido Van Rossum, ?Python Dev Team - 2016 - ?No preview - ?More editions
+This book is a paper version of the freely available electronic documentation of the python project.
+Python Programming On Win32: Help for Windows Programmers
+
+https://books.google.co.in/books?isbn=1565926218
+Mark Hammond, ?Andy Robinson - 2000 - ?Preview - ?More editions
+A demonstration of Python's basic technologies showcases the programming language's possiblities as a Windows development and administration tool.
+Python for Informatics: Exploring Information
+
+https://books.google.co.in/books?isbn=1492339245
+Charles Severance - 2013 - ?No preview - ?More editions
+All the supporting materials for the book are available under open and remixable licenses at the www.py4inf.com web site. This book is designed to teach people to program even if they have no prior experience. This book covers Python 2.
+Functional Python Programming
+
+https://books.google.co.in/books?isbn=178439761X
+Steven Lott - 2015 - ?Preview - ?More editions
+This book is for developers who want to use Python to write programs that lean heavily on functional programming design patterns.
+Scientific Computing with Python 3
+
+https://books.google.co.in/books?isbn=1786463644
+Claus Fuhrer, ?Jan Erik Solem, ?Olivier Verdier - 2016 - ?Preview - ?More editions
+An example-rich, comprehensive guide for all of your Python computational needs About This Book Your ultimate resource for getting up and running with Python numerical computations Explore numerical computing and mathematical libraries ...
+Bioinformatics Programming in Python: A Practical Course for Beginners
+
+https://books.google.co.in/books?isbn=3527644903
+Ruediger-Marcus Flaig - 2011 - ?Preview - ?More editions
+This first introductory book designed to train novice programmers is based on a student course taught by the author, and has been optimized for biology students without previous experience in programming.
 OpenCV Computer Vision with Python
-https://books.google.com/books?isbn=178216393X
-Joseph Howse - 2013 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=178216393X
+Joseph Howse - 2013 - ?Preview - ?More editions
 A practical, project-based tutorial for Python developers and hobbyists who want to get started with computer vision with OpenCV and Python.OpenCV Computer Vision with Python is written for Python developers who are new to computer vision ...
-Fundamentals of Python: First Programs
-https://books.google.com/books?isbn=1133715281
-Kenneth A. Lambert - 2011 - ‎Preview - ‎More editions
+Python For Kids For Dummies - Page BE-1
+
+https://books.google.co.in/books?isbn=1119093104
+Brendan Scott - 2015 - ?Preview - ?More editions
+Want to learn coding? Python is a great place to start! This book includes 10 fun step-by-step projects that help you learn coding basics with Python while you create guessing games, a geek-speak translator, and more!
+Head First Python: A Brain-Friendly Guide
+
+https://books.google.co.in/books?isbn=1449360432
+Paul Barry - 2010 - ?Preview - ?More editions
+Head First Python is a complete learning experience for Python that helps you learn the language through a unique method that goes beyond syntax and how-to manuals, helping you understand how to be a great Python programmer.
+Fundamentals of Python: From First Programs through Data Structures
+
+https://books.google.co.in/books?isbn=1423902181
+Kenneth A. Lambert - 2009 - ?Preview - ?More editions
 The book uses the Python programming language, which is both easy to learn for beginners and scales well to advanced applications.
-The Spirit of Python: Exposing Satan's Plan to Squeeze the Life Out ...
-https://books.google.com/books?isbn=1621362205
-Jentezen Franklin - 2013 - ‎Preview - ‎More editions
-But there is a way to defeat him. You don't have to become his prey. The Spirit of Python helps you understand the strategies of this subtle destroyer, how he works, how to detect him, and how to break his hold from your life.
-Computational Physics: Problem Solving with Python
-https://books.google.com/books?isbn=3527413154
-Rubin H. Landau, ‎Manuel J PÃ¡ez, ‎Cristian C. Bordeianu - 2015 - ‎Preview - ‎More editions
+The Python Programming Language
+
+https://books.google.co.in/books?isbn=076374316X
+Bradley N. Miller, ?David L. Ranum - 2006 - ?Preview
+An Excellent Supplement To Computer Science Illuminated, As Well As A Superb Primer, Computer Science: The Python Programming Language Offers A Clear Introduction To This User-Friendly Language.
+Digital Signal Processing (DSP) with Python Programming
+
+https://books.google.co.in/books?isbn=1119373034
+Maurice Charbit - 2017 - ?Preview - ?More editions
+These techniques occur in many applications of data processing., and methods of Monte Carlo have become an essential tool to assess performance. For pedagogical purposes the book includes several computational problems and exercices.
+Python Power!: The Comprehensive Guide
+
+https://books.google.co.in/books?isbn=1598631594
+Matt Telles - 2008 - ?Preview - ?More editions
+"Python Power!: The Comprehensive Guide" shows readers how to use Python to run Web
+Python For Dummies
+
+https://books.google.co.in/books?isbn=1118084845
+Stef Maruch, ?Aahz Maruch - 2011 - ?Preview - ?More editions
+This guide gives you the tools you need to: Master basic elements and syntax Document, design, and debug programs Work with strings like a pro Direct a program with control structures Integrate integers, complex numbers, and modules Build ...
+Python Cookbook
+
+https://books.google.co.in/books?isbn=0596554745
+Alex Martelli, ?Anna Ravenscroft, ?David Ascher - 2005 - ?Preview - ?More editions
+Python's advantages in the system administration domain are also quite familiar to other Python programmers,but Python's competition is different. On Unix platforms,at any rate,the landscape is dominated by a handful of lightweight languages ...
+Python for Rookies: A First Course in Programming
+
+https://books.google.co.in/books?isbn=1844807010
+Sarah Mount, ?James Shuttleworth, ?Russel Winder - 2008 - ?Preview - ?More editions
+The book covers programming from small script-style applications to larger pieces of software. The emphasis remains on problem-solving, even through the introduction of common libraries and object-oriented programming.
+Python and XML
+
+https://books.google.co.in/books?isbn=0596001282
+Christopher A. Jones, ?Fred L. Drake - 2002 - ?Preview - ?More editions
+Python and XML provides a solid foundation for developers using XML with Python. Loaded with practical examples, this book highlights common application tasks so that you can learn by doing.
+Automate the Boring Stuff with Python: Practical Programming for ...
+
+https://books.google.co.in/books?isbn=1593275994
+Al Sweigart - 2015 - ?Preview - ?More editions
+Even if you�ve never written a line of code, you can make your computer do the grunt work. Learn how in Automate the Boring Stuff with Python. Note: The programs in this book are written to run on Python 3.
+Fundamentals of Python: First Programs
+
+https://books.google.co.in/books?isbn=1133715281
+Kenneth A. Lambert - 2011 - ?Preview - ?More editions
+The book uses the Python programming language, which is both easy to learn for beginners and scales well to advanced applications.
+The Quick Python Book
+
+https://books.google.co.in/books?isbn=1617294039
+Naomi Ceder - 2017 - ?No preview
+This edition covers 5 years worth of minor updates to the language, and the last 5 chapters have been reworked to be data based project work.
+Python For ArcGIS
+
+https://books.google.co.in/books?isbn=3319183982
+Laura Tateosian - 2016 - ?Preview - ?More editions
+This book introduces Python scripting for geographic information science (GIS) workflow optimization using ArcGIS.
+Programming in Python 3: A Complete Introduction to the Python Language
+
+https://books.google.co.in/books?isbn=0321680561
+Mark Summerfield - 2010 - ?Preview - ?More editions
+Python has no native support for GUI (Graphical User Interface) programming, but this isn't a problem since many GUI libraries written in other languages can be used by Python programmers. This is possible because many GUI libraries have ...
+Effective Python: 59 Specific Ways to Write Better Python - Page 2
+
+https://books.google.co.in/books?isbn=0134034406
+Brett Slatkin - 2015 - ?Preview - ?More editions
+Python 3 is usually available under the name python3. $ python3 --version Python 3.4.2 You can also figure out the version of Python you're using at runtime by inspecting values in the sys built-in module. import sys print(sys.version_info) ...
+The Hacker's Guide to Python:
+
+https://books.google.co.in/books?id=B6nhAwAAQBAJ
+Julien Danjou - 2016 - ?Preview - ?More editions
+In this book, we'll see how you can leverage Python to efficiently tackle your problems and build great Python applications.
+Hacking Secret Ciphers With Python
+
+https://books.google.co.in/books?isbn=1482614375
+Al Sweigart - 2013 - ?No preview
+This book teaches you how to write your own cipher programs and also the hacking programs that can break the encrypted messages from these ciphers.
+Python Geospatial Development
+
+https://books.google.co.in/books?isbn=1782174982
+Erik Westra - 2016 - ?Preview - ?More editions
+Develop sophisticated mapping applications from scratch using Python 3 tools for geospatial development About This Book Build web applications based around maps and geospatial data using Python 3.x Install and use various toolkits and ...
+Computational Physics: Problem Solving with Python - Page 115
+
+https://books.google.co.in/books?isbn=3527413154
+Rubin H. Landau, ?Manuel J Páez, ?Cristian C. Bordeianu - 2015 - ?Preview - ?More editions
 This upper-division text provides an unusually broad survey of the topics of modern computational physics from a multidisciplinary, computational science point of view.
 Beginning Game Development with Python and Pygame: From Novice to ...
-https://books.google.com/books?isbn=1430203250
-Will McGugan - 2007 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1430203250
+Will McGugan - 2007 - ?Preview - ?More editions
 This book provides readers with an introductory resource for learning how to create compelling games using the open source Python programming language and Pygame games development library.
-The Hacker's Guide to Python:
-https://books.google.com/books?id=B6nhAwAAQBAJ
-Julien Danjou - 2016 - ‎Preview - ‎More editions
-In this book, we'll see how you can leverage Python to efficiently tackle your problems and build great Python applications.
-Python Programming in Context
-https://books.google.com/books?isbn=1449613098
-Bradley N. Miller, ‎David L. Ranum - 2010 - ‎Preview - ‎More editions
-Programming skills throughout the text are linked to applied areas such as Image Processing, Cryptography, Astronomy, Music, the Internet, and Bioinformatics, giving students a well rounded look of its capabilities.
 Python Pocket Reference: Python in Your Pocket
-https://books.google.com/books?isbn=1449379338
-Mark Lutz - 2009 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1449379338
+Mark Lutz - 2009 - ?Preview - ?More editions
 This is the book to reach for when you're coding on the fly and need an answer now.
-Digital Signal Processing (DSP) with Python Programming
-https://books.google.com/books?isbn=1786301261
-Maurice Charbit - 2017 - ‎Preview - ‎More editions
-These techniques occur in many applications of data processing., and methods of Monte Carlo have become an essential tool to assess performance. For pedagogical purposes the book includes several computational problems and exercices.
-Introduction to Python Programming and Developing GUI Applications ...
-https://books.google.com/books?isbn=1435460987
-B.M. Harwani - 2011 - ‎Preview - ‎More editions
-This is a great book for newbie programmers interested in learning Python
 Expert Python Programming
-https://books.google.com/books?isbn=1847194958
-Tarek Ziade - 2008 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1847194958
+Tarek Ziade - 2008 - ?Preview - ?More editions
 Best practices for designing, coding, and distributing your Python software.
-Python For ArcGIS
-https://books.google.com/books?isbn=3319183982
-Laura Tateosian - 2016 - ‎Preview - ‎More editions
-This book introduces Python scripting for geographic information science (GIS) workflow optimization using ArcGIS.
+PYTHON 36 LANGUAGE REF
+
+https://books.google.co.in/books?isbn=9888406884
+Guido Van Rossum, ?Python Dev Team - 2016 - ?No preview
+This reference manual describes the syntax and "core semantics" of the language. It is terse, but attempts to be exact and complete. This book is a paper version of the freely available electronic documentation of the python project.
+Introduction to Python Programming and Developing GUI Applications ...
+
+https://books.google.co.in/books?isbn=1435460987
+B.M. Harwani - 2011 - ?Preview - ?More editions
+This is a great book for newbie programmers interested in learning Python
+Python Programming in Context
+
+https://books.google.co.in/books?isbn=1449613098
+Bradley N. Miller, ?David L. Ranum - 2010 - ?Preview - ?More editions
+Programming skills throughout the text are linked to applied areas such as Image Processing, Cryptography, Astronomy, Music, the Internet, and Bioinformatics, giving students a well rounded look of its capabilities.
 Numerical Methods in Engineering with Python
-https://books.google.com/books?isbn=113948415X
-Jaan Kiusalaas - 2010 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=113948415X
+Jaan Kiusalaas - 2010 - ?Preview - ?More editions
 Second Edition Numerical Methods in Engineering with Python, Second Edition, is a text for engineering students and a reference for practicing engineers, especially those who wish to explore Python. This new edition features 18 additional ...
-Python Geospatial Development
-https://books.google.com/books?isbn=1782174982
-Erik Westra - 2016 - ‎Preview - ‎More editions
-Develop sophisticated mapping applications from scratch using Python 3 tools for geospatial development About This Book Build web applications based around maps and geospatial data using Python 3.x Install and use various toolkits and ...
+The Spirit of Python: Exposing Satan's Plan to Squeeze the Life Out ...
+
+https://books.google.co.in/books?isbn=1621362205
+Jentezen Franklin - 2013 - ?Preview - ?More editions
+But there is a way to defeat him. You don't have to become his prey. The Spirit of Python helps you understand the strategies of this subtle destroyer, how he works, how to detect him, and how to break his hold from your life.
 Beginning Python: From Novice to Professional - Page 21
-https://books.google.com/books?isbn=1430200723
-Magnus Lie Hetland - 2006 - ‎Preview - ‎More editions
-or UNIX: $ python hello.py As you can see, the command is the same. Only the system prompt changes. □Note. If you don't want to mess with environment variables, you can simply specify the full path of the Python interpreter. In Windows ...
+
+https://books.google.co.in/books?isbn=1430200723
+Magnus Lie Hetland - 2006 - ?Preview - ?More editions
+or UNIX: $ python hello.py As you can see, the command is the same. Only the system prompt changes. ?Note. If you don't want to mess with environment variables, you can simply specify the full path of the Python interpreter. In Windows ...
+Beginning Programming with Python For Dummies
+
+https://books.google.co.in/books?isbn=1118891473
+John Paul Mueller - 2014 - ?Preview - ?More editions
+Beginning Programming with Python For Dummies is the perfect guide to this dynamic and powerful programming language�even if you've never coded before!
+Treading on Python Volume 1: Foundations of Python
+
+https://books.google.co.in/books?isbn=1475266413
+Matt Harrison, ?Shannon -jj Behrens - 2012 - ?Preview
+Treading on Python is designed to bring developers and others who are anxious to learn Python up to speed quickly.
+Python Programming Techniques: The Art of Coding and Programming ...
+
+https://books.google.co.in/books?isbn=1632873338
+Lance Gifford - 2014 - ?Preview - ?More editions
+Coding and programming can be tricky and this text explains how the pitfalls can be avoided when in the long run.
+Mathematics and Python Programming
+
+https://books.google.co.in/books?isbn=1326017969
+J.C. Bautista - 2014 - ?Preview
+The book begins with a detailed introduction to Python, followed by ten chapters of mathematics with its corresponding Python programs, results and graphs."--Cover.
+Think Bayes: Bayesian Statistics in Python
+
+https://books.google.co.in/books?isbn=1491945435
+Allen B. Downey - 2013 - ?Preview - ?More editions
+With this book, you'll learn how to solve statistical problems with Python code instead of mathematical notation, and use discrete probability distributions instead of continuous mathematics.
 Practical Maya Programming with Python
-https://books.google.com/books?isbn=1849694737
-Robert Galanakis - 2014 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1849694737
+Robert Galanakis - 2014 - ?Preview - ?More editions
 If you are a developer looking to build a powerful system using Python and Maya's capabilities, then this book is for you.
 Python for Data Science For Dummies
-https://books.google.com/books?isbn=1118843983
-John Paul Mueller, ‎Luca Massaron - 2015 - ‎Preview - ‎More editions
-See why Python works for data science — tour the data science pipeline and learn about Python's basic capabilities Get set up — install Python, download datasets and example code, and start working with numbers and logic, creating ...
-Think Bayes: Bayesian Statistics in Python
-https://books.google.com/books?isbn=1491945435
-Allen B. Downey - 2013 - ‎Preview - ‎More editions
-With this book, you'll learn how to solve statistical problems with Python code instead of mathematical notation, and use discrete probability distributions instead of continuous mathematics.
-PYTHON 36 LANGUAGE REF
-https://books.google.com/books?isbn=9888406884
-Guido Van Rossum, ‎Python Dev Team - 2016 - ‎No preview
-This reference manual describes the syntax and "core semantics" of the language. It is terse, but attempts to be exact and complete. This book is a paper version of the freely available electronic documentation of the python project.
-Learning Python Network Programming
-https://books.google.com/books?isbn=1784391158
-Dr. M. O. Faruque Sarker, ‎Sam Washington - 2015 - ‎Preview - ‎More editions
-Starting with a walkthrough of today's major networking protocols, with this book you'll learn how to employ Python for network programming, how to request and retrieve web resources, and how to extract data in major formats over the Web.
-Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours
-https://books.google.com/books?isbn=0133490173
-Richard Blum, ‎Christine Bresnahan - 2013 - ‎Preview - ‎More editions
-In just 24 sessions of one hour or less, Sams Teach Yourself Python Programming for Raspberry Pi in 24 Hours teaches you Python programmingon Raspberry Pi, so you can start creating awesome projects for homeautomation, home theater, gaming, ...
-Python and AWS Cookbook
-https://books.google.com/books?isbn=144930544X
-Mitch Garnaat - 2011 - ‎Preview - ‎More editions
-This book focuses on Elastic Compute Cloud (EC2) and Simple Storage Service (S3) for developers writing in Python.
-Beginning Programming with Python For Dummies
-https://books.google.com/books?isbn=1118891457
-John Paul Mueller - 2014 - ‎Preview - ‎More editions
-Speak your computer’s language — discover how programming is a form of communication, understand why Python is so cool, and write your first application Start talking the talk — find out how to store and modify information, control ...
-Python and XML - Page 180
-https://books.google.com/books?isbn=0596001282
-Christopher A. Jones, ‎Fred L. Drake - 2002 - ‎Preview - ‎More editions
-Python. Internet. APIs. As the Internet continues to evolve, so do the toolboxes of the programmers who code for it. Just a few years ago, most Internet-related development usually involved tapping into a database or legacy system and ...
-Python Programming Fundamentals - Page 91
-https://books.google.com/books?isbn=1447166426
-Kent D. Lee - 2015 - ‎Preview - ‎More editions
-Python is an object-oriented language and learning to use objects can make programming fun and productive. In this chapter we'll explore object-oriented programming by using the turtle module. If we had to write every program from scratch, ...
-Python
-https://books.google.com/books?isbn=1433945622
-Daisy Allyn - 2011 - ‎No preview - ‎More editions
-Provides basic information about pythons for beginning readers.
+
+https://books.google.co.in/books?isbn=1118843983
+John Paul Mueller, ?Luca Massaron - 2015 - ?Preview - ?More editions
+See why Python works for data science � tour the data science pipeline and learn about Python's basic capabilities Get set up � install Python, download datasets and example code, and start working with numbers and logic, creating ...
+Python: Visual QuickStart Guide - Page 33
+
+https://books.google.co.in/books?isbn=8131734714
+Preview - ?More editions
+pizza. py Python ; Interpreter Compiler Virtual machine pizza. pyc Figure 3.1 Python consists of three major components: an interpreter for running single statements; a compiler for converting .py files to .pyc files; and a virtual machine for ...
 Doing Math with Python: Use Programming to Explore Algebra, ...
-https://books.google.com/books?isbn=1593276400
-Amit Saha - 2015 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1593276400
+Amit Saha - 2015 - ?Preview - ?More editions
 Let Python handle the grunt work while you focus on the math.
-Bioinformatics Programming Using Python: Practical Programming for ...
-https://books.google.com/books?isbn=1449382908
-Mitchell L Model - 2009 - ‎Preview - ‎More editions
-Dictionary example: RNA codon translation table Dictionaries are the natural Python representation for tabular data. For example, they can be used to hold rows obtained from a database table: the table's primary key is the dictionary's key, and ...
-Programming in Python 3: A Complete Introduction to the Python Language
-https://books.google.com/books?isbn=0321680561
-Mark Summerfield - 2010 - ‎Preview - ‎More editions
-Python has no native support for GUI (Graphical User Interface) programming, but this isn't a problem since many GUI libraries written in other languages can be used by Python programmers. This is possible because many GUI libraries have ...
-Treading on Python Volume 1: Foundations of Python
-https://books.google.com/books?isbn=1475266413
-Matt Harrison, ‎Shannon -jj Behrens - 2012 - ‎Preview
-Treading on Python is designed to bring developers and others who are anxious to learn Python up to speed quickly.
-Python Algorithms: Mastering Basic Algorithms in the Python Language
-https://books.google.com/books?isbn=1430232382
-Magnus Lie Hetland - 2011 - ‎Preview - ‎More editions
-Mastering Basic Algorithms in the Python Language Magnus Lie Hetland ... Finally, a big thank-you to the Python Software Foundation for their permission to reproduce parts of the Python standard library and to Randall Munroe for letting me ...
-Python Projects for Kids
-https://books.google.com/books?isbn=1785285858
-Jessica Ingrassellino - 2016 - ‎Preview - ‎More editions
-Who This Book Is For This book is for kids (aged 10 and over). This is book is intended for absolute beginners who lack any knowledge of computing or programming languages and want to get started in the world of programming.
-Python Standard Library - Page 191
-https://books.google.com/books?isbn=0596000960
-Fredrik Lundh - 2001 - ‎Preview
-... join (text, "\n") file = StringIO.StringIO(text) message = rfc822. Message (file) for k, v in message. items () : print k, "=", v print message. fp. read () subject = ANN: (the eff-bot guide to) The Standard Python Library message-id = <199910120808 ...
-Financial Modelling in Python
-https://books.google.com/books?isbn=0470747897
-Shayne Fletcher, ‎Christopher Gardner - 2010 - ‎Preview - ‎More editions
-This book is a must read for all those with a need to apply numerical methods in the valuation of financial claims." –David Louton, Professor of Finance, Bryant University This book is directed at both industry practitioners and students ...
-Making Games with Python and Pygame
-https://books.google.com/books?isbn=1469901730
-Al Sweigart - 2012 - ‎No preview - ‎More editions
-The book is available under a Creative Commons license and can be downloaded in full for free from http: //inventwithpython.com/pygame This book was written to be understandable by kids as young as 10 to 12 years old, although it is great ...
-Pro Python System Administration - Page 24
-https://books.google.com/books?isbn=1430226056
-Rytis Sileika - 2010 - ‎Preview - ‎More editions
-1273010400: 6.1611111111e-02 1273012200: 6.1666666667e-02 1273014000: 3.3333333333e-02 1273015800: 3.3333333333e-02 1273017600: 3.3333333333e-02 [...] Now, you may have noticed that the records inserted by our Python ...
-Python for R Users
-https://books.google.com/books?isbn=1119126762
-Ajay Ohri - 2017 - ‎Preview
-The definitive guide for statisticians and data scientists who understand the advantages of becoming proficient in both R and Python The first book of its kind, Python for R Users: A Data Science Approach makes it easy for R programmers to ...
-Monty Python's Flying Circus
-https://books.google.com/books?isbn=0814331033
-Marcia Landy - 2005 - ‎Preview - ‎More editions
-The Flying Circus and the Wide World of Entertainment In 1975, a compilation of episodes from Monty Python's Flying Circus was scheduled for broadcast on the American Broadcasting Company's (ABC) Wide World of Entertainment.
-Python for Bioinformatics
-https://books.google.com/books?isbn=1584889306
-Sebastian Bassi - 2016 - ‎Preview - ‎More editions
-Requiring no prior knowledge of programming-related concepts, the book focuses on the easy-to-use, yet powerful, Python computer language. The book begins with a very basic introduction that teaches the principles of programming.
 OpenCV with Python Blueprints
-https://books.google.com/books?isbn=1785289861
-Michael Beyeler - 2015 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1785289861
+Michael Beyeler - 2015 - ?Preview - ?More editions
 Design and develop advanced computer vision projects using OpenCV with Python About This Book Program advanced computer vision applications in Python using different features of the OpenCV library Practical end-to-end project covering an ...
+Python and AWS Cookbook
+
+https://books.google.co.in/books?isbn=144930544X
+Mitch Garnaat - 2011 - ?Preview - ?More editions
+This book focuses on Elastic Compute Cloud (EC2) and Simple Storage Service (S3) for developers writing in Python.
+Professional Python Frameworks: Web 2.0 Programming with Django and ...
+
+https://books.google.co.in/books?isbn=0470245344
+Dana Moore, ?Raymond Budd, ?William Wright - 2008 - ?Preview - ?More editions
+If you've grabbed this book from your favorite online (or even brick-and-mortar) bookseller, chances are that you're an accom� plished Python developer, or you're on your way to becoming one. You may well have created web content using ...
+Pyomo � Optimization Modeling in Python
+
+https://books.google.co.in/books?isbn=146143226X
+William E. Hart, ?Carl Laird, ?Jean-Paul Watson - 2012 - ?Preview - ?More editions
+This book provides a complete and comprehensive reference/guide to Pyomo (Python Optimization Modeling Objects) for both beginning and advanced modelers, including students at the undergraduate and graduate levels, academic researchers, and ...
+Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours
+
+https://books.google.co.in/books?isbn=0133490173
+Richard Blum, ?Christine Bresnahan - 2013 - ?Preview - ?More editions
+In just 24 sessions of one hour or less, Sams Teach Yourself Python Programming for Raspberry Pi in 24 Hours teaches you Python programmingon Raspberry Pi, so you can start creating awesome projects for homeautomation, home theater, gaming, ...
+Python Programming Fundamentals - Page 93
+
+https://books.google.co.in/books?isbn=1849965374
+Kent D. Lee - 2010 - ?Preview - ?More editions
+Python is an object-oriented language and learning to use objects can make programming fun and productive. In this chapter we'll explore object-oriented programming by using the turtle module. If we had to write every program from scratch, ...
+Python: Journey from Novice to Expert
+
+https://books.google.co.in/books?isbn=1787122565
+Fabrizio Romano, ?Dusty Phillips, ?Rick van Hattem - 2016 - ?Preview - ?More editions
+Learn core concepts of Python and unleash its power to script highest quality Python programs About This Book Develop a strong set of programming skills with Pyhton that you will be able to express in any situation, on every platform, ...
+Bioinformatics Programming Using Python: Practical Programming for ...
+
+https://books.google.co.in/books?isbn=1449382908
+Mitchell L Model - 2009 - ?Preview - ?More editions
+Dictionary example: RNA codon translation table Dictionaries are the natural Python representation for tabular data. For example, they can be used to hold rows obtained from a database table: the table's primary key is the dictionary's key, and ...
+Learning Python Network Programming
+
+https://books.google.co.in/books?isbn=1784391158
+Dr. M. O. Faruque Sarker, ?Sam Washington - 2015 - ?Preview - ?More editions
+Starting with a walkthrough of today's major networking protocols, with this book you'll learn how to employ Python for network programming, how to request and retrieve web resources, and how to extract data in major formats over the Web.
+Monty Python and Philosophy: Nudge Nudge, Think Think!
+
+https://books.google.co.in/books?isbn=1459601033
+Gary L. Hardcastle, ?George A. Reisch - 2010 - ?Preview - ?More editions
+Humour.
+Python Algorithms: Mastering Basic Algorithms in the Python Language
+
+https://books.google.co.in/books?isbn=1430232382
+Magnus Lie Hetland - 2011 - ?Preview - ?More editions
+Written by Magnus Lie Hetland, author of Beginning Python, this book is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental algorithmic problem-solving techniques.
+Modular Programming with Python
+
+https://books.google.co.in/books?isbn=178588767X
+Erik Westra - 2016 - ?Preview - ?More editions
+Introducing modular techniques for building sophisticated programs using Python About This Book The book would help you develop succinct, expressive programs using modular deign The book would explain best practices and common idioms ...
+Head First Programming: A Learner's Guide to Programming Using the ...
+
+https://books.google.co.in/books?isbn=0596802374
+Paul Barry, ?David Griffiths - 2009 - ?Preview - ?More editions
+Presents the concepts of writing computer programs, covering such topics as variables, loops, functions, data files and arrays, modular programming, widgets, exceptions, and objects.
+MOBILE PYTHON: RAPID PROTOTYPING OF APPLICATIONS ON THE MOBILE PLATFORM
+
+https://books.google.co.in/books?isbn=8126515813
+Jurgen Scheible, ?Ville Tuulos - 2008 - ?Preview - ?More editions
+Since we could have a number of functions to perform various tasks, we need to tell Python which function is dedicated to handling the Exit events. This is done by assigning the function name (not its value) to the special appuifw. app.
+Pro Python System Administration - Page 24
+
+https://books.google.co.in/books?isbn=1430226056
+Rytis Sileika - 2010 - ?Preview - ?More editions
+1273010400: 6.1611111111e-02 1273012200: 6.1666666667e-02 1273014000: 3.3333333333e-02 1273015800: 3.3333333333e-02 1273017600: 3.3333333333e-02 [...] Now, you may have noticed that the records inserted by our Python ...
+Making Games with Python and Pygame
+
+https://books.google.co.in/books?isbn=1469901730
+Al Sweigart - 2012 - ?No preview - ?More editions
+The book is available under a Creative Commons license and can be downloaded in full for free from http: //inventwithpython.com/pygame This book was written to be understandable by kids as young as 10 to 12 years old, although it is great ...
 PYTHON 36 EXTENDING & EMBEDDIN
-https://books.google.com/books?isbn=9888406876
-Guido Van Rossum, ‎Python Dev Team - 2016 - ‎No preview
+
+https://books.google.co.in/books?isbn=9888406876
+Guido Van Rossum, ?Python Dev Team - 2016 - ?No preview
 This book assumes basic knowledge about Python. This book is a paper version of the freely available electronic documentation of the python project.
-Python Cookbook: Recipes for Mastering Python 3 - Page xi
-https://books.google.com/books?isbn=1449357369
-David Beazley, ‎Brian K. Jones - 2013 - ‎Preview - ‎More editions
-Since 2008, the Python world has been watching the slow evolution of Python 3. It was always known that the adoption of Python 3 would likely take a long time. In fact, even at the time of this writing (2013), most working Python programmers ...
-Coding Unlocked: Scratch and Python: the basics:
-https://books.google.com/books?isbn=1407164988
-Hywel Carver - 2015 - ‎Preview - ‎More editions
-In line with the new National Curriculum, the book will teach two programming languages in parallel, moving sequentially through key coding concepts.
+Monty Python's Flying Circus
+
+https://books.google.co.in/books?isbn=0814331033
+Marcia Landy - 2005 - ?Preview - ?More editions
+The Flying Circus and the Wide World of Entertainment In 1975, a compilation of episodes from Monty Python's Flying Circus was scheduled for broadcast on the American Broadcasting Company's (ABC) Wide World of Entertainment.
+Python Projects for Kids
+
+https://books.google.co.in/books?isbn=1785285858
+Jessica Ingrassellino - 2016 - ?Preview - ?More editions
+Who This Book Is For This book is for kids (aged 10 and over). This is book is intended for absolute beginners who lack any knowledge of computing or programming languages and want to get started in the world of programming.
+Beginning Python Visualization: Crafting Visual Transformation Scripts
+
+https://books.google.co.in/books?isbn=1430218436
+Shai Vaingast - 2009 - ?Preview - ?More editions
+Learn how to deal with images. Who this book is for IT personnel, programmers, engineers, and hobbyists interested in acquiring and displaying data from the Web, sensors, economic trends, and even astronomical sources.
 Python
-https://books.google.com/books?isbn=1602797544
-Barbara A. Somervill - 2010 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=1433945622
+Daisy Allyn - 2011 - ?No preview - ?More editions
+Provides basic information about pythons for beginning readers.
+Python Cookbook: Recipes for Mastering Python 3 - Page xi
+
+https://books.google.co.in/books?isbn=1449357369
+David Beazley, ?Brian K. Jones - 2013 - ?Preview - ?More editions
+Since 2008, the Python world has been watching the slow evolution of Python 3. It was always known that the adoption of Python 3 would likely take a long time. In fact, even at the time of this writing (2013), most working Python programmers ...
+Python
+
+https://books.google.co.in/books?isbn=1602797544
+Barbara A. Somervill - 2010 - ?Preview - ?More editions
+pick up a python's scent and bark when one has been found. This would help experts find and remove the snakes. Why not introduce a predator to keep the python problem under control? This is one idea that conservationists are often quick to ...
+1	
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+India
+Help Send feedback Privacy Terms
+
+
+Sitara Devi�s 97th birthday
+
+
+python
+
+
+AllImagesMapsBooksNewsMore
+SettingsTools
+Page 2 of about 4,09,000 results (1.30 seconds) 
+Search Results
+Saa-Ba Mini-Yang Baa The Mighty Python: Only a perfect man can be my ...
+
+https://books.google.co.in/books?isbn=1456773704
+Sabarr Janneh - 2011 - ?Preview - ?More editions
+The story of that princess, not only awaiting but also struggling hard and even harder looking for a perfect man [called Ke-kemperin-ngo in Mandinka] for husband is the core object of this folktale [story].
+Python
+
+https://books.google.co.in/books?isbn=1433945622
+Daisy Allyn - 2011 - ?No preview - ?More editions
+Provides basic information about pythons for beginning readers.
+Internet Programming with Python
+
+https://books.google.co.in/books?isbn=1558514848
+Aaron Watters, ?Guido Van Rossum, ?James C. Ahlstrom - 1996 - ?No preview
+Explains how to build Internet-enabled applications, discussing HTTP, NNTY, and SMTP protocols; the WPY portable graphical user interface; and the Python/C API; and the companion CD-ROM includes source code and executables.
+The Quick Python Book
+
+https://books.google.co.in/books?id=jmUtAQAAMAAJ
+Daryl D. Harms, ?Kenneth McDonald - 2000 - ?Snippet view
+Introduces the programming language's syntax, control flow, and basic data structures and covers its interaction with applications and mangement of large collections of code.
+Fluent Python: Clear, Concise, and Effective Programming
+
+https://books.google.co.in/books?isbn=1491946253
+Luciano Ramalho - 2015 - ?Preview - ?More editions
+This book covers: Python data model: understand how special methods are the key to the consistent behavior of objects Data structures: take full advantage of built-in types, and understand the text vs bytes duality in the Unicode age ...
+Python Cookbook: Recipes for Mastering Python 3 - Page xi
+
+https://books.google.co.in/books?isbn=1449357369
+David Beazley, ?Brian K. Jones - 2013 - ?Preview - ?More editions
+Since 2008, the Python world has been watching the slow evolution of Python 3. It was always known that the adoption of Python 3 would likely take a long time. In fact, even at the time of this writing (2013), most working Python programmers ...
+Distributed Computing with Python
+
+https://books.google.co.in/books?isbn=1785887041
+Francesco Pierfederici - 2016 - ?Preview - ?More editions
+Harness the power of multiple computers using Python through this fast-paced informative guide About This Book You'll learn to write data processing programs in Python that are highly available, reliable, and fault tolerant Make use of ...
+Python
+
+https://books.google.co.in/books?isbn=1602797544
+Barbara A. Somervill - 2010 - ?Preview - ?More editions
 pick up a python's scent and bark when one has been found. This would help experts find and remove the snakes. Why not introduce a predator to keep the python problem under control? This is one idea that conservationists are often quick to ...
 Python 101 - Page 4
-https://books.google.com/books?isbn=0996062815
-Michael Driscoll - 2014 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=0996062815
+Michael Driscoll - 2014 - ?Preview - ?More editions
 Kixtart to Python. My second project was to port VBA code (basically a GUI on top of Microsoft Office products) to Python, which is how I first got started in wxpython. I've been using Python ever since, doing a variation of backend programming ...
 Python Programming for Arduino - Page 10
-https://books.google.com/books?isbn=178328594X
-Pratik Desai - 2015 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=178328594X
+Pratik Desai - 2015 - ?Preview - ?More editions
 Python comes in two versions: Python v2.x and Python v3.x. (Here, x represents an appropriate version number.) While Python v2.x is a legacy branch and has better library support, Python v3.x is the future of Python. Most Linux distributions ...
+Financial Modelling in Python
+
+https://books.google.co.in/books?isbn=0470747897
+Shayne Fletcher, ?Christopher Gardner - 2010 - ?Preview - ?More editions
+This book is a must read for all those with a need to apply numerical methods in the valuation of financial claims." �David Louton, Professor of Finance, Bryant University This book is directed at both industry practitioners and students ...
 The Absolute Basics: Python 3: - Page 4
-https://books.google.com/books?id=1TavBAAAQBAJ
-Phil Corbett - 2014 - ‎Preview
-There are currently two major Python versions that are readily available, named Python 2.x and Python 3.x. There are a few major differences between the two versions, which I will cover here briefly. • Python 2.x is old - the last version of ...
+
+https://books.google.co.in/books?id=1TavBAAAQBAJ
+Phil Corbett - 2014 - ?Read
+There are currently two major Python versions that are readily available, named Python 2.x and Python 3.x. There are a few major differences between the two versions, which I will cover here briefly. � Python 2.x is old - the last version of ...
 Python and HDF5: Unlocking Scientific Data - Page 9
-https://books.google.com/books?isbn=149194501X
-Andrew Collette - 2013 - ‎Preview - ‎More editions
+
+https://books.google.co.in/books?isbn=149194501X
+Andrew Collette - 2013 - ?Preview - ?More editions
 Python 2.7, the most recent minor release in the Python series, will also be the last 2.X release. Although it will be updated with bug fixes for an extended period oftime, new Python code development is now carried out exclusively on the 3.
-Introducing Python: Modern Computing in Simple Packages
-https://books.google.com/books?isbn=1449361196
-Bill Lubanovic - 2014 - ‎Preview - ‎More editions
-Annotation With 'Introducing Python', Bill Lubanovic brings years of knowledge as a programmer, system administrator and author to a book of impressive depth that's fun to read and simple enough for non-programmers to use.
 Simple Python - Page 17
-https://books.google.com/books?isbn=1291221387
-Dennis Pringle - 2012 - ‎Preview
+
+https://books.google.co.in/books?isbn=1291221387
+Dennis Pringle - 2012 - ?Preview
 Before you can run Python programs, you must have Python (i.e. the interpreter, libraries etc.) installed on your computer. Depending on your operating system and software, you may find that a version of Python is already installed. However ...
-	1	
-2
-	
+Effective Python Penetration Testing
+
+https://books.google.co.in/books?isbn=1785280961
+Rejah Rehim - 2016 - ?Preview
+Pen test your system like a pro and overcome vulnerabilities by leveraging Python scripts, libraries, and tools About This Book Learn to utilize your Python scripting skills to pentest a computer system, network, and web-application Get ...
+Dive Into Python - Page 9
+
+https://books.google.co.in/books?isbn=1590593561
+Mark Pilgrim - 2004 - ?Preview - ?More editions
+Mark Pilgrim. Listing 1-4. Installing Python from Source localhost:~$ su - Password: [enter your root password] localhost:~# wget http://www.python.org/ftp/python/2.3/Python-2.3.tgz Resolving www.python.org... done. Connecting to ...
+Python Forensics: A Workbench for Inventing and Sharing Digital ...
+
+https://books.google.co.in/books?isbn=0124186831
+Chet Hosmer - 2014 - ?Preview - ?More editions
+Python. Forensics. Environment. 2. CHAPTER CONTENTS Introduction ............................................................................................................. 14 Setting up a Python Forensics Environment ................................................................ 14 The Right ...
+Python 3 for Absolute Beginners
+
+https://books.google.co.in/books?isbn=1430216336
+Tim Hall, ?J-P Stacey - 2010 - ?Preview - ?More editions
+This guide appeals to your intelligence and ability to solve practical problems, while gently teaching the most recent revision of the programming language Python.
+ArcPy and ArcGIS � Geospatial Analysis with Python - Page 26
+
+https://books.google.co.in/books?isbn=1783988673
+Silas Toms - 2015 - ?Preview - ?More editions
+Understanding how Python works to interpret a script and then execute the commands within is as important as understanding the Python language itself. Hours of debugging and error checking can be avoided by taking the time to set up ...
+Python for Signal Processing: Featuring IPython Notebooks - Page 1
+
+https://books.google.co.in/books?isbn=3319013424
+Jos� Unpingco - 2013 - ?Preview - ?More editions
+Less well known is Python for scientific applications, what we are calling �Scientific Python� here. Scientific Python has been used in government, academia, and industry for at least a decade. NASA's Jet Propulsion Laboratory uses it for ...
+Learning Python for data mining
+
+https://books.google.co.in/books?isbn=8822803957
+Valentina Porcu - 2017 - ?Preview
+This book is intended for those who want to get closer to the Python programming language from a data analysis perspective.
+Foundations of Python Network Programming - Page xxiii
+
+https://books.google.co.in/books?isbn=1430258551
+Brandon Rhodes, ?John Goerzen - 2014 - ?Preview - ?More editions
+It is an exciting moment for the Python community. After two decades of careful innovation that saw the language gain features such as context managers, generators, and comprehensions in a careful balance with its focus on remaining simple ...
+Html, Css, Jawascripts, Perl ,Python & Php (web Stander) - Page 397
+
+https://books.google.co.in/books?isbn=8126506202
+Steven M. Schafer - 2005 - ?Preview - ?More editions
+Python is a rising star in CGI scripting. Touted for its uncomplicated nature, readability, and robustness, it has grown to be one of the most widely used Web and system scripting languages. Python is interpreted and object oriented. Python has ...
+Data Structures and Algorithms with Python - Page 1
+
+https://books.google.co.in/books?isbn=3319130722
+Kent D. Lee, ?Steve Hubbard - 2015 - ?Preview - ?More editions
+Python. Programming. 101. This Computer Science text further develops the skills you learned in your first CS text or course and adds to your bag of tricks by teaching you how to use efficient algorithms for dealing with large amounts of data.
+Getting to Know Python - Page 50
+
+https://books.google.co.in/books?isbn=1477777180
+Simone Payment - 2014 - ?Preview - ?More editions
+Because Python is so easy to use, it makes it quick to write code and it is a good option for a company like Young's. Young also likes the fact that Python uses clean, straightforward language that avoids some of the complications that can ...
+Mastering Python Design Patterns - Page 4
+
+https://books.google.co.in/books?isbn=1783989335
+Sakis Kasampalis - 2015 - ?Preview - ?More editions
+Chapter 12, The Interpreter Pattern, will teach you how to create a simple language on top of Python, which can be used by domain experts without forcing them to learn how to program in Python. Chapter 13, The Observer Pattern, will teach ...
+Coding Unlocked: Scratch and Python: the basics:
+
+https://books.google.co.in/books?isbn=1407164988
+Hywel Carver - 2015 - ?Preview - ?More editions
+In line with the new National Curriculum, the book will teach two programming languages in parallel, moving sequentially through key coding concepts.
+Python in Practice: Create Better Programs Using Concurrency, ...
+
+https://books.google.co.in/books?isbn=0133373231
+Mark Summerfield - 2013 - ?Preview - ?More editions
+And through doing so, the book has hopefully provided ideas and inspiration for producing better programs using Python 3 (www.python.org). Python continues to grow in popularity and use across application domains and across continents.
+Python: The Complete Reference
+
+https://books.google.co.in/books?isbn=007212718X
+Martin C. Brown - 2001 - ?No preview
+This text is split into distinct sections, each concentrating on a core angle of the language. The book also contains sections for Web and application development, the two most popular uses for Python.
+Lean Python - Page x
+
+https://books.google.co.in/books?isbn=0956196225
+Paul Gerrard - 2014 - ?Preview - ?More editions
+with Guido on the origins and design philosophy of the language. Here is a concise summary of Python from Wikipedia [2]: "Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code ...
+Beginning Python - Page 49
+
+https://books.google.co.in/books?isbn=0471760315
+Peter C. Norton, ?Alex Samuel, ?Dave Aitel - 2005 - ?Preview - ?More editions
+You have just seen one of the most distinctive visual aspects of Python and the one that most people remark on when they encounter Python. When you see the colon in Python programs, it's an indication that Python is entering a part of its ...
+Python Testing: Beginner's Guide
+
+https://books.google.co.in/books?isbn=1847198856
+Daniel Arbuckle - 2010 - ?Preview - ?More editions
+Python documentation URL / PopPython documentationURL quiz � testing withNose Python Mocker installing / Installing Python Mocker, Time for action � installing Python Mocker about/ Python Mocker basics / Time for action � exploring the ...
+High Performance Python: Practical Performant Programming for Humans
+
+https://books.google.co.in/books?isbn=1449361773
+Micha Gorelick, ?Ian Ozsvald - 2014 - ?Preview - ?More editions
+being use of Cython, which allows Python code to be compiled and allows the user to create �hints� to the compiler as to how dynamic the code actually is. Finally, the previously mentioned GIL can hurt performance if trying to parallelize this ...
+Python for Bioinformatics - Page 139
+
+https://books.google.co.in/books?isbn=1584889306
+Sebastian Bassi - 2016 - ?Preview - ?More editions
+As mentioned in the introduction of the book, Python is an object oriented language. Unlike other languages that handle objects, Python allows us to program in a classic procedural way, without considering the objects paradigm. Sometimes ...
+PYTHON BASED POWER SYSTEM AUTOMATION IN PSS/E - Page 5
+
+https://books.google.co.in/books?isbn=1312430885
+MUHAMMAD USMAN KHALID, ?FARRUKH RASHID, ?WAQAR AKHTAR - 2014 - ?Preview
+>>>print 1 + 1 2 The first line of this example is the command that starts the Python interpreter. The next two lines are messages from the interpreter. The third line starts with>>>, which is the prompt the interpreter uses to indicate that it is ready.
+Programming ArcGIS 10.1 with Python Cookbook
+
+https://books.google.co.in/books?isbn=1849694451
+Eric Pimpler - 2013 - ?Preview - ?More editions
+In this chapter, we will cover the following recipes: - Running Python scripts from the command line - Using sys.argv[] to capture command-line input - Adding Python scripts to batch files - Scheduling batch files to run at prescribed times ...
+Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing
+
+https://books.google.co.in/books?isbn=111890124X
+David Sale - 2014 - ?Preview - ?More editions
+Chapter3Utilizing. Unit. Test. Tools. YOUHAVE STARTED towrite your unittestsand feel comfortable running them inthe usualmanner for executing Python files. However, withtesting as much apart ofthe development process aswriting the code ...
+Python Programming For Beginners: Python Programming Language Tutorial
+
+https://books.google.co.in/books?isbn=1633830403
+Joseph Joyner - 2014 - ?Preview - ?More editions
+Python May Be Used as an Interpreter Python programming is basic but versatile, it offers aneasy way to interpret databy using simple commands. Similar toa calculator wherein the user inputs the information that he wants the program to ...
+Modeling Techniques in Predictive Analytics with Python and R: A ...
+
+https://books.google.co.in/books?isbn=013389214X
+Thomas W. Miller - 2014 - ?Preview - ?More editions
+1.1 1.2 2.1 2.2 3.1 3.2 4.1 4.2 5.1 5.2 6.1 6.2 7.1 7.2 8.1 8.2 9.1 9.2 10.1 10.2 11.1 11.2 D.1 D.2 D.3 D.4 D.5 D.6 Programming the Anscombe Quartet (Python) Programming the Anscombe Quartet (R) Shaking Our Bobbleheads Yes and No ...
+Monty Python: From the Flying Circus to Spamalot
+
+https://books.google.co.in/books?isbn=0753549506
+Richard Topping - 2014 - ?Preview - ?More editions
+Each Python took inspiration from the others,and through a process of synergy, alchemy, biology,buffoonery andastrology created some ofthe most memorable comedy ofour time. This loose collective also meant that the Pythons could go ...
+Pro Python - Page 327
+
+https://books.google.co.in/books?isbn=1430227583
+Marty Alchin - 2010 - ?Preview - ?More editions
+elif keyword, 4 else keyword, 4 if/else blocks, 31 try/except blocks, 27 encode method, strings, 197, 198 encoding ASCII, 197 open function, 247 PEP-263,285 text, 196�198 Unicode-focused encodings, 197 Zen of Python, 9 endianness, bytes, ...
+Reticulated Python - Page 18
+
+https://books.google.co.in/books?isbn=1633620573
+Tamra B. Orr - 2015 - ?Preview - ?More editions
+Given all this equipment, it is not surprising that any animal caught by a reticulated python is not able to get away. In addition to its amazingly flexible jaws, the python has a second secret weapon�its muscles. The python's body is lined with ...
+Monty Python, Shakespeare and English Renaissance Drama
+
+https://books.google.co.in/books?isbn=0786481099
+Darl Larsen - 2014 - ?Preview - ?More editions
+following chapters, two of the still living and breathing cultural artifacts that defined Englishness and helped renew that same cultural essentialism are Shakespeare and Monty Python. Thereare,of course, radical differences between Python ...
+Raspberry Pi :Raspberry Pi Guide On Python & Projects Programming In ...
+
+https://books.google.co.in/books?isbn=1628847441
+Jason Scotts - 2013 - ?Preview - ?More editions
+Python's highlevel programming language is a general purpose code. Simple syntax enables programmers to create more limited code for the same concepts than is possible in other programming languages. Innovated in the 1980s, Python is ...
+Monty Python: A Chronology, 1969-2012, 2d ed. - Page 1
+
+https://books.google.co.in/books?isbn=078647811X
+Douglas McCall - 2013 - ?Preview - ?More editions
+The first edition of Monty Python: A Chronology, published in 1991, covered the British comedy troupe's creative output from 1969�the year Monty Python's Flying Circus first appeared on British television � to 1989 � the year of the group's ...
+Managing Your Biological Data with Python - Page 525
+
+https://books.google.co.in/books?isbn=1439880948
+Allegra Via, ?Kristian Rother, ?Anna Tramontano - 2014 - ?Preview - ?More editions
+Bioinformatics K13805 �As a beginning structural biologist without any coding experience, this book would have been a welcome companion to quickly get me started on my bioinformatical projects with Python. ... The book introduces you to ...
+Introduction to Computing and Programming in Python
+
+https://books.google.co.in/books?isbn=0132923513
+Mark Guzdial, ?Barbara Ericson - 2013 - ?No preview - ?More editions
+Shows how programs can be used to build multimedia computer science applications that include sound, graphics, music, pictures, and movies.
+The Life of Python
+
+https://books.google.co.in/books?isbn=1862057621
+George Perry - 2007 - ?No preview - ?More editions
+A faithful and entertaining chronicle of the people and events who engendered a revolution in comedy. George Perry is an author, journalist, fellow Oxbridge graduate, and expert on all matters Python.
+Python for Scientists
+
+https://books.google.co.in/books?isbn=1139952803
+John M. Stewart - 2014 - ?No preview - ?More editions
+This book covers everything the working scientist needs to know to start using Python effectively.
+Python: An Introduction to Programming
+
+https://books.google.co.in/books?isbn=1944534652
+James R. Parker - 2016 - ?No preview - ?More editions
+Following a practical, just-in-time presentation which gives students material as they need it, this guide is designed as a Year One textbook for introduction to programming classes or for the novice hobbyist who wants to learn the ...
+Python: Pocket Primer
+
+https://books.google.co.in/books?isbn=1938549856
+Oswald Campesato - 2014 - ?No preview - ?More editions
+Provides an overview of the major aspects, the source code, and tutorial videos to use Python. Primarily for self-directed learners who want to learn Python or a supplement in programming courses.
+Beginning Python: From Novice To Professional, 2Nd Ed
+
+https://books.google.co.in/books?isbn=8184890923
+Magnus Lie Hetland - 2008 - ?Preview - ?More editions
+This book covers a wide array of Python-related programming topics, including addressing language internals, database integration, network programming, and web services, which are guided by sound development principles.
+Learn Python the Hard Way: A Very Simple Introduction to the ...
+
+https://books.google.co.in/books?isbn=0321884914
+Zed Shaw - 2014 - ?No preview - ?More editions
+You Will Learn Python! Zed Shaw has perfected the world's best system for learning Python. Follow it and you will succeed-just like the hundreds of thousands of beginners Zed has taught to date!
+Fundamentals of Python: Data Structures, 1st ed.: Data Structures
+
+https://books.google.co.in/books?isbn=1285752015
+Kenneth A. Lambert - 2013 - ?Preview - ?More editions
+Through the step-by-step instruction and exercises in this book, you'll cover such topics as the design of collection classes with polymorphism and inheritance, multiple implementations of collection interfaces, and the analysis of the ...
+Python in Easy Steps
+
+https://books.google.co.in/books?isbn=1840785969
+Mike McGrath - 2013 - ?No preview
+Full-color visual guides, with plenty of screen grabs for ease of reference, cover business and professional skills and all areas of computing. Original.
+Mastering Python
+
+https://books.google.co.in/books?isbn=1785289136
+Rick van Hattem - 2016 - ?Preview - ?More editions
+Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers About This Book Become familiar with the most important and advanced parts of the Python code style Learn the trickier aspects of ...
+Mastering Object-oriented Python
+
+https://books.google.co.in/books?isbn=1783280980
+Steven F. Lott - 2014 - ?Preview - ?More editions
+This book follows a standard tutorial approach with approximately 750 code samples spread through the 19 chapters.
+The Women who Ate Python and Other Stories
+
+https://books.google.co.in/books?isbn=995655801X
+Sammy Oke Akombi - 2008 - ?Preview - ?More editions
+The stories are set in different localities in Africa and Cameroon in particular. The author in a lucid manner explores the theme of women lib- the African way in the lead story.
+Python Programming: Python Programming for Beginners, Python ...
+
+https://books.google.co.in/books?isbn=1542988942
+Adam Stewart - 2017 - ?No preview - ?More editions
+Python Programming Crash Course 2 in 1 This Book Includes: Python Programming for Beginners, Python Programming for Intermediates Python is one of the best programming languages out there.
+Python
+
+https://books.google.co.in/books?isbn=0956948200
+Brian Moses - 2011 - ?No preview - ?More editions
+Daniel lives in fear of the school bully and his dad's pet python, but things change when the bully demands to see the snake.
+A Python Book: Beginning Python, Advanced Python, and Python Exercises
+
+https://books.google.co.in/books?isbn=0984221239
+Dave Kuhlman - 2011 - ?No preview - ?More editions
+This document is a self learning document for a course in Python programming.
+Monty Python's Tunisian Holiday: My Life with Brian
+
+https://books.google.co.in/books?isbn=1429994258
+Kim "Howard" Johnson - 2008 - ?Preview - ?More editions
+You don't have to mention my stunning good looks if you don't want to." --Terry Gilliam "Of all the books that I am planning to read in my dotage, there is none I am more looking forward to than Monty Python's Tunisian Holiday. . .
+Numerical Python: A Practical Techniques Approach for Industry
+
+https://books.google.co.in/books?isbn=1484205537
+Robert Johansson - 2015 - ?Preview - ?More editions
+After reading and using this book, you'll get some takeaway case study examples of applications that can be found in areas like business management, big data/cloud computing, financial engineering (i.e., options trading investment ...
+Rapid GUI Programming with Python and Qt: The Definitive Guide to ...
+
+https://books.google.co.in/books?isbn=0132354187
+Mark Summerfield - 2008 - ?No preview
+Covering all the fundamentals, this new volume provides a short conversion course for those not yet familiar with Python and then devotes the majority of its pages to PyQt4 programming.
+Professional Python
+
+https://books.google.co.in/books?isbn=1119070783
+Luke Sneeringer - 2015 - ?Preview - ?More editions
+This book shines a light on these incredibly useful methods, giving you clear guidance toward building stronger applications.
+The Quick Python Book: Second Edition
+
+https://books.google.co.in/books?isbn=193518220X
+Naomi R. Ceder - 2010 - ?No preview
+The Quick Python Book, Second Edition, is a clear, concise introduction to Python 3, aimed at programmers new to Python. This updated edition includes all the changes in Python 3, itself a significant shift from earlier versions of Python.
+Building Machine Learning Systems with Python - Second Edition
+
+https://books.google.co.in/books?isbn=178439288X
+Luis Pedro Coelho, ?Willi Richert - 2015 - ?Preview - ?More editions
+This book primarily targets Python developers who want to learn and use Python's machine learning capabilities and gain valuable insights from data to develop effective solutions for business problems.
+A Python in a Snake Park
+
+https://books.google.co.in/books?id=X9HyAAAAMAAJ
+E. V. Ramakrishnan - 1994 - ?No preview
+The Poems Of This Volume Probe The Content Of Ordinary Lives From The Perspective Of A Concerned, Sensitive Individual.
+Learning Robotics Using Python
+
+https://books.google.co.in/books?isbn=1783287543
+Lentin Joseph - 2015 - ?Preview - ?More editions
+If you are an engineer, a researcher, or a hobbyist, and you are interested in robotics and want to build your own robot, this book is for you. Readers are assumed to be new to robotics but should have experience with Python.
+Introduction to Computation and Programming Using Python: With ...
+
+https://books.google.co.in/books?isbn=0262529629
+John V. Guttag - 2016 - ?Preview - ?More editions
+This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python libraries, including PyLab.
+Learning Data Mining with Python
+
+https://books.google.co.in/books?isbn=1784391204
+Robert Layton - 2015 - ?Preview - ?More editions
+This book covers a large number, including the IPython Notebook, pandas, scikit-learn and NLTK. Each chapter of this book introduces you to new algorithms and techniques.
+Python Crash Course: Step by Step Guide to Mastering Python Programming!
+
+https://books.google.co.in/books?isbn=1544955960
+P. G. Wizard PG Wizard Books - 2017 - ?No preview
+Such as Syntax and beyond! Whether your just starting out or looking to reinforce your current skills? Perfect either way everything & anything you could think about will be in this book!
+The Hitchhiker's Guide to Python: Best Practices for Development
+
+https://books.google.co.in/books?isbn=1491933224
+Kenneth Reitz, ?Tanya Schlusser - 2016 - ?Preview - ?More editions
+The Hitchhiker's Guide to Python takes the journeyman Pythonista to true expertise.
+Invent Your Own Computer Games with Python, 4th Edition:
+
+https://books.google.co.in/books?isbn=1593277954
+Al Sweigart - 2017 - ?Preview - ?More editions
+What new game will you create with the power of Python? The projects in this book are compatible with Python 3.
+Python Data Science Handbook: Essential Tools for Working with Data
+
+https://books.google.co.in/books?isbn=1491912138
+Jake VanderPlas - 2016 - ?Preview - ?More editions
+With this handbook, you�ll learn how to use: IPython and Jupyter: provide computational environments for data scientists using Python NumPy: includes the ndarray for efficient storage and manipulation of dense data arrays in Python Pandas ...
+Artificial Intelligence with Python
+
+https://books.google.co.in/books?isbn=1786469677
+Prateek Joshi - 2017 - ?Preview - ?More editions
+Style and approach This highly practical book will show you how to implement Artificial Intelligence. The book provides multiple examples enabling you to create smart applications to meet the needs of your organization.
+Text Analytics with Python: A Practical Real-World Approach to ...
+
+https://books.google.co.in/books?isbn=1484223888
+Dipanjan Sarkar - 2016 - ?Preview - ?More editions
+This book: Provides complete coverage of the major concepts and techniques of natural language processing (NLP) and text analytics Includes practical real-world examples of techniques for implementation, such as building a text ...
+Deep Learning with Python
+
+https://books.google.co.in/books?isbn=1617294438
+Francois Chollet - 2017 - ?No preview
+By the time you reach the end of this book, you will have become a Keras expert and will be able to apply deep learning in your own projects.
+Python Programming: Python Programming for Complete Novices
+
+https://books.google.co.in/books?isbn=1542745993
+Scott Bernard - 2017 - ?No preview - ?More editions
+Learning to write in a coding language can be an exciting time. This book will allow you to get started writing your own programs, whether you are learning for your own personal benefit, or to begin and advance a career in programming.
+Python Text Processing with NLTK 2.0 Cookbook
+
+https://books.google.co.in/books?isbn=1849513619
+Jacob Perkins - 2010 - ?Preview - ?More editions
+The learn-by-doing approach of this book will enable you to dive right into the heart of text processing from the very first page.
+Python for Biologists
+
+https://books.google.co.in/books?isbn=1492346136
+Martin Jones - 2013 - ?No preview - ?More editions
+Python for biologists is a complete programming course for beginners that will give you the skills you need to tackle common biological and bioinformatics problems.
+Learning Selenium Testing Tools with Python
+
+https://books.google.co.in/books?isbn=1783983515
+Unmesh Gundecha - 2014 - ?Preview - ?More editions
+If you are a quality testing professional, or a software or web application developer looking to create automation test scripts for your web applications, with an interest in Python, then this is the perfect guide for you.
+Python Scripting for ArcGIS
+
+https://books.google.co.in/books?isbn=1589482824
+Paul A. Zandbergen - 2013 - ?No preview - ?More editions
+"Python Scripting for ArcGIS is a guide to help experienced users of ArcGIS for Desktop get started with Python scripting. This book teaches how to write Python code that works with spatial data to automate geoprocessing tasks in ArcGIS.
+Learn to Program with Minecraft: Transform Your World with the Power ...
+
+https://books.google.co.in/books?isbn=1593276702
+Craig Richardson - 2015 - ?Preview - ?More editions
+You�ve bested creepers, traveled deep into caves, and maybe even gone to The End and back�but have you ever transformed a sword into a magic wand?
+Python/C Api Manual - Python 3: (Python Documentation Manual Part 4)
+
+https://books.google.co.in/books?isbn=1441412735
+Guido Van Rossum, ?Fred L. Drake - 2009 - ?No preview
+This book is part of a brand new six-part series of Python documentation books. Searching for "Python Documentation Manual" will show all six available books. ABOUT THE AUTHOR: Guido van Rossum, is the inventor of Python.
+Test-Driven Development with Python: Obey the Testing Goat: Using ...
+
+https://books.google.co.in/books?isbn=1449365175
+Harry Percival - 2014 - ?Preview - ?More editions
+By taking you through the development of a real web application from beginning to end, this hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python.
+Effective C++: 50 Specific Ways to Improve Your Programs and Designs
+
+https://books.google.co.in/books?isbn=0201924889
+Scott Meyers - 1998 - ?Snippet view - ?More editions
+Effective C++ has been updated to reflect the latest ANSI/ISO standards. The author, a recognised authority on C++, shows readers fifty ways to improve their programs and designs.
+Python 3 Object-oriented Programming
+
+https://books.google.co.in/books?isbn=1784395951
+Dusty Phillips - 2015 - ?Preview - ?More editions
+Unleash the power of Python 3 objects About This Book Stop writing scripts and start architecting programs Learn the latest Python syntax and libraries A practical, hands-on tutorial that teaches you all about abstract design patterns and ...
+Web Scraping with Python: Collecting Data from the Modern Web
+
+https://books.google.co.in/books?isbn=1491910259
+Ryan Mitchell - 2015 - ?Preview - ?More editions
+Ideal for programmers, security professionals, and web administrators familiar with Python, this book not only teaches basic web scraping mechanics, but also delves into more advanced topics, such as analyzing raw data or using scrapers for ...
+Hello! Python
+
+https://books.google.co.in/books?isbn=1935182080
+Anthony Briggs - 2012 - ?No preview
+It can be as much fun to learn Python 3 as it is to use it.
+Problem Solving with Algorithms and Data Structures Using Python
+
+https://books.google.co.in/books?isbn=1590282574
+Bradley N. Miller, ?David L. Ranum - 2011 - ?No preview - ?More editions
+This textbook is about computer science.
+The Python Standard Library by Example
+
+https://books.google.co.in/books?isbn=0132778610
+Doug Hellmann - 2011 - ?Preview - ?More editions
+Each section fully covers one module, and links to valuable additional resources, making this book an ideal tutorial and reference.
+Learn More Python 3 the Hard Way: The Next Step for New Python ...
+
+https://books.google.co.in/books?isbn=013412300X
+Zed A. Shaw - 2017 - ?Preview
+In Learn Python 3 the Hard Way, Zed Shaw taught you the basics of Programming with Python 3. Now, in Learn More Python 3 the Hard Way, you�ll go far beyond the basics by working through 52 brilliantly crafted projects.
+Introduction to Data Science: A Python Approach to Concepts, ...
+
+https://books.google.co.in/books?isbn=3319500171
+Laura Igual, ?Santi Segu� - 2017 - ?Preview - ?More editions
+The work is also eminently suitable for professionals on continuous education short courses, and to researchers following self-study courses.
+Chemical and Biomedical Engineering Calculations Using Python
+
+https://books.google.co.in/books?isbn=1119267064
+Jeffrey J. Heys - 2017 - ?Preview - ?More editions
+Also included is an electronic download of the Python codes presented in the book. Jeffrey J. Heys is currently the department head in Chemical and Biological Engineering at Montana State University.
+An Introduction to Statistics with Python: With Applications in the ...
+
+https://books.google.co.in/books?isbn=3319283162
+Thomas Haslwanter - 2016 - ?Preview - ?More editions
+As it also provides some statistics background, the book can be used by anyone who wants to perform a statistical data analysis.
+The Definitive Guide to Jython: Python for the Java Platform
+
+https://books.google.co.in/books?isbn=1430225270
+Josh Juneau, ?Jim Baker, ?Frank Wierzbicki - 2010 - ?Preview - ?More editions
+This book begins with a brief introduction to the language and then journeys through Jython�s different features and uses. The Definitive Guide to Jython is organized for beginners as well as advanced users of the language.
+Geoprocessing with Python
+
+https://books.google.co.in/books?isbn=1617292141
+Chris Garrard - 2016 - ?No preview
+The book shows you how. About the Book Geoprocessing with Python teaches you how to access available datasets to make maps or perform your own analyses using free tools like the GDAL, NumPy, and matplotlib Python modules.
+Think Complexity: Complexity Science and Computational Modeling
+
+https://books.google.co.in/books?isbn=1449331696
+Allen B. Downey - 2012 - ?Preview - ?More editions
+Ideal as a text for courses on Python programming and algorithms, Think Complexity will also help self-learners gain valuable experience with topics and ideas they might not encounter otherwise.
+Learn to Program with Python
+
+https://books.google.co.in/books?isbn=1484221729
+Irv Kalb - 2016 - ?Preview - ?More editions
+Build text-based programs, including a number of simple games Learn how to re-use code by building your own modules Use Python's built-in data structures and packages to represent and make use of complex data from the Internet Who This Book ...
+Previous
+1
+2	
 3
-	
 4
-	
 5
-	
 6
-	
 7
-	
 8
-	
 9
-	
 10
-	
 Next
-Help Send feedback Privacy Terms Use Google.co.in
+India
+Help Send feedback Privacy Terms
+
+
+
+Sitara Devi�s 97th birthday
+
+
+python
+
+
+AllImagesMapsBooksNewsMore
+SettingsTools
+Page 3 of about 4,09,000 results (1.10 seconds) 
+Search Results
+Python: How to Program
+
+https://books.google.co.in/books?id=IjJ7nQAACAAJ
+Harvey M. Deitel - 2002 - ?No preview - ?More editions
+Think Complexity: Complexity Science and Computational Modeling
+
+https://books.google.co.in/books?isbn=1449331696
+Allen B. Downey - 2012 - ?Preview - ?More editions
+Ideal as a text for courses on Python programming and algorithms, Think Complexity will also help self-learners gain valuable experience with topics and ideas they might not encounter otherwise.
+Learn to Program with Python
+
+https://books.google.co.in/books?isbn=1484221729
+Irv Kalb - 2016 - ?Preview - ?More editions
+Build text-based programs, including a number of simple games Learn how to re-use code by building your own modules Use Python's built-in data structures and packages to represent and make use of complex data from the Internet Who This Book ...
+Python High Performance - Second Edition
+
+https://books.google.co.in/books?isbn=1787282430
+Gabriele Lanaro - 2017 - ?No preview - ?More editions
+Learn how to use Python to create efficient applications About This Book - Identify the bottlenecks in your applications and solve them using the best profiling techniques - Write efficient numerical code in NumPy, Cython, and Pandas - ...
+SAS Viya: The Python Perspective
+
+https://books.google.co.in/books?isbn=1629608858
+Kevin D. Smith, ?Xiangxiang Meng - 2017 - ?No preview - ?More editions
+"Taking you on a journey to learn and apply Python programming in the context of the SAS Viya platform, this book includes examples from creating connections to CAS all the way to simple statistics and machine learning."--
+Software Architecture with Python
+
+https://books.google.co.in/books?isbn=1786468522
+Anand Balachandran Pillai - 2017 - ?No preview - ?More editions
+Architect and design highly scalable, robust, clean, and highly performant applications in PythonAbout This Book* Identify design issues and make the necessary adjustments to achieve improved performance* Understand practical architectural ...
+Introduction to Machine Learning with Python: A Guide for Data ...
+
+https://books.google.co.in/books?isbn=1449369898
+Andreas C. M�ller, ?Sarah Guido - 2016 - ?Preview - ?More editions
+With this book, you�ll learn: Fundamental concepts and applications of machine learning Advantages and shortcomings of widely used machine learning algorithms How to represent data processed by machine learning, including which data ...
+Introduction to GIS Programming and Fundamentals with Python and ArcGIS�
+
+https://books.google.co.in/books?isbn=1466510102
+Chaowei Yang - 2017 - ?Preview - ?More editions
+Combining GIS concepts and fundamental spatial thinking methodology with real programming examples, this book introduces popular Python-based tools and their application to solving real-world problems.
+Rapid GUI Programming with Python and Qt: The Definitive Guide to ...
+
+https://books.google.co.in/books?isbn=0132703068
+Mark Summerfield - 2007 - ?Preview - ?More editions
+Through the book's realistic examples you'll discover a completely new PyQt 4-based programming approach, as well as coverage of many new topics, from PyQt 4's rich text engine to advanced model/view and graphics/view programming.
+Learning Python
+
+https://books.google.co.in/books?isbn=1783551712
+Fabrizio Romano - 2015 - ?No preview - ?More editions
+Learn to code like a professional with Python - an open source, versatile and powerful programming languageAbout This Book- Learn the fundamentals of programming with Python - one of the best languages ever created- Develop a strong set of ...
+Mastering Social Media Mining with Python
+
+https://books.google.co.in/books?isbn=1783552026
+Marco Bonzanini - 2016 - ?Preview - ?More editions
+Acquire and analyze data from all corners of the social web with Python About This Book Make sense of highly unstructured social media data with the help of the insightful use cases provided in this guide Use this easy-to-follow, step-by ...
+Introduction to Programming in Python: An Interdisciplinary Approach
+
+https://books.google.co.in/books?isbn=0134076524
+Robert Sedgewick, ?Kevin Wayne, ?Robert Dondero - 2015 - ?Preview - ?More editions
+This example-driven guide focuses on Python�s most useful features and brings programming to life for every student in the sciences, engineering, and computer science.
+Making Music with Computers: Creative Programming in Python
+
+https://books.google.co.in/books?isbn=1482222213
+Bill Manaris, ?Andrew R. Brown - 2014 - ?Preview - ?More editions
+The book provides an introduction to creative software development in the Python programming language.
+Parallel Programming with Python
+
+https://books.google.co.in/books?isbn=178328840X
+Jan Palach - 2014 - ?Preview - ?More editions
+You are required to have a basic knowledge of Python development to get the most of this book.
+The Pig and the Python: How to Prosper from the Aging Baby Boom
+
+https://books.google.co.in/books?id=F90JAQAAMAAJ
+David Cork, ?Susan Lightstone - 1998 - ?Snippet view - ?More editions
+Explains the impact of the baby boom generation on the stock market and real estate market, and tells how to understand and take advantage of the trends created by this generation
+Python High Performance Programming
+
+https://books.google.co.in/books?isbn=1783288469
+Gabriele Lanaro - 2013 - ?Preview - ?More editions
+If you are a programmer who likes the power and simplicity of Python and would like to use this language for performance-critical applications, this book is ideal for you.
+Monty Python Speaks!
+
+https://books.google.co.in/books?id=aTYcAQAAIAAJ
+David Morgan - 1999 - ?Snippet view - ?More editions
+Introduction to Computer Science Using Python: A Computational ...
+
+https://books.google.co.in/books?isbn=1118476603
+Charles Dierbach - 2012 - ?No preview - ?More editions
+Introduction to Computer Science Using Python: A Computational Problem-Solving Focus introduces students to programming and computational problem-solving via a back-to-basics, step-by-step, objects-late approach that makes this book easy to ...
+Monty Python: a chronological listing of the troupe's creative ...
+
+https://books.google.co.in/books?id=14VZAAAAMAAJ
+Douglas L. McCall - 1991 - ?Snippet view
+Python for Software Design: How to Think Like a Computer Scientist
+
+https://books.google.co.in/books?isbn=1139129767
+Allen Downey - 2009 - ?No preview - ?More editions
+A no-nonsense introduction to software design using the Python programming language. Written for people with no programming experience, this book starts with the most basic concepts and gradually adds new material.
+Data Structures and Algorithms in Python
+
+https://books.google.co.in/books?isbn=1118476735
+Michael T. Goodrich, ?Roberto Tamassia, ?Michael H. Goldwasser - 2013 - ?No preview - ?More editions
+This is a "sister" book to Goodrich & Tamassia's "Data Structures and Algorithms in Java "and Goodrich, Tamassia and Mount's "Data Structures and Algorithms in C++.
+An Introduction to Python
+
+https://books.google.co.in/books?isbn=1906966133
+Guido Van Rossum, ?Fred L. Drake Jr - 2011 - ?No preview
+This book provides a unique perspective on these efforts, gathering into one volume concrete examples of the implementation of different strategies for social change that highlight the challenges involved.
+Think Stats: Exploratory Data Analysis
+
+https://books.google.co.in/books?isbn=1491907371
+Allen B. Downey - 2014 - ?Preview - ?More editions
+By working with a single case study throughout this thoroughly revised book, you�ll learn the entire process of exploratory data analysis�from collecting data and generating statistics to identifying patterns and testing hypotheses.
+Human Transit: How Clearer Thinking about Public Transit Can Enrich ...
+
+https://books.google.co.in/books?isbn=1610911741
+Jarrett Walker - 2012 - ?Preview - ?More editions
+Whether you are in the field or simply a concerned citizen, here is an accessible guide to achieving successful public transit that will enrich any community.
+Practical Programming: An Introduction to Computer Science Using Python
+
+https://books.google.co.in/books?isbn=1934356271
+Jennifer Campbell - 2009 - ?No preview
+Did you ever wonder how computers represent DNA? How they can download a web page containing population data and analyze it to spot trends? Or how they can change the colors in a color photograph? If so, this book is for you.
+Murach's Python Programming: Beginner to Pro
+
+https://books.google.co.in/books?isbn=1890774979
+Joel Murach, ?Michael Urban - 2016 - ?No preview
+This book is for anyone who wants to learn Python.
+If You Like Monty Python...: Here Are Over 200 Movies, TV Shows and ...
+
+https://books.google.co.in/books?isbn=0879104325
+Zack Handlen - 2011 - ?Preview - ?More editions
+This is the first book to look at everything influenced by the Pythons, but also at those who came before them from the classic British comedies to the Marx Brothers, and everything in the Python universe, from Fawlty Towers and A Fish ...
+The Ball Python
+
+https://books.google.co.in/books?isbn=1937049698
+Philippe De Vosjoli - 2012 - ?Preview - ?More editions
+Written by a team of internationally respected herpetologists led by Philippe de Vosjoli, The Ball Python Manual is an authoritative introduction to this popular snake.
+Applied Text Analysis with Python: Enabling Language Aware Data ...
+
+https://books.google.co.in/books?isbn=1491963042
+Benjamin Bengfort, ?Rebecca Bilbro, ?Tony Ojeda - 2017 - ?No preview
+Ultimately, this book will enable you to design and develop language-aware data products.
+Python 2.6 Graphics Cookbook
+
+https://books.google.co.in/books?isbn=1849513848
+Mike Ohlson de Fine - 2010 - ?No preview - ?More editions
+This book has recipes that show enthusiastic users how easy graphic programming can be.
+Game Programming with Python, Lua, and Ruby
+
+https://books.google.co.in/books?isbn=1592000770
+Tom Gutschmidt - 2003 - ?Snippet view - ?More editions
+"Game Programming with Python, Lua, and Ruby" offers an in-depth look at these three flexible languages as they relate to creating games. No matter what your skill level as a programmer, this book provides the guidance you need.
+Side Hustle: Build a side business and make extra money - without ...
+
+https://books.google.co.in/books?isbn=1509859063
+Chris Guillebeau - 2017 - ?Preview - ?More editions
+Enter the side hustle, a mini-business that earns you extra money. With Chris Guillebeau�s step-by-step guide, you can go from idea to income in just 27 days.
+Data Science and Analytics with Python
+
+https://books.google.co.in/books?isbn=1498742092
+Jesus Rogel-Salazar - 2017 - ?No preview - ?More editions
+The book can be used by seasoned programmers and newcomers alike. The book is organized in a way that individual chapters are sufficiently independent from each other so that the reader is comfortable using the contents as a reference.
+Expert Python Programming - Second Edition
+
+https://books.google.co.in/books?isbn=1785886851
+Michal Jaworski, ?Tarek Ziade - 2016 - ?No preview
+Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5About This Book- Based on the latest stable version of Python (version 3.5)- Creating well manageable code that will run in various ...
+Pym
+
+https://books.google.co.in/books?isbn=0812981766
+Mat Johnson - 2012 - ?No preview - ?More editions
+Een werkloze ex-docent Afrikaans-Amerikaanse literatuur ontdekt een 19e eeuws manuscript, gaat op basis daarvan op expeditie en doet een onwaarschijnlijke ontdekking.
+Pandas for Everyone: Python Data Analysis
+
+https://books.google.co.in/books?isbn=0134546938
+Daniel Y. Chen - 2017 - ?No preview
+Unlike other beginner's books, this guide helps today's newcomers learn both Python and its popular Pandas data science toolset in the context of tasks they'll really want to perform.
+Practical Programming: An Introduction to Computer Science Using ...
+
+https://books.google.co.in/books?isbn=1530427452
+Paul Gries, ?Jennifer Campbell, ?Jason Montojo - 2016 - ?No preview - ?More editions
+This book is for anyone who wants to understand computer programming.
+Learning IPython for Interactive Computing and Data Visualization
+
+https://books.google.co.in/books?isbn=1782169946
+Cyrille Rossant - 2013 - ?Preview - ?More editions
+A practical hands-on guide which focuses on interactive programming, numerical computing, and data analysis with IPython.This book is for Python developers who use Python as a scripting language or for software development, and are ...
+Rapid Web applications with TurboGears: using Python to create ...
+
+https://books.google.co.in/books?isbn=0132433885
+Mark Ramm, ?Kevin Dangoor, ?Gigi Sayfan - 2007 - ?No preview - ?More editions
+A guide to building Web applications using TurboGears covers such topics as SQLObject, CherryPy, the TurboGear toolbox, widgets, and MochiKit.
+The Practice of Computing Using Python
+
+https://books.google.co.in/books?isbn=013280557X
+William F. Punch, ?Richard J. Enbody - 2013 - ?No preview - ?More editions
+The book takes an �object-use-first� approach�writing classes is covered only after students have mastered using objects. This edition is available with MyProgrammingLab, an innovative online homework and assessment tool.
+Neural Network Programming with Python
+
+https://books.google.co.in/books?isbn=1784398217
+Fabio M. Soares, ?Rodrigo Nunes - 2017 - ?No preview
+Build smarter programs with the power of neural networks and the simplicity of PythonAbout This Book* Make your roots stronger in neural networks by this concept-rich yet highly practical guide; from single layer to multiple layers with the ...
+The Python Workbook: A Brief Introduction with Exercises and Solutions
+
+https://books.google.co.in/books?isbn=3319385615
+Ben Stephenson - 2016 - ?No preview - ?More editions
+Undergraduate students undergoing their first programming course and wishing to enhance their programming abilities will find the exercises and solutions provided in this book to be ideal for their needs.
+Programming for Computations - Python: A Gentle Introduction to ...
+
+https://books.google.co.in/books?isbn=3319324276
+Svein Linge, ?Hans Petter Langtangen - 2016 - ?No preview
+This book presents computer programming as a key method for solving mathematical problems. There are two versions of the book, one for MATLAB and one for Python.
+The Self-Taught Programmer: The Definitive Guide to Programming ...
+
+https://books.google.co.in/books?isbn=1520288174
+Cory Althoff - 2017 - ?No preview
+My journey learning to program, and my experience at my first job as a software engineer were the inspiration for this book. This book is not just about learning to program; although you will learn to code.
+The Borowitz Report: The Big Book of Shockers
+
+https://books.google.co.in/books?isbn=1439129495
+Andy Borowitz - 2010 - ?Preview - ?More editions
+The Borowitz Report: The Big Book of Shockers, by award-winning fake journalist Andy Borowitz, contains page after page of "news stories" too hot, too controversial, too -- yes, shocking -- for the mainstream press to handle.
+Data Structure and Algorithmic Thinking with Python
+
+https://books.google.co.in/books?isbn=8192107590
+Narasimha Karumanchi - 2015 - ?No preview
+"Data Structure and Algorithmic Thinking with Python" is designed to give a jump-start to programmers, job hunters and those who are appearing for exams. All the code in this book are written in Python.
+Maya Python for Games and Film: A Complete Reference for Maya Python ...
+
+https://books.google.co.in/books?isbn=0123785790
+Adam Mechtley, ?Ryan Trowbridge - 2011 - ?Preview - ?More editions
+Maya Python for Games and Film is the first book to focus exclusively on how to implement Python with Maya.
+Data Science from Scratch: First Principles with Python
+
+https://books.google.co.in/books?isbn=1491904402
+Joel Grus - 2015 - ?Preview - ?More editions
+In this book, you�ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
+The Python Language Reference Manual
+
+https://books.google.co.in/books?isbn=1906966141
+Guido Van Rossum, ?Fred L. Jr. Drake - 2011 - ?No preview - ?More editions
+This is a printed edition of the official Python language reference manual from the Python 3.2 distribution.
+MapReduce Design Patterns: Building Effective Algorithms and ...
+
+https://books.google.co.in/books?isbn=1449341985
+Donald Miner, ?Adam Shook - 2012 - ?Preview - ?More editions
+This book also provides a complete overview of MapReduce that explains its origins and implementations, and why design patterns are so important. All code examples are written for Hadoop.
+Coding Projects in Python
+
+https://books.google.co.in/books?isbn=1465461884
+Dorling Kindersley, Inc., ?Ben Morgan - 2017 - ?No preview
+Subtitle on cover: A step-by-step visual guide to creating your own Python projects.
+Advanced Python for Biologists
+
+https://books.google.co.in/books?isbn=1495244377
+Martin O. Jones - 2014 - ?No preview
+Advanced Python for Biologists is a programming course for workers in biology and bioinformatics who want to develop their programming skills.
+Python Data Structures and Algorithm
+
+https://books.google.co.in/books?isbn=1786467356
+Benjamin Baka - 2017 - ?No preview
+Implement classic and functional data structures and algorithms using PythonAbout This Book* A step by step guide, which will provide you with a thorough discussion on the analysis and design of fundamental Python data structures.* Get a ...
+An Introduction to Python and Computer Programming
+
+https://books.google.co.in/books?isbn=981287609X
+Yue Zhang - 2015 - ?Preview - ?More editions
+By giving the abstraction of implementation mechanisms, this book builds a solid understanding of the Python programming language. This book introduces Python programming language and fundamental concepts in algorithms and computing.
+Hello World!: Computer Programming for Kids and Other Beginners
+
+https://books.google.co.in/books?isbn=1617290920
+Warren Sande, ?Carter Sande - 2013 - ?No preview - ?More editions
+Presents a guide for beginners on the fundamentals of computer programming using the Python language.
+Test-driven Development: By Example
+
+https://books.google.co.in/books?isbn=0321146530
+Kent Beck - 2003 - ?Preview - ?More editions
+About software development through constant testing.
+Starting Out with Python
+
+https://books.google.co.in/books?isbn=0132576376
+Tony Gaddis - 2012 - ?No preview - ?More editions
+This text is intended for a one-semester introductory programming course for students with limited programming experience.
+Gun Digest Colt Python Assembly/Disassembly Instructions
+
+https://books.google.co.in/books?isbn=1440231591
+J.B. Wood - 2011 - ?Preview
+This short e-book teaches you how to take apart and reassemble your Colt Python with confidence.
+Programming the Canvas: HTML5 JavaScript Ruby Python Perl:
+
+https://books.google.co.in/books?isbn=0977781232
+Quan Nguyen - Preview
+Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming
+
+https://books.google.co.in/books?isbn=1593276141
+Bryson Payne - 2015 - ?Preview - ?More editions
+Teach Your Kids to Code is a parent's and teacher's guide to teaching kids basic programming and problem solving using Python, the powerful language used in college courses and by tech companies like Google and IBM.
+Mastering Django: Core
+
+https://books.google.co.in/books?isbn=1787286347
+Nigel George - 2016 - ?Preview - ?More editions
+The main goal of this book is to make you a Django expert. By reading this book, you'll learn the skills needed to develop powerful websites quickly, with code that is clean and easy to maintain.
+Python Machine Learning Cookbook
+
+https://books.google.co.in/books?isbn=1786467682
+Prateek Joshi - 2016 - ?Preview - ?More editions
+100 recipes that teach you how to perform various machine learning tasks in the real world About This Book Understand which algorithms to use in a given context with the help of this exciting recipe-based guide Learn about perceptrons and ...
+Modern Python Cookbook
+
+https://books.google.co.in/books?isbn=1786463849
+Steven F. Lott - 2016 - ?Preview - ?More editions
+The latest in modern Python recipes for the busy modern programmer About This Book Develop succinct, expressive programs in Python Learn the best practices and common idioms through carefully explained and structured recipes Discover new ...
+Head First Design Patterns Poster
+
+https://books.google.co.in/books?isbn=0596102143
+Elisabeth Robson, ?Eric Freeman - 2005 - ?No preview
+In addition, the poster includes the "best of" the Head First "Guide to Better Living with Patterns," including how to read a patterns catalog, the power of a shared vocabulary and annihilating evil with anti-patterns.
+The Complete Monty Python's Flying Circus: All the Words. Volume one
+
+https://books.google.co.in/books?isbn=0679726470
+Graham Chapman, ?Monty Python (Comedy troupe) - 1989 - ?No preview - ?More editions
+Presents the complete scripts of the Monty Python television series, first shown on BBC televison from 1969 to 1974
+Learn More Python 3: The Next Step for New Python Programmers
+
+https://books.google.co.in/books?isbn=0134123484
+Zed A. Shaw - 2017 - ?No preview
+In Learn Python 3 the Hard Way, Zed Shaw taught you the basics of Programming with Python 3. Now, in Learn More Python 3 the Hard Way, you'll go far beyond the basics by working through 52 brilliantly crafted projects.
+JavaScript: The Definitive Guide: The Definitive Guide
+
+https://books.google.co.in/books?isbn=0596554478
+David Flanagan - 2006 - ?Preview - ?More editions
+This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today's Web 2.0 applications.
+CherryPy Essentials: Rapid Python Web Application Development : ...
+
+https://books.google.co.in/books?isbn=1904811841
+Sylvain Hellegouarch - 2007 - ?No preview - ?More editions
+This book is principally geared towards Python web developers, who are looking to add the power of the CherryPy library to their existing Python skillset. It assumes a good working knowledge of Python.
+The Greedy Python
+
+https://books.google.co.in/books?isbn=0590462849
+Richard Buckley - 1985 - ?No preview
+A greedy python eats to excess, finally eating himself.
+Learn Ruby the Hard Way: A Simple and Idiomatic Introduction to the ...
+
+https://books.google.co.in/books?isbn=0133135632
+Zed A. Shaw - 2014 - ?Preview - ?More editions
+You bring the discipline, commitment, and persistence; the author supplies everything else. In Learn Ruby the Hard Way, Third Edition , you�ll learn Ruby by working through 52 brilliantly crafted exercises. Read them.
+Effective Computation in Physics: Field Guide to Research with Python
+
+https://books.google.co.in/books?isbn=1491901586
+Anthony Scopatz, ?Kathryn D. Huff - 2015 - ?Preview - ?More editions
+In four parts, this book includes: Getting Started: Jump into Python, the command line, data containers, functions, flow control and logic, and classes and objects Getting It Done: Learn about regular expressions, analysis and visualization ...
+Python Programming and Visualization for Scientists
+
+https://books.google.co.in/books?isbn=0972903372
+Alex Joseph DeCaria - 2016 - ?No preview - ?More editions
+The syntax of the language itself is easy to pick up, but learning how to plot and visualize data has required more effort in the past, since the relevant resources are spread across the Internet. Hence, the idea for this book.
+Programming with Python
+
+https://books.google.co.in/books?isbn=9811032769
+T R Padmanabhan - 2017 - ?No preview - ?More editions
+Based on the latest version of the language, this book offers a self-contained, concise and coherent introduction to programming with Python.
+Learn Python in One Day and Learn It Well: Python for Beginners with ...
+
+https://books.google.co.in/books?isbn=1506094384
+Jamie Chan - 2015 - ?No preview
+Python, what Python?
+Advanced Machine Learning with Python
+
+https://books.google.co.in/books?isbn=1784393835
+John Hearty - 2016 - ?Preview - ?More editions
+Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python About This Book Resolve complex machine learning problems and explore deep learning Learn to use Python code for implementing a range of ...
+Learn Programming with Python
+
+https://books.google.co.in/books?isbn=1617293784
+Ana Bell - 2017 - ?No preview
+With crystal-clear illustrations, simple tips, and fun projects, this book will help you think like a programmer and practice skills that you'll use in any programming language.
+Solving PDEs in Python: The FEniCS Tutorial I
+
+https://books.google.co.in/books?isbn=3319524615
+Hans Petter Langtangen, ?Anders Logg - 2017 - ?No preview
+This book is open access under a CC BY license. This book offers a concise and gentle introduction to finite element programming in Python based on the popular FEniCS software library.
+The Paleo Solution: The Original Human Diet
+
+https://books.google.co.in/books?id=BuIsDwAAQBAJ
+Robb Wolf - 2017 - ?Preview - ?More editions
+The Paleo Solution incorporates the latest, cutting edge research from genetics, biochemistry and anthropology to help you look, feel and perform your best.
+Scratch Programming Playground: Learn to Program by Making Cool Games
+
+https://books.google.co.in/books?isbn=1593277628
+Al Sweigart - 2016 - ?Preview - ?More editions
+Learning how to program shouldn�t be dry and dreary. With Scratch Programming Playground, you�ll make a game of it!
+Learning Python with Raspberry Pi
+
+https://books.google.co.in/books?isbn=1118717058
+Alex Bradbury, ?Ben Everard - 2014 - ?Preview - ?More editions
+Explains how to leverage the revolutionary Raspberry Pi computer in order to learn the versatile Python programming language. Original.
+The Pythons' Autobiography
+
+https://books.google.co.in/books?isbn=0752852426
+Monty Python, ?Graham Chapman, ?Bob McCabe - 2004 - ?No preview - ?More editions
+This is the definitive word on all things Pythonesque.
+Weapons of Math Destruction: How Big Data Increases Inequality and ...
+
+https://books.google.co.in/books?isbn=0141985429
+Cathy O'Neil - 2016 - ?Preview - ?More editions
+But in the end, it's up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change.
+Invent Your Own Computer Games with Python
+
+https://books.google.co.in/books?isbn=0982106017
+Al Sweigart - 2010 - ?No preview
+* * * * IMPORTANT NOTE: This is the 2nd edition. The 3rd edition is now available for sale or download. * * * * "Invent Your Own Computer Games with Python" teaches you computer programming in the Python programming language.
+Introducing Python: Modern Computing in Simple Packages
+
+https://books.google.co.in/books?isbn=1449361188
+Bill Lubanovic - 2014 - ?Preview - ?More editions
+This book also shows you how to use Python for applications in business, science, and the arts, using various Python tools and open source packages.
+HTML & CSS: The Complete Reference, Fifth Edition
+
+https://books.google.co.in/books?isbn=0071496297
+Thomas Powell - 2010 - ?No preview - ?More editions
+He is the author of the previous bestselling editions of this book and Ajax: The Complete Reference, and co-author of JavaScript: The Complete Reference.
+Using OpenRefine:
+
+https://books.google.co.in/books?isbn=1783289090
+Ruben Verborgh, ?Max De Wilde - 2013 - ?Preview - ?More editions
+The book is styled on a Cookbook, containing recipes - combined with free datasets - which will turn readers into proficient OpenRefine users in the fastest possible way.This book is targeted at anyone who works on or handles a large amount ...
+Introduction to Programming Concepts with Case Studies in Python
+
+https://books.google.co.in/books?isbn=3709113423
+Gokturk Ucoluk, ?Sinan Kalkan - 2012 - ?No preview - ?More editions
+The current text provides a clear introduction to Computer Science concepts in a programming environment.
+Python: wprowadzenie
+
+https://books.google.co.in/books?isbn=8371975961
+Mark Lutz - 2002 - ?No preview - ?More editions
+Practical Data Science Cookbook
+
+https://books.google.co.in/books?isbn=1783980257
+Tony Ojeda, ?Sean Patrick Murphy, ?Benjamin Bengfort - 2014 - ?Preview - ?More editions
+If you are an aspiring data scientist who wants to learn data science and numerical programming concepts through hands-on, real-world project examples, this is the book for you.
+Monty Python's second film: a first draft
+
+https://books.google.co.in/books?id=TiEcAQAAIAAJ
+Graham Chapman - 1977 - ?Snippet view - ?More editions
+The Secret State: Preparing For The Worst 1945 - 2010
+
+https://books.google.co.in/books?isbn=0141979208
+Peter Hennessy - 2014 - ?Preview - ?More editions
+This updated edition of The Secret State revises Hennessy's picture of the Soviet threat that was presented to ministers from the last days of the Second World War to the 1960s.
+Python Recipes Handbook: A Problem-Solution Approach
+
+https://books.google.co.in/books?isbn=1484202414
+Joey Bernard - 2016 - ?Preview
+This book is your handy code cookbook reference. Whether you're a maker, game developer, cloud computing programmer and more, this is a must-have reference for your library.
+Python Data Visualization Cookbook:
+
+https://books.google.co.in/books?isbn=1782163360
+Igor Milovanovic - 2013 - ?No preview - ?More editions
+During the book, we go from simple plots and charts to more advanced ones, thoroughly explaining why we used them and how not to use them. As we go through the book, we will also discuss 3D diagrams.
+DATA STRUCTURES AND ALGORITHMS WITH OBJECT- ORIENTED DESIGN PATTERNS ...
+
+https://books.google.co.in/books?isbn=8126516437
+Bruno R. Preiss - 2008 - ?Preview - ?More editions
+About The Book: Bruno Preiss presents readers with a modern, object-oriented perspective for looking at data structures and algorithms, clearly showing how to use polymorphism and inheritance, and including fragments from working and tested ...
+Python for Everyone
+
+https://books.google.co.in/books?id=10DhCgAAQBAJ
+Cay S. Horstmann, ?Rance D. Necaise - 2016 - ?No preview - ?More editions
+The inclusion of advanced chapters makes the text suitable for a 2 or 3-term sequence, or as a comprehensive reference to programming in Python. Major rewrites and an updated visual design make this student-friendly text even more engaging.
+Python Data Analytics: Data Analysis and Science using pandas, ...
+
+https://books.google.co.in/books?isbn=1484209591
+Fabio Nelli - 2015 - ?No preview - ?More editions
+This book is an invaluable reference with its examples of storing and accessing data in a database; it walks you through the process of report generation; it provides three real world case studies or examples that you can take with you for ...
+Learning Python for Forensics
+
+https://books.google.co.in/books?isbn=1783285249
+Preston Miller, ?Chapin Bryce - 2016 - ?Preview - ?More editions
+Learn the art of designing, developing, and deploying innovative forensic solutions through Python About This Book This practical guide will help you solve forensic dilemmas through the development of Python scripts Analyze Python scripts ...
+Python GUI Programming Cookbook
+
+https://books.google.co.in/books?isbn=1785287486
+Burkhard A. Meier - 2015 - ?Preview - ?More editions
+Over 80 object-oriented recipes to help you create mind-blowing GUIs in Python About This Book Use object-oriented programming to develop amazing GUIs in Python Create a working GUI project as a central resource for developing your Python ...
+The Jhipster Mini-Book
+
+https://books.google.co.in/books?isbn=132963814X
+Matt Raible - 2016 - ?No preview
+The things you need to do to set up a new software project can be daunting.
+Object-oriented Programming in Python
+
+https://books.google.co.in/books?isbn=0136150314
+Michael H. Goldwasser, ?David Letscher - 2008 - ?No preview
+This book presents a balanced and flexible approach to the incorporation of object-oriented principles in introductory courses using Python.
+Previous
+1
+2
+Sitara Devi�s 97th birthday
+
+
+python
+
+
+AllImagesMapsBooksNewsMore
+SettingsTools
+Page 4 of about 4,09,000 results (1.11 seconds) 
+Search Results
+An Introduction to Neural Networks
+
+https://books.google.co.in/books?isbn=0203451511
+Kevin Gurney - 2003 - ?Preview - ?More editions
+As a comprehensive and highly accessible introduction to one of the most important topics in cognitive and computer science, this volume should interest a wide range of readers, both students and professionals, in cognitive science, ...
+Learning Python Application Development
+
+https://books.google.co.in/books?isbn=1785885707
+Ninad Sathaye - 2016 - ?Preview - ?More editions
+Who This Book Is For Do you know the basics of Python and object oriented programming? Do you want to go an extra mile and learn techniques to make your Python application robust, extensible, and efficient? Then this book is for you.
+Learning OpenCV 3 Computer Vision with Python
+
+https://books.google.co.in/books?isbn=1785289772
+Joe Minichino, ?Joseph Howse - 2015 - ?Preview
+Unleash the power of computer vision with Python using OpenCV About This Book Create impressive applications with OpenCV and Python Familiarize yourself with advanced machine learning concepts Harness the power of computer vision with this ...
+Bayesian Analysis with Python
+
+https://books.google.co.in/books?isbn=1785889850
+Osvaldo Martin - 2016 - ?Preview - ?More editions
+Unleash the power and flexibility of the Bayesian framework About This Book Simplify the Bayes process for solving complex statistical problems using Python; Tutorial guide that will take the you through the journey of Bayesian analysis ...
+The Cathedral & the Bazaar: Musings on Linux and Open Source by an ...
+
+https://books.google.co.in/books?isbn=059655396X
+Eric S. Raymond - 2001 - ?Preview - ?More editions
+According to Bob Young, "This is Eric Raymond's great contribution to the success of the open source revolution, to the adoption of Linux-based operating systems, and to the success of open source users and the companies that supply them.
+Monty Python's The Life of Brian (of Nazareth)
+
+https://books.google.co.in/books?id=TojRAQAACAAJ
+Monty Python (Comedy troupe), ?Graham Chapman - 1979 - ?No preview - ?More editions
+The Pythons satirize religion, capital punishment, revolutionary politics, terrorism, grafitti, science fiction, and a host of other topics through the story of Brian, a first century Judean.
+Functional Programming: Practice and Theory
+
+https://books.google.co.in/books?isbn=0201137445
+Bruce J. MacLennan - 1990 - ?Snippet view - ?More editions
+This book is more than an introduction to programming in functional languages; it introduces functional programming as a new programming paradigm.
+Python: Real World Machine Learning
+
+https://books.google.co.in/books?isbn=1787120678
+Prateek Joshi, ?John Hearty, ?Bastiaan Sjardin - 2016 - ?Preview
+Learn to solve challenging data science problems by building powerful machine learning models using Python About This Book Understand which algorithms to use in a given context with the help of this exciting recipe-based guide This ...
+Learning with Big Data: The Future of Education
+
+https://books.google.co.in/books?isbn=0544355504
+Viktor Mayer-Sch�nberger, ?Kenneth Cukier - 2014 - ?Preview
+Homework assignments that learn from students. Courses tailored to fit individual pupils. Textbooks that talk back. This is tomorrow�s education landscape, thanks to the power of big data. These advances go beyond online courses.
+Getting Started with Arduino
+
+https://books.google.co.in/books?isbn=1449309879
+Massimo Banzi - 2011 - ?Preview - ?More editions
+Presents an introduction to the open-source electronics prototyping platform.
+Pro Python Best Practices: Debugging, Testing and Maintenance
+
+https://books.google.co.in/books?isbn=1484222415
+Kristian Rother - 2017 - ?Preview - ?More editions
+Learn software engineering and coding best practices to write Python code right and error free. In this book you�ll see how to properly debug, organize, test, and maintain your code, all of which leads to better, more efficient coding.
+Learning Penetration Testing with Python
+
+https://books.google.co.in/books?isbn=1785289551
+Christopher Duffy - 2015 - ?Preview - ?More editions
+Utilize Python scripting to execute effective and efficient penetration tests About This Book Understand how and where Python scripts meet the need for penetration testing Familiarise yourself with the process of highlighting a specific ...
+Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, ...
+
+https://books.google.co.in/books?isbn=1449368212
+Matthew A. Russell - 2013 - ?Preview - ?More editions
+Employ the Natural Language Toolkit, NetworkX, and other scientific computing tools to mine popular social web sites Apply advanced text-mining techniques, such as clustering and TF-IDF, to extract meaning from human language data Bootstrap ...
+Concrete Abstractions: An Introduction to Computer Science Using Scheme
+
+https://books.google.co.in/books?isbn=0534952119
+Max Hailperin, ?Barbara Kaiser, ?Karl Knight - 1999 - ?Full view
+This text covers the basics of programming and data structures, and gives first-time computer science students the opportunity to not only write programs, but to prove theorems and analyze algorithms as well.
+Python Data Analysis
+
+https://books.google.co.in/books?isbn=1783553367
+Ivan Idris - 2014 - ?Preview - ?More editions
+This book is for programmers, scientists, and engineers who have knowledge of the Python language and know the basics of data science. It is for those who wish to learn different data analysis methods using Python and its libraries.
+Learning pandas - Page 1
+
+https://books.google.co.in/books?isbn=1783985135
+Michael Heydt - 2015 - ?Preview - ?More editions
+If you are a Python programmer who wants to get started with performing data analysis using pandas and Python, this is the book for you. Some experience with statistical analysis would be helpful but is not mandatory.
+Python Phrasebook
+
+https://books.google.co.in/books?isbn=8131709078
+Dayley - 2007 - ?Preview - ?More editions
+Python Playground: Geeky Projects for the Curious Programmer
+
+https://books.google.co.in/books?isbn=1593276044
+Mahesh Venkitachalam - 2015 - ?Preview - ?More editions
+Have some solid, geeky fun with Python Playground. The projects in this book are compatible with both Python 2 and 3.
+Large Scale Machine Learning with Python
+
+https://books.google.co.in/books?isbn=1785888021
+Bastiaan Sjardin, ?Luca Massaron, ?Alberto Boschetti - 2016 - ?Preview - ?More editions
+Learn to build powerful machine learning models quickly and deploy large-scale predictive applications About This Book Design, engineer and deploy scalable machine learning solutions with the power of Python Take command of Hadoop and Spark ...
+Core Python Applications Programming
+
+https://books.google.co.in/books?isbn=0132678209
+Wesley Chun - 2012 - ?Snippet view - ?More editions
+Demonstrates the programming language's strength as a Web development tool, covering such topics as regular expressions, Django, cloud computing, and Web services, and includes real world examples.
+Make Your Own Neural Network: A Gentle Journey Through the ...
+
+https://books.google.co.in/books?isbn=1530826608
+Tariq Rashid - 2016 - ?No preview
+Yet too few really understand how neural networks actually work. This guide will take you on a fun and unhurried journey, starting from very simple ideas, and gradually building up an understanding of how neural networks work.
+Mastering matplotlib
+
+https://books.google.co.in/books?isbn=1783987553
+Duncan M. McGreggor - 2015 - ?Preview - ?More editions
+Supported by highly-detailed IPython Notebooks, this book takes you through the conceptual components underlying the library and then provides a detailed overview of its APIs.
+Building Recommendation Engines
+
+https://books.google.co.in/books?isbn=1785883534
+Suresh Kumar Gorakala - 2016 - ?Preview - ?More editions
+Understand your data and user preferences to make intelligent, accurate, and profitable decisions About This Book A step-by-step guide to building recommendation engines that are personalized, scalable, and real time Get to grips with the ...
+Raspberry Pi Cookbook for Python Programmers
+
+https://books.google.co.in/books?isbn=1849696632
+Tim Cox - 2014 - ?Preview - ?More editions
+The aim of this book is to bring you a broad range of Python 3 examples and practical ideas which you can develop to suit your own requirements.
+Introduction to Programming Using Python
+
+https://books.google.co.in/books?isbn=0132747189
+Y. Daniel Liang - 2013 - ?No preview - ?More editions
+Introduction to Programming Using Python is intended for use in the introduction to programming course. Daniel Liang is known for his �fundamentals-first� approach to teaching programming concepts and techniques.
+Bayesian Methods for Hackers: Probabilistic Programming and Bayesian ...
+
+https://books.google.co.in/books?isbn=0133902927
+Cameron Davidson-Pilon - 2015 - ?Preview - ?More editions
+Once you�ve mastered these techniques, you�ll constantly turn to this guide for the working PyMC code you need to jumpstart future projects.
+Learning Geospatial Analysis with Python
+
+https://books.google.co.in/books?isbn=1785281410
+Joel Lawhead - 2015 - ?Preview - ?More editions
+An effective guide to geographic information systems and remote sensing analysis using Python 3 About This Book Construct applications for GIS development by exploiting Python This focuses on built-in Python modules and libraries compatible ...
+Doing Data Science: Straight Talk from the Frontline
+
+https://books.google.co.in/books?isbn=144936389X
+Cathy O'Neil, ?Rachel Schutt - 2013 - ?Preview - ?More editions
+But how can you get started working in a wide-ranging, interdisciplinary field that�s so clouded in hype? This insightful book, based on Columbia University�s Introduction to Data Science class, tells you what you need to know.
+Beginning Node.js
+
+https://books.google.co.in/books?isbn=1484201876
+Basarat Syed - 2014 - ?Preview - ?More editions
+This book explains everything for you from a beginner level, enabling you to start using Node.js in your projects right away. Using this book you will learn important Node.js concepts for server-side programming.
+Unbelievable: My Front-Row Seat to the Craziest Campaign in American ...
+
+https://books.google.co.in/books?isbn=0062684949
+Katy Tur - 2017 - ?Preview - ?More editions
+NEW YORK TIMES BESTSELLER �Compelling� this book couldn�t be more timely.� � Jill Abramson, New York Times Book Review From the Recipient of the 2017 Walter Cronkite Award for Excellence in Journalism Called "disgraceful," "third ...
+Effective Java
+
+https://books.google.co.in/books?isbn=8131726592
+Joshua Bloch - 2008 - ?Preview - ?More editions
+Python Data Analysis Cookbook
+
+https://books.google.co.in/books?isbn=1785283855
+Ivan Idris - 2016 - ?Preview - ?More editions
+Over 140 practical recipes to help you make sense of your data with ease and build production-ready data apps About This Book Analyze Big Data sets, create attractive visualizations, and manipulate and process various data types Packed with ...
+Python for Secret Agents
+
+https://books.google.co.in/books?isbn=1783980435
+Steven F. Lott - 2014 - ?Preview - ?More editions
+If you are a Python beginner who is looking to learn the language through interesting projects, this book is for you. A basic knowledge of programming and statistics is beneficial to get the most out of the book.
+Python Parallel Programming Cookbook
+
+https://books.google.co.in/books?isbn=1785286722
+Giancarlo Zaccone - 2015 - ?Preview - ?More editions
+Master efficient parallel programming to build powerful applications using Python About This Book Design and implement efficient parallel software Master new programming techniques to address and solve complex programming problems Explore ...
+Python Web Penetration Testing Cookbook
+
+https://books.google.co.in/books?isbn=1784399906
+Cameron Buchanan, ?Terry Ip, ?Andrew Mabbitt - 2015 - ?Preview - ?More editions
+This book gives you an arsenal of Python scripts perfect to use or to customize your needs for each stage of the testing process.
+Python: Master the Art of Design Patterns
+
+https://books.google.co.in/books?isbn=1787125181
+Dusty Phillips, ?Chetan Giridhar, ?Sakis Kasampalis - 2017 - ?No preview - ?More editions
+Ensure your code is sleek, efficient and elegant by mastering powerful Python design patternsAbout This Book- Learn all about abstract design patterns and how to implement them in Python 3- Understand the structural, creational, and ...
+Web Development with Django Cookbook
+
+https://books.google.co.in/books?isbn=1783286903
+Aidas Bendoraitis - 2014 - ?Preview - ?More editions
+If you have created websites with Django, but you want to sharpen your knowledge and learn some good approaches for how to treat different aspects of web development, you should definitely read this book.
+Hands-On Machine Learning with Scikit-Learn and TensorFlow: ...
+
+https://books.google.co.in/books?isbn=1491962267
+Aur�lien G�ron - 2017 - ?Preview - ?More editions
+Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.
+Scala for the Impatient - Page 1
+
+https://books.google.co.in/books?isbn=0134540654
+Cay S. Horstmann - 2016 - ?Preview - ?More editions
+This is the eBook of the printed book and may not include any media, website access codes, or print supplements that may come packaged with the bound book.
+Scala Cookbook: Recipes for Object-Oriented and Functional Programming
+
+https://books.google.co.in/books?isbn=1449340334
+Alvin Alexander - 2013 - ?Preview - ?More editions
+Packed with real-world scenarios, this book provides recipes for: Strings, numeric types, and control structures Classes, methods, objects, traits, and packaging Functional programming in a variety of situations Collections covering Scala's ...
+Python Data Structures and Algorithms
+
+https://books.google.co.in/books?isbn=1786465337
+Benjamin Baka - 2017 - ?No preview
+Chapter 2: Python Data Types and Structures; Operations and expressions; Boolean operations; Comparison and Arithmetic operators; Membership, identity, and logical operations; Built-in data types; None type; Numeric Types; Representation ...
+Practical Data Analysis
+
+https://books.google.co.in/books?isbn=1785286668
+Hector Cuesta, ?Dr. Sampath Kumar - 2016 - ?Preview - ?More editions
+A practical guide to obtaining, transforming, exploring, and analyzing data using Python, MongoDB, and Apache Spark About This Book Learn to use various data analysis tools and algorithms to classify, cluster, visualize, simulate, and ...
+Learning OpenCV 3 Computer Vision with Python - Second Edition
+
+https://books.google.co.in/books?isbn=1785283847
+Joe Minichino - 2015 - ?No preview
+Unleash the power of computer vision with Python using OpenCVAbout This Book- Create impressive applications with OpenCV and Python- Familiarize yourself with advanced machine learning concepts- Harness the power of computer vision with ...
+Coding for Beginners: Using Python
+
+https://books.google.co.in/books?isbn=1409599345
+Louie Stowell - 2017 - ?No preview - ?More editions
+An introduction to coding for complete beginners, this friendly and accessible book will teach children the basics of Python (a widely used programming language), allowing them to get inside the code of their computer and create simple ...
+Mastering Docker
+
+https://books.google.co.in/books?isbn=1785289241
+Scott Gallagher - 2015 - ?Preview - ?More editions
+Rethink what's possible with Docker � become an expert in the innovative containerization tool to unlock new opportunities in the way you use and deploy software About This Book Create highly scalable applications and services using the ...
+Advanced Computer Architecture, 2E
+
+https://books.google.co.in/books?isbn=0070702101
+Hwang - 2011 - ?Preview - ?More editions
+Intellectual Property and Open Source: A Practical Guide to ...
+
+https://books.google.co.in/books?isbn=1449391109
+Van Lindberg - 2008 - ?Preview - ?More editions
+"Clear, correct, and deep, this is a welcome addition to discussions of law and computing for anyone -- even lawyers!
+The Definitive Guide to Django: Web Development Done Right
+
+https://books.google.co.in/books?isbn=1430219378
+Adrian Holovaty, ?Jacob Kaplan-Moss - 2009 - ?Preview - ?More editions
+This latest edition of The Definitive Guide to Django is updated for Django 1.1, and, with the forward�compatibility guarantee that Django now provides, should serve as the ultimate tutorial and reference for this popular framework for ...
+Coding Club Python Basics Level 1
+
+https://books.google.co.in/books?isbn=1107658551
+Chris Roffey - 2012 - ?Preview
+A unique series that provides a framework for teaching coding skills. Learn the basics of coding quickly! This lively book is an introduction to the world of coding and to Python 3 - a fantastic language to start coding with.
+Annotated Algorithms in Python: With Applications in Physics, ...
+
+https://books.google.co.in/books?isbn=0991160401
+Massimo Di Pierro - 2013 - ?No preview
+This book is assembled from lectures given by the author over a period of 10 years at the School of Computing of DePaul University.
+Responsive Environments
+
+https://books.google.co.in/books?isbn=1135143455
+Sue McGlynn, ?Graham Smith, ?Alan Alcock - 2013 - ?Preview - ?More editions
+Ideals must be linked through appropriate design ideas to the fabric of the built environemnt itself. This book is a practical attempt to show how this can be done.
+Hacking, 2nd Edition: The Art of Exploitation
+
+https://books.google.co.in/books?isbn=1593271441
+Jon Erickson - 2008 - ?Preview - ?More editions
+An introduction to hacking describes the techniques of computer hacking, covering such topics as stack-based overflows, format string exploits, network security, cryptographic attacks, and shellcode.
+Mastering Natural Language Processing with Python
+
+https://books.google.co.in/books?isbn=178398905X
+Deepti Chopra, ?Nisheeth Joshi, ?Iti Mathur - 2016 - ?Preview - ?More editions
+Maximize your NLP capabilities while creating amazing NLP projects in Python About This Book Learn to implement various NLP tasks in Python Gain insights into the current and budding research topics of NLP This is a comprehensive step-by ...
+The Trouble with Reality: A Rumination on Moral Panic in Our Time
+
+https://books.google.co.in/books?isbn=1523502622
+Brooke Gladstone - 2017 - ?Preview - ?More editions
+History tells us we can count on it. Brief and bracing, The Trouble with Reality shows exactly why so many of us didn�t see it coming, and how we can recover both our belief in reality�and our sanity.
+Algorithms and Programming: Problems and Solutions
+
+https://books.google.co.in/books?isbn=1441917489
+Alexander Shen - 2011 - ?Preview - ?More editions
+This text is structured in a problem-solution format that requires the student to think through the programming process.
+The Web Application Hacker's Handbook: Discovering and Exploiting ...
+
+https://books.google.co.in/books?isbn=1118079612
+Dafydd Stuttard, ?Marcus Pinto - 2011 - ?Preview - ?More editions
+This innovative book shows you how they do it. This is hands-on stuff.
+Two Scoops of Django: Best Practices for Django 1.8
+
+https://books.google.co.in/books?isbn=0981467342
+Audrey Roy Greenfeld, ?Daniel Roy Greenfeld - 2015 - ?No preview - ?More editions
+"Two scoops of Django introduces you to various tips, tricks, patterns, code snippets, and techniques . . ."--Page 4 of cover.
+The Once and Future King
+
+https://books.google.co.in/books?isbn=0007375565
+T. H. White - 2010 - ?Preview - ?More editions
+The extraordinary story of a boy called Wart � ignored by everyone except his tutor, Merlin � who goes on to become King Arthur.
+Python Unit Test Automation: Practical Techniques for Python ...
+
+https://books.google.co.in/books?isbn=1484226763
+Ashwin Pajankar - 2017 - ?No preview - ?More editions
+All of which makes this book a great resource for software developers and testers who want to get started with unit test automation in Python 3.
+Learn to Program
+
+https://books.google.co.in/books?isbn=1934356360
+Chris Pine - 2009 - ?No preview - ?More editions
+Provides instructions for writing programs using the Ruby programming language.
+Lightweight Django: Using REST, WebSockets, and Backbone
+
+https://books.google.co.in/books?isbn=149194630X
+Julia Elman, ?Mark Lavin - 2014 - ?Preview - ?More editions
+Once you finish this book, you�ll know how to build single-page applications that respond to interactions in real time. If you�re familiar with Python and JavaScript, you�re good to go.
+Machine Learning with R
+
+https://books.google.co.in/books?isbn=1782162151
+Brett Lantz - 2013 - ?Preview - ?More editions
+Perhaps you already know a bit about machine learning, but have never used R; or perhaps you know a little R but are new to machine learning. In either case, this book will get you up and running quickly.
+OpenCV: Computer Vision Projects with Python
+
+https://books.google.co.in/books?isbn=1787123847
+Joseph Howse, ?Prateek Joshi, ?Michael Beyeler - 2016 - ?Preview - ?More editions
+Get savvy with OpenCV and actualize cool computer vision applications About This Book Use OpenCV's Python bindings to capture video, manipulate images, and track objects Learn about the different functions of OpenCV and their actual ...
+Dragonsong
+
+https://books.google.co.in/books?isbn=1481448609
+Anne McCaffrey - 2016 - ?Preview - ?More editions
+On the planet Pern, after her father forbids her to indulge in music in any way, fifteen-year-old Menolly, runs away and takes shelter with the planet's fire lizards who, along with her music, open a new life for her.
+The Python's Back: Pathways of Comparison Between Indonesia and ...
+
+https://books.google.co.in/books?isbn=0897897072
+Andrew Strathern, ?Pamela J. Stewart - 2000 - ?Preview - ?More editions
+The authors investigate a wide range of comparative themes from Eastern Indonesia and the Highlands of Papua New Guinea--including slavery, cassowary myths, female spirits, and historical change--and show the value of a thematic approach to ...
+Pro Android Python with SL4A
+
+https://books.google.co.in/books?isbn=1430235691
+Paul Ferrill - 2011 - ?Preview - ?More editions
+You'll learn to write small location-aware apps to get you started, but by the end of this book, you'll find yourself writing fully GUI-fied applications running on the Android desktop!
+ArcGIS Blueprints
+
+https://books.google.co.in/books?isbn=1785283626
+Eric Pimpler - 2015 - ?Preview - ?More editions
+Explore the robust features of Python to create real-world ArcGIS applications through exciting, hands-on projects About This Book Get to grips with the big world of Python add-ins and wxPython in GUI development to implement their features ...
+Data Structures and Algorithms Made Easy: Data Structures and ...
+
+https://books.google.co.in/books?isbn=819324527X
+Narasimha Karumanchi - 2016 - ?No preview - ?More editions
+There are multiple solutions for each problem and the book is coded in C/C++, it comes handy as an interview and exam guide for computer scientists.
+Raspberry Pi I/O Programming Using Python:
+
+https://books.google.co.in/books?id=3bWjBAAAQBAJ
+Agus Kurniawan - Preview
+This book provides alternative approach to access Raspberry Pi I/O using Python.
+Universal Principles of Design, Revised and Updated: 125 Ways to ...
+
+https://books.google.co.in/books?isbn=1592535879
+William Lidwell, ?Kritina Holden, ?Jill Butler - 2010 - ?Preview - ?More editions
+A cross-disciplinary reference of design. Pairs common design concepts with examples that illustrate them in practice.
+Venus in Fur
+
+https://books.google.co.in/books?isbn=0822225336
+David Ives - 2012 - ?Preview - ?More editions
+THE STORY: Thomas, a beleaguered playwright/director, is desperate to find an actress to play Vanda, the female lead in his adaptation of the classic sadomasochistic tale Venus in Fur .
+Programming ArcGIS with Python Cookbook
+
+https://books.google.co.in/books?isbn=1785281259
+Eric Pimpler - 2015 - ?Preview - ?More editions
+The book kicks off with the fundamentals of starting to use Python with ArcGIS, followed by recipes on managing map documents and layers, including how to find and fix broken data links in these files.
+Getting Things Done: the art of stress-free productivity
+
+https://books.google.co.in/books?isbn=0857979728
+David Allen - 2015 - ?Preview - ?More editions
+Do you despair of finding time to concentrate on the bigger picture? This book offers powerful, practical strategies for vastly increasing your organisation, efficiency and creativity - in work and life.
+An Introduction to Machine Learning
+
+https://books.google.co.in/books?isbn=3319639137
+Miroslav Kubat - 2017 - ?Preview - ?More editions
+One chapter is dedicated to the popular genetic algorithms. This revised edition contains three entirely new chapters on critical topics regarding the pragmatic application of machine learning in industry.
+Python Programming with the Java Class Libraries: A Tutorial for ...
+
+https://books.google.co.in/books?isbn=0201616165
+Richard Hightower - 2003 - ?Preview - ?More editions
+Using plenty of skill-building exercises and interactive programming sessions, this book will help those new to programming develop an understanding of concepts and practical techniques.
+Programming Collective Intelligence: Building Smart Web 2.0 Applications
+
+https://books.google.co.in/books?isbn=0596550685
+Toby Segaran - 2007 - ?Preview - ?More editions
+This book explains: Collaborative filtering techniques that enable online retailers to recommend products or media Methods of clustering to detect groups of similar items in a large dataset Search engine features -- crawlers, indexers, ...
+Statistics Done Wrong: The Woefully Complete Guide
+
+https://books.google.co.in/books?isbn=1593276206
+Alex Reinhart - 2015 - ?Preview - ?More editions
+Statistics Done Wrong describes how researchers often go wrong and teaches you the best practices for avoiding their mistakes.
+The Beatles' Story on Capitol Records - Part 2
+
+https://books.google.co.in/books?isbn=0966264924
+2000 - ?Snippet view - ?More editions
+"The Beatles'Story on Capitol Records, Part Two: The Albums" is the second volume of Bruce Spizer's epic Capitol project. The book opens in 1964 with the release of "Meet The Beatles!" and moves forward through 1967's "Magical Mystery Tour.
+Developing Bioinformatics Computer Skills
+
+https://books.google.co.in/books?isbn=1565926641
+Cynthia Gibas, ?Per Jambeck - 2001 - ?Preview - ?More editions
+Offers a structured approach to biological data and the computer tools needed to analyze it, covering UNIX, databases, computation, Perl, data mining, data visualization, and tailoring software to suit specific research needs.
+Game Programming with Python
+
+https://books.google.co.in/books?isbn=1584502584
+Sean Riley - 2004 - ?No preview
+Bartleby the Scrivener: A Story of Wall Street
+
+https://books.google.co.in/books?isbn=1300009470
+Herman Melville - 2017 - ?Preview - ?More editions
+"Bartleby the Scrivener: A Story of Wall Street" is a short work by the American novelist Herman Melville.
+Python Essentials
+
+https://books.google.co.in/books?isbn=1784398144
+Steven F. Lott - 2015 - ?Preview - ?More editions
+Python Essentials provides a vital tour of the most critical features of Python.
+Data Science Essentials in Python: Collect - Organize - Explore - ...
+
+https://books.google.co.in/books?isbn=1680501844
+Dmitry Zinoviev, ?Katharine Dvorak - 2016 - ?No preview
+"Data science is one of the fastest-growing disciplines in terms of academic research, student enrollment, and employment.
+Teach Yourself C++ in 21 Days
+
+https://books.google.co.in/books?id=A3pGAAAAYAAJ
+Jesse Liberty - 1994 - ?Snippet view - ?More editions
+The only way to learn to program is to write code. With this guide you'll be writing programs in just a matter of days.
+Sunshine Sketches of a Little Town
+
+https://books.google.co.in/books?isbn=1447480872
+Stephen Leacock - 2016 - ?Preview - ?More editions
+Many vintage books such as this are increasingly scarce and expensive. We are republishing this volume now in an affordable, modern edition complete with a specially commissioned new introduction. This book was first published in 1912.
+A Concise Introduction to Programming in Python
+
+https://books.google.co.in/books?isbn=1498759696
+Mark J. Johnson - 2015 - ?Preview - ?More editions
+Designed to teach programming in a concise, yet comprehensive way, this book provides a timely introduction for students and anyone interested in learning Python.
+Django By Example
+
+https://books.google.co.in/books?isbn=1784398411
+Antonio Mele - 2015 - ?Preview - ?More editions
+Create your own line of successful web applications with Django About This Book Learn Django by building four fully-functional, real-world web applications from scratch Develop powerful web applications quickly using the best coding ...
+The Gun Seller
+
+https://books.google.co.in/books?isbn=1446411257
+Hugh Laurie - 2011 - ?Preview - ?More editions
+When Thomas Lang, a hired gunman with a soft heart, is contracted to assassinate an American industrialist, he opts instead to warn the intended victim - a good deed that doesn't go unpunished.
+Python: Beginner's Guide to Programming Code with Python
+
+https://books.google.co.in/books?isbn=154050199X
+Charlie Masterson - 2016 - ?No preview - ?More editions
+Regularly priced at $20.99. In this Definitive Python Guide, you're about to discover... How to program code in Python through learning the core essentials that every Python programmer must know.
+The English Roses
+
+https://books.google.co.in/books?isbn=0670061808
+Madonna - 2006 - ?No preview - ?More editions
+Four best friends are jealous of a neighbor girl and refuse to have anything to do with her, until they each have a dream in which a fairy godmother shows them what the girl's life is really like.
+Think Java: How to Think Like a Computer Scientist
+
+https://books.google.co.in/books?isbn=1491929537
+Allen B. Downey, ?Chris Mayfield - 2016 - ?Preview - ?More editions
+The goal of this concise book is not just to teach you Java, but to help you think like a computer scientist. You�ll learn how to program�a useful skill by itself�but you�ll also discover how to use programming as a means to an end.
+Marketing Data Science: Modeling Techniques in Predictive Analytics ...
+
+https://books.google.co.in/books?isbn=0133887340
+Thomas W. Miller - 2015 - ?Preview - ?More editions
+This text's extensive set of web and network problems draw on rich public-domain data sources; many are accompanied by solutions in Python and/or R. Marketing Data Science will be an invaluable resource for all students, faculty, and ...
+A Student's Guide to Python for Physical Modeling
+
+https://books.google.co.in/books?isbn=0691169586
+Jesse M. Kinder, ?Philip Nelson - 2015 - ?No preview - ?More editions
+This is a clever text, inviting students to take that most important step: to dive right in and start coding.
+Beginning Python: Using Python 2.6 and Python 3.1
+
+https://books.google.co.in/books?isbn=1118057309
+James Payne - 2011 - ?No preview - ?More editions
+Beginning Python: Introduces the concepts of variables for storing and manipulating data Examines files and input/output for reading or writing data Reviews examples of often-overlooked features of Python Delves into writing tests for ...
+Robotics, Vision and Control: Fundamental Algorithms In MATLAB� ...
+
+https://books.google.co.in/books?isbn=3319544136
+Peter Corke - 2017 - ?Preview - ?More editions
+They provide implementations of many important algorithms and allow users to work with real problems, not just trivial examples. This book makes the fundamental algorithms of robotics, vision and control accessible to all.
+Getting Started with Pyparsing
+
+https://books.google.co.in/books?isbn=0596514239
+Paul McGuire - 2007 - ?Preview
+Need to extract data from a text file or aweb page?
+Building RESTful Python Web Services
+
+https://books.google.co.in/books?isbn=178646425X
+Gaston C. Hillar - 2016 - ?Preview - ?More editions
+Create web services that are lightweight, maintainable, scalable, and secure using the best tools and techniques designed for Python About This Book Develop RESTful Web Services using the most popular frameworks in Python Configure and fine ...
+GUI Programming with Python: Qt Edition
+
+https://books.google.co.in/books?isbn=0970033044
+Boudewijn Rempt - 2001 - ?No preview - ?More editions
+Python Annotated Archives - Page 1
+
+https://books.google.co.in/books?id=g0JGAQAAIAAJ
+Martin C. Brown - 2000 - ?Snippet view
+Brown covers data manipulation, networking, Web and interface development, graphics, e-mail and more. The bonus CD-ROM contains all code from the book, saving readers hundreds of programming hours.
+Programming with Python
+
+https://books.google.co.in/books?isbn=0761523340
+Tim Altom - 1999 - ?Snippet view
+This book offers practical applications and code to help users get up to speed with this innovative programming language.
+Previous
+1
+2
+3
+4	
+5
+6
+7
+8
+9
+10
+Next
+India
+Help Send feedback Privacy Terms
+
+
+Sitara Devi�s 97th birthday
+
+
+python
+
+
+AllImagesMapsBooksNewsMore
+SettingsTools
+Page 5 of about 4,09,000 results (1.17 seconds) 
+Search Results
+Programming with Python
+
+https://books.google.co.in/books?isbn=0761523340
+Tim Altom - 1999 - ?Snippet view
+This book offers practical applications and code to help users get up to speed with this innovative programming language.
+Quick and Easy Ball Python Care
+
+https://books.google.co.in/books?isbn=0793845041
+Colette Sutherland - 2005 - ?No preview
+With quick and easy instructions, Ball Python Care will help you set up your ball python's terrarium and provide you with all the necessary information to keep your new pet healthy and happy.
+Childhood and Child Labour in the British Industrial Revolution
+
+https://books.google.co.in/books?isbn=1139489283
+Jane Humphries - 2010 - ?Preview - ?More editions
+This is a unique account of working-class childhood during the British industrial revolution, first published in 2010.
+The First 28 Years of Monty Python, Revised Edition
+
+https://books.google.co.in/books?isbn=0312169337
+Kim "Howard" Johnson - 1999 - ?No preview - ?More editions
+This revised edition also contains all of the original material (dead parrots, fish-slapping, silly walks, Knights Who Say Ni, etc.) that made the first edition such a success!
+In the coils of a red python
+
+https://books.google.co.in/books?id=H92AAAAAIAAJ
+James C. Troyanowski - 1982 - ?Snippet view
+Fundamentals of Programming Languages
+
+https://books.google.co.in/books?isbn=3642967299
+E. Horowitz - 2012 - ?Preview - ?More editions
+Traditional books on programming languages are like abbreviated language manuals, but this book takes a fundamentally different point of view.
+Python: The Ultimate Beginner's Guide!
+
+https://books.google.co.in/books?isbn=1530918154
+Andrew Johansen - 2016 - ?No preview
+You can use this book as a guide to help you explore, harness, and gain appreciation of the capabilities and features of Python.
+Python
+
+https://books.google.co.in/books?isbn=0606379401
+Christopher Cheng - 2016 - ?No preview - ?More editions
+Follow the deadly python as she slithers in search of a meal in this riveting nature story that is not for the faint of heart. Python stirs and slithers out from her shelter, smelling the air with her forked tongue.
+Python for Finance - Second Edition
+
+https://books.google.co.in/books?isbn=1787125025
+Yuxing Yan - 2017 - ?No preview
+This book is organized according to various finance subjects. In other words, the first edition focuses more on Python, while the second edition is truly trying to apply Python to finance.
+Learning Scientific Programming with Python
+
+https://books.google.co.in/books?isbn=110742822X
+Christian Hill - 2016 - ?No preview - ?More editions
+Learn to master basic programming tasks from scratch with real-life scientifically relevant examples and solutions drawn from both science and engineering.
+More Python Programming for the Absolute Beginner
+
+https://books.google.co.in/books?isbn=1435459814
+Jonathan S. Harbour - 2012 - ?No preview - ?More editions
+If you ask the many readers that have made this book's prequel, PYTHON PROGRAMMING FOR THE ABSOLUTE BEGINNER, a bestseller, they'll tell you � there isn't one. MO
+Flask by Example
+
+https://books.google.co.in/books?isbn=1785286935
+Gareth Dwyer - 2016 - ?No preview - ?More editions
+Unleash the full potential of the Flask web framework by creating simple yet powerful web applicationsAbout This Book- The most up-to-date book on Flask on the market- Create your own world-class applications and master the art of Flask by ...
+Kali Linux 2: Windows Penetration Testing
+
+https://books.google.co.in/books?isbn=1782168508
+Wolf Halton, ?Bo Weaver - 2016 - ?Preview - ?More editions
+Style and approach This book is a hands-on guide for Kali Linux pen testing. This book will provide all the practical knowledge needed to test your network's security using a proven hacker's methodology.
+Python's Revenge
+
+https://books.google.co.in/books?isbn=0606397337
+Meredith Rusu - 2017 - ?No preview - ?More editions
+For use in schools and libraries only.
+Don't Be Such a Scientist: Talking Substance in an Age of Style
+
+https://books.google.co.in/books?isbn=1597267961
+Randy Olson - 2010 - ?Preview - ?More editions
+Most scientists don't care how they are perceived, but in our media-dominated age, style points count. Enter Randy Olson. Fifteen years ago, Olson bid farewell to the science world and shipped off to Hollywood ready to change the world.
+Neural Data Science: A Primer with Python and MATLAB
+
+https://books.google.co.in/books?isbn=0128040432
+Pascal Wallisch, ?Erik Lee Nylen - 2017 - ?No preview - ?More editions
+This book addresses the snake in the room by providing a beginner's introduction to the principles of computation and data analysis in neuroscience, using both Python and MATLAB, giving readers the ability to transcend platform tribalism ...
+The Brand New Monty Python Papperbok
+
+https://books.google.co.in/books?isbn=0413776425
+Monty Python - 2007 - ?No preview - ?More editions
+Originally published in the early-1970s by the young Monty Python team, the 'papperbok' broke the mould for tie-in books, and was a testing ground for ideas equally as fresh and funny as the Flying Circus material.
+Building Web and Mobile ArcGIS Server Applications with JavaScript
+
+https://books.google.co.in/books?isbn=1849697973
+Eric Pimpler - 2014 - ?Preview - ?More editions
+If you are a web or mobile application developer, who wants to create GIS applications in your respective platform, this book is ideal for you. You will need Java Script programming experience to get the most out of this book.
+Possum and Python
+
+https://books.google.co.in/books?isbn=0980642949
+Ian Burns, ?Imaginal Works - 2009 - ?No preview - ?More editions
+Koi's Python
+
+https://books.google.co.in/books?isbn=0786812273
+Miriam Moore, ?Penny Taylor - 1998 - ?Snippet view - ?More editions
+Eleven-year-old Koi is eager to kill a python as part of the rite of passage to manhood among his Batetela people, but in the meantime he must face a bully who is picking on an old hunter in the village marketplace.
+The Python Spirit and the Cross: Becoming Christian in a Highland ...
+
+https://books.google.co.in/books?isbn=3825893367
+Hans Reithofer - 2006 - ?Snippet view
+Hans Reithofer is a researcher at the Department of Anthropology at the University of Goettingen (Germany).
+Learn Python Visually (Paperback)
+
+https://books.google.co.in/books?isbn=0993836720
+Demirov Ivelin - 2015 - ?No preview - ?More editions
+Illustrations can make a world of difference over strictly words on a page! If you found yourself struggling with programming, then this visual book might be your answer.
+Einstieg in Python
+
+https://books.google.co.in/books?isbn=3898427064
+Thomas Theis - 2006 - ?No preview - ?More editions
+Selenium Testing Tools Cookbook
+
+https://books.google.co.in/books?isbn=1849515751
+Unmesh Gundecha - 2012 - ?Preview - ?More editions
+This is a cookbook packed with code examples and step-by-step instructions to ease your learning curve.
+A Balanced Introduction to Computer Science
+
+https://books.google.co.in/books?isbn=0132166755
+David Reed - 2010 - ?No preview - ?More editions
+This text uses the Internet as a central theme, studying its history, technology, and current use.
+Mastering Selenium WebDriver
+
+https://books.google.co.in/books?isbn=1784397709
+Mark Collin - 2015 - ?Preview - ?More editions
+Increase the performance, capability, and reliability of your automated checks by mastering Selenium WebDriver About This Book Create an extensible test framework in Java supporting parallel execution with TestNG Understand the power, ...
+PHP for Absolute Beginners
+
+https://books.google.co.in/books?isbn=143026814X
+Jason Lengstorf, ?Thomas Blom Hansen - 2014 - ?Preview - ?More editions
+You will learn how to plan and create databases and how to organize your PHP scripts beautifully. At the end of the book, you will be a confident PHP user, ready to take the next steps in creating great websites.
+Exercises for Programmers: 57 Challenges to Develop Your Coding Skills
+
+https://books.google.co.in/books?isbn=1680501224
+Brian P. Hogan - 2015 - ?No preview - ?More editions
+One of the best ways to learn a programming language is to use it to solve problems. That's what this book is all about. Instead of questions rooted in theory, this book presents problems you'll encounter in everyday software development.
+Machine Learning: An Algorithmic Perspective, Second Edition
+
+https://books.google.co.in/books?isbn=1466583339
+Stephen Marsland - 2014 - ?Preview - ?More editions
+A Proven, Hands-On Approach for Students without a Strong Statistical Foundation Since the best-selling first edition was published, there have been several prominent developments in the field of machine learning, including the increasing ...
+Linux Server Hacks, Volume Two: Tips & Tools for Connecting, ...
+
+https://books.google.co.in/books?isbn=0596553277
+William von Hagen, ?Brian K. Jones - 2005 - ?Preview - ?More editions
+And you don't have to be a system administrator with hundreds of boxen to get something useful from this book as many of the hacks apply equally well to a single system or a home network.
+Selenium WebDriver Practical Guide
+
+https://books.google.co.in/books?isbn=1782168869
+Satya Avasarala - 2014 - ?Preview - ?More editions
+By the end of this book, you will have acquired a comprehensive knowledge of WebDriver, which will help you in writing your automation tests.
+JavaScript: The Good Parts: The Good Parts
+
+https://books.google.co.in/books?isbn=0596554877
+Douglas Crockford - 2008 - ?Preview - ?More editions
+If you develop sites or applications for the Web, this book is an absolute must.
+Node.js Recipes: A Problem-Solution Approach
+
+https://books.google.co.in/books?isbn=1430260580
+Cory Gackenheimer - 2013 - ?Preview - ?More editions
+This book will give them recipes enabling them to hone their JavaScript skills in a way that will harness Node.js and help them wrangle JavaScript on the server.
+Sams Teach Yourself Node.js in 24 Hours
+
+https://books.google.co.in/books?isbn=0132966263
+George Ornbo - 2012 - ?Preview - ?More editions
+In just 24 sessions of one hour or less, Sams Teach Yourself Node.js in 24 Hours will help you master the Node.js platform and use it to build server-side applications with extraordinary speed and scalability.
+Practical Magic: The beloved classic novel, perfect for Halloween
+
+https://books.google.co.in/books?isbn=1471169200
+Alice Hoffman - 2017 - ?Preview - ?More editions
+An enchanting tale of love, forgiveness and family, Practical Magic is beloved of readers of all ages. *~*~*Readers love Practical Magic*~*~* �[A] delicious fantasy of witchcraft and love in a world where gardens smell of lemon verbena ...
+Learning Scrapy
+
+https://books.google.co.in/books?isbn=1784390917
+Dimitrios Kouzis-Loukas - 2016 - ?Preview - ?More editions
+Learn the art of efficient web scraping and crawling with Python About This Book Extract data from any source to perform real time analytics.
+Python Data Science Essentials
+
+https://books.google.co.in/books?isbn=1785287893
+Alberto Boschetti, ?Luca Massaron - 2015 - ?Preview - ?More editions
+If you are an aspiring data scientist and you have at least a working knowledge of data analysis and Python, this book will get you started in data science.
+Automate It!
+
+https://books.google.co.in/books?isbn=1786460513
+Chetan Giridhar - 2017 - ?No preview
+Put your life on Autopilot with the magic and power of PythonAbout This Book* Learn how to construct Python scripts to scrape data, manipulate files, and access websites' APIs* This book is designed for Python developers of any experience ...
+Learning Python Design Patterns
+
+https://books.google.co.in/books?isbn=1783283386
+Gennadiy Zlobin - 2013 - ?Preview - ?More editions
+This book takes a tutorial-based and user-friendly approach to covering Python design patterns.
+Structural Bioinformatics
+
+https://books.google.co.in/books?isbn=0470181052
+Jenny Gu, ?Philip E. Bourne - 2009 - ?Preview - ?More editions
+The second edition of this successful text expands on the depth and scope of the topic by bringing together many of the world's experts to provide a view of the current state of the field suitable for advanced undergraduate students, ...
+Modeling Techniques in Predictive Analytics: Business Problems and ...
+
+https://books.google.co.in/books?isbn=0133886190
+Thomas W. Miller - 2014 - ?Preview - ?More editions
+Unlike competitive books, this guide illuminates the discipline through realistic vignettes and intuitive data visualizations�not complex math.
+Pro Django
+
+https://books.google.co.in/books?isbn=1430210486
+Marty Alchin - 2009 - ?Preview - ?More editions
+Endorsed by Django, Pro Django more or less picks up where The Definitive Guide to Django left off and examines in greater detail the unusual and complex problems that Python web application developers can face and how to solve them.
+The C++ Programming Language
+
+https://books.google.co.in/books?isbn=0133522857
+Bjarne Stroustrup - 2013 - ?Preview - ?More editions
+This book features an enhanced, layflat binding, which allows the book to stay open more easily when placed on a flat surface. This special binding method�noticeable by a small space inside the spine�also increases durability.
+Networking For Dummies
+
+https://books.google.co.in/books?isbn=1119257778
+Doug Lowe - 2016 - ?Preview - ?More editions
+Whether you're a networking administrator or everyday computer user looking to set up a network in your home or office, this bestselling book gets you connected with the basics and gives you the knowledge to work out whatever issues may ...
+Fundamentals of Deep Learning: Designing Next-Generation Machine ...
+
+https://books.google.co.in/books?isbn=1491925566
+Nikhil Buduma, ?Nicholas Locascio - 2017 - ?Preview - ?More editions
+In this practical book, author Nikhil Buduma provides examples and clear explanations to guide you through major concepts of this complicated field.
+Python Strategy
+
+https://books.google.co.in/books?isbn=178483002X
+Tigran Petrosian - 2015 - ?No preview
+Had it not been for these two defeats, I would possibly not have reached the top in chess." This book is an English translation of a Russian classic that is a favorite of many grandmasters, including Mihail Marin and Levon Aronian.
+Creating Apps in Kivy: Mobile with Python
+
+https://books.google.co.in/books?isbn=1491947365
+Dusty Phillips - 2014 - ?Preview - ?More editions
+With this hands-on guide, you�ll learn step-by-step how to build and deploy a complete Kivy app for iOS and Android devices.
+Android Hacker's Handbook
+
+https://books.google.co.in/books?isbn=1118922255 - Translate this page
+Joshua J. Drake, ?Zach Lanier, ?Collin Mulliner - 2014 - ?Preview - ?More editions
+This book explains how the operating system works, security risks associated with it, and the overall security architecture of the operating system.
+Python Without Fear
+
+https://books.google.co.in/books?isbn=0134688279
+Brian Overland - 2017 - ?Preview - ?More editions
+Praise for this book, Python Without Fear �This is really a great book.
+Caging Skies
+
+https://books.google.co.in/books?isbn=186941957X
+Christine Leunens - 2008 - ?Snippet view - ?More editions
+This gripping, masterful work examines truth and lies at both political and personal levels, laying bare the darkest corners of the human soul.
+The Complete Michael Palin Diaries
+
+https://books.google.co.in/books?isbn=1474601715
+Michael Palin - 2015 - ?Preview - ?More editions
+Michael was not the BBC's first choice for the travel series AROUND THE WORLD IN 80 DAYS, but after its success, the public naturally wanted more. Palin, however, had other plans.
+OpenLayers 2.10 Beginner's Guide
+
+https://books.google.co.in/books?isbn=1849514135
+Erik Hazzard - 2011 - ?Preview - ?More editions
+Create, optimize, and deploy stunning cross-browser web maps with the OpenLayers JavaScript web mapping library.
+Using ArcGIS Spatial Analyst: GIS by ESRI
+
+https://books.google.co.in/books?isbn=1589480058
+Jill McCoy, ?Kevin Johnston, ?Environmental Systems Research Institute (Redlands, Calif.) - 2001 - ?No preview
+Sold Out: How I Survived a Year of Not Shopping
+
+https://books.google.co.in/books?isbn=1856753085
+Robert Llewellyn - 2008 - ?No preview
+Challenging, thought-provoking and funny, this book proves that it doesn't have to be embarrassing to darn socks in the 21st century.
+MongoDB in Action
+
+https://books.google.co.in/books?isbn=1935182870
+Kyle Banker - 2012 - ?No preview - ?More editions
+This comprehensive guide book begins by explaining what makes MongoDB unique.
+Learning Predictive Analytics with Python
+
+https://books.google.co.in/books?isbn=1783983272
+Ashish Kumar - 2016 - ?Preview - ?More editions
+The book will be beneficial to and can be read by any Data Science enthusiasts. Some familiarity with Python will be useful to get the most out of this book, but it is certainly not a prerequisite.
+Internet of Things with Python
+
+https://books.google.co.in/books?isbn=1785885316
+Gaston C. Hillar - 2016 - ?Preview - ?More editions
+By the end of the book, you will be able to develop IoT prototypes with Python, libraries, and tools. Style and approach This book takes a tutorial-like approach with mission critical chapters.
+Multiple Streams of Income
+
+https://books.google.co.in/books?isbn=1905953356
+Robert G Allen - 1998 - ?No preview
+Artificial intelligence : a modern approach
+
+https://books.google.co.in/books?isbn=1292153962
+Stuart Jonathan Russell, ?Peter Norvig - 2016 - ?No preview - ?More editions
+The long-anticipated revision of this best-selling text offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence.
+SQL Quickstart Guide: The Simplified Beginner's Guide to SQL
+
+https://books.google.co.in/books?isbn=1508767483
+Clydebank Technology - 2015 - ?No preview - ?More editions
+"In this book, we show you everything you need to know in order to utilize SQL in any capacity.
+Fools and Mortals - Book 11
+
+https://books.google.co.in/books?isbn=0007504136
+Bernard Cornwell - 2017 - ?Preview - ?More editions
+A dramatic new departure for international bestselling author Bernard Cornwell, FOOLS AND MORTALS takes us into the heart of the Elizabethan era, long one of his favourite periods of British history.
+Flask Web Development: Developing Web Applications with Python
+
+https://books.google.co.in/books?isbn=1491947616
+Miguel Grinberg - 2014 - ?Preview - ?More editions
+Take full creative control of your web applications with Flask, the Python-based microframework. With this hands-on book, you�ll learn Flask from the ground up by developing a complete social blogging application step-by-step.
+Code Complete
+
+https://books.google.co.in/books?isbn=0735636974
+Steve McConnell - 2004 - ?Preview - ?More editions
+Widely considered one of the best practical guides to programming, Steve McConnell�s original CODE COMPLETE has been helping developers write better software for more than a decade.
+Keeping and Breeding Australian Pythons
+
+https://books.google.co.in/books?isbn=0980366704
+Mike Swan - 2007 - ?No preview
+For the first time a book covering all Australian python species written by leading Australian breeders. Covers housing, sexing, breeding, egg incubation and raising young snakes. Contains graphs, charts and many coloured photographs.
+1001 Movies You Must See Before You Die
+
+https://books.google.co.in/books?isbn=0764166131
+Steven Jay Schneider, ?Ian Haydn Smith - 2013 - ?No preview - ?More editions
+Inside this book is everything you need to know about the movies you simply must see--all 1001 of them!
+Computer systems : a programmer's perspective
+
+https://books.google.co.in/books?isbn=1292101768
+Randal E. Bryant, ?David R. O'Hallaron - 2015 - ?No preview - ?More editions
+Written from the programmer�s perspective, this book strives to teach students how understanding basic elements of computer systems and executing real practice can lead them to create better programs."--Publisher's website.
+Django Test-Driven Development
+
+https://books.google.co.in/books?isbn=178528116X
+Kevin Harvey - 2015 - ?No preview - ?More editions
+This book is for Django developers with little or no knowledge of test-driven development or testing in general. Familiarity with the command line, setting up a Python virtual environment, and starting a Django project are assumed.
+The Cartoon Guide to Statistics
+
+https://books.google.co.in/books?isbn=1435242718
+Larry Gonick, ?Woollcott Smith - 1993 - ?No preview - ?More editions
+The Cartoon Guide to Statistics covers all the central ideas of modern statistics: the summary and display of data, probability in gambling and medicine, random variables, Bernoulli Trails, the Central Limit Theorem, hypothesis testing, ...
+Thinking in C++.: Vol. 2
+
+https://books.google.co.in/books?isbn=0130353132
+Bruce Eckel - 2004 - ?No preview - ?More editions
+In this volume, [the authors] look at more advanced features, with an eye towards developing techniques and ideas that produce robust C++ programs. [The authors'] goals in this book are to: present the material a simple step at a time, so ...
+Python 2.1 Bible
+
+https://books.google.co.in/books?isbn=0764548077
+Dave Brueck, ?Stephen Tanner - 2001 - ?No preview
+This book explains each piece of technology in depth and shows through clear examples why each feature is useful.
+Information Systems Today: Managing in the Digital World
+
+https://books.google.co.in/books?isbn=0132335069
+Leonard M. Jessup, ?Joseph S. Valacich - 2008 - ?Snippet view - ?More editions
+Information Systems Today, 3e, speaks directly to WHY IS MATTERS today by focusing on what every business student needs to know about IS including its leading role in the globalization of business.
+Programming for Computations - MATLAB/Octave: A Gentle Introduction ...
+
+https://books.google.co.in/books?isbn=3319324519
+Svein Linge, ?Hans Petter Langtangen - 2016 - ?No preview - ?More editions
+This book presents computer programming as a key method for solving mathematical problems. There are two versions of the book, one for MATLAB and one for Python.
+Derivatives Analytics with Python - Data Analytics, Models, ...
+
+https://books.google.co.in/books?isbn=1119037999
+Yves Hilpisch - 2015 - ?Preview - ?More editions
+The financial models introduced in this book exhibit features like stochastic volatility, jump components and stochastic short rates.
+Getting Started with Arduino and Python:
+
+https://books.google.co.in/books?id=njXcAgAAQBAJ
+Agus Kurniawan - Preview
+Finding the power of Python for Arduino programming. This book helps you to explore several Python libraries to access Arduino boards. **TOC** 1.
+Monty Python and the Holy Grail
+
+https://books.google.co.in/books?isbn=0413773906
+Graham Chapman, ?John Cleese - 1977 - ?No preview - ?More editions
+Join King Arthur, Sir Galahad, Sir Lancelot, and brave Sir Robin on their holy quest from 1974.
+Python play and other recipes for fun
+
+https://books.google.co.in/books?isbn=0773732136
+Robert Heidbreder, ?Karen Patkau - 1999 - ?Snippet view - ?More editions
+Poems describe various ways to have fun, including playing leapfrog and other games, riding a bicycle, running, and using one's imagination.
+Python: The Ultimate Beginner's Guide
+
+https://books.google.co.in/books?isbn=1542313759
+Lee Maxwell - 2017 - ?No preview
+If you are new to programming with Python and are looking for a solid introduction, this is the book for you.
+Exploring Python: Computer science, Software engineering
+
+https://books.google.co.in/books?isbn=1478420685
+CTI Reviews - 2016 - ?Preview
+Facts101 is your complete guide to Exploring Python. In this book, you will learn topics such as Defining Functions, Strings, Lists, Tuples, and Sets, Dictionaries, and Files plus much more.
+Captain Hazzard - Python Men of the Lost City
+
+https://books.google.co.in/books?isbn=1411690923
+Wild Cat Books - 2006 - ?No preview
+And as a Special Bonus: A preview of the next Captain Hazzard novel, by Ron Fortier & Martin Powell, "Citadel of Fear..." as well as some pages from the new Captain Hazzard Comic Book! This is a must-have for any Pulp Hero fan!
+Python: Python for Beginners and Python Advanced Strategies
+
+https://books.google.co.in/books?isbn=1544011806
+Paul Kinley - 2017 - ?No preview
+Book 2 provides you with advanced strategies based on the beginner's book. You will easily fly to the advances level of python with these 2 books. Here is a snapshot of what this book offers.
+Exploring Python
+
+https://books.google.co.in/books?isbn=0071267530
+Timothy A. Budd - 2009 - ?No preview - ?More editions
+Budd's accessible writing style and example-based approach make the book ideal as both a teaching tool and a reference.
+Python: The Ultimate Beginners Guide
+
+https://books.google.co.in/books?isbn=153949747X
+Steve Tale - 2016 - ?No preview
+Python: The Ultimate Beginners Guide - Start Coding Today In this generation of computer programming and highly technical applications, it's smart to move with the times.
+Python Programming: Ultimate Beginner's Guide to Python
+
+https://books.google.co.in/books?isbn=1540649296
+Graham Shaw - 2016 - ?No preview
+If you're looking for a place to start with Python programming, this would be ideal for you. The goal of this book isn't to make you the best programmer ever. No book could do that.
+Python: Learn Python Programming - Beginner Guide
+
+https://books.google.co.in/books?isbn=1535092092
+Eprogramming - 2016 - ?No preview
+Here Is A Preview Of What You Will Learn... What is Python ? Features of Python The First Program Key Words Expressions and statements Decision Making in Python Much, much more! Get Your Copy Today!
+Python: Tips and Tricks to Get Past the Beginners Level
+
+https://books.google.co.in/books?isbn=1541204549
+Mark Anderson - 2016 - ?No preview
+As you navigate these chapters, you will become quite adept in your journey to master the Python. You picked up this book because you are ready to improve your Python skills that you learned with the beginner's guide. Well, congratulations!
+Python beyond Python: Critical Engagements with Culture
+
+https://books.google.co.in/books?isbn=3319513850
+Paul N. Reinsch, ?B. Lynn Whitfield, ?Robert G. Weiner - 2017 - ?Preview - ?More editions
+This collection of original, interdisciplinary essays addresses the work of Monty Python members beyond the comedy show, films, and live performances.
+Python; Ibo poetry
+
+https://books.google.co.in/books?id=-CmaAAAAIAAJ
+Chinua Achebe - 1967 - ?Snippet view
+Python Programming: Questions and Answers
+
+https://books.google.co.in/books?isbn=1535352752
+George A. Duckett - 2016 - ?No preview
+If you have a question about Python this is the book with the answers. Python Programming: Questions and Answers takes some of the best questions and answers asked on the stackoverflow.com website.
+Python Bibliography
+
+https://books.google.co.in/books?isbn=1449340016
+Safari Content Team - 2011 - ?No preview - ?More editions
+This is just further evidence of the continued popularity of Python and the vibrant community around it. This bibliography contains a wide selection of books about Python. These range from various introductory to advanced books.
+Two Bachelors And A Python
+
+https://books.google.co.in/books?isbn=8126417846
+2008 - ?No preview
+Both Kalemeleme and Kinku are lonely and unhappy men in a village in Central Africa but that is where their similarity ends. Kalemeleme is kind and gentle at heart while Kinku is short-tempered and hot-headed.
+Monty Python's Flying Circus: Complete and Annotated . . . All the Bits
+
+https://books.google.co.in/books?isbn=0316508527
+2017 - ?No preview
+THE must-have book for every Monty Python fan is now in paperback! Monty Python's Flying Circus: Complete and Annotated.
+Make a Raspberry Pi-Controlled Robot: Building a Rover with Python, ...
+
+https://books.google.co.in/books?isbn=1457186012
+Wolfram Donat - 2014 - ?No preview - ?More editions
+Make a Raspberry-Pi Controlled Robot teaches you how to build a capable and upgradeable personal robot for around $100.
+Python Programming: Your Step by Step Guide to Easily Learn Python ...
+
+https://books.google.co.in/books?isbn=1535235632
+Icode Academy - 2017 - ?No preview
+As you learn, you will see that it is not that difficult to understand, and it becomes easier when you add patience, diligence, and discipline. This book has all the materials that you need in learning basic Python Programming.
+Java, Python, C++: Crash Courses
+
+https://books.google.co.in/books?isbn=1542397782
+Martin Laredo - 2017 - ?No preview
+Through the help of this book, I am going to show you how Python can be simplified. In this book you will learn -Python basics -Strategies -Code -And so much more!
+Python ??(Python Tutorial Release 2.3.3)
+
+https://books.google.co.in/books?id=4Bigmqno1ZsC
+No preview
+Films about Religion: Chariots of Fire, Monty Python's Life of ...
+
+https://books.google.co.in/books?isbn=1230607412
+Source Wikipedia - 2013 - ?No preview - ?More editions
+Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online.
+Python: End-To-End Data Analysis
+
+https://books.google.co.in/books?isbn=1788396545
+Phuong Vothihong - 2017 - ?No preview
+Leverage the power of Python to clean, scrape, analyze, and visualize your data About This Book - Clean, format, and explore your data using the popular Python libraries and get valuable insights from it - Analyze big data sets; create ...
+Rain-queens and python dance: historical colour photographs of ...
+
+https://books.google.co.in/books?id=ZWyAAAAAMAAJ
+Katesa Schlosser - 2002 - ?Snippet view
+Integrating Python with Leading Computer Forensics Platforms
+
+https://books.google.co.in/books?isbn=0128099496
+Chet Hosmer - 2016 - ?No preview - ?More editions
+Taking a definitive look at how and why the integration of Python advances the field of digital forensics, this complete resource provides hands-on tools, code samples, detailed instruction, and documentation that can be immediately put to ...
+Python: Easy-To-Follow Tutorial to Learn Python Programming in Less ...
+
+https://books.google.co.in/books?isbn=1543111947
+R. M. Lewis - 2017 - ?No preview
+Working on the Python language can be one of the most rewarding experiences. There is a lot of power that can be behind these programs but it is simple enough for even a beginner to be able to use all on their own.
+Previous
+1
+2
+3
+4
+5	
+6
+7
+8
+9
+10
+Next
+India
+Help Send feedback Privacy Terms
+3	
+4
+5
+6
+7
+8
+9
+10
+Next
+India
+Help Send feedback Privacy Terms
+

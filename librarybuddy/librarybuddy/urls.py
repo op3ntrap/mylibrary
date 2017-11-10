@@ -24,7 +24,5 @@ urlpatterns = [
                   url(r'^admin/', admin.site.urls),
                   url(r'^', include('BookManager.urls')),
                   url(r'^UserManager/', include('UserManager.urls')),
-                  url(r'^captcha/', include('captcha.urls')),
-
               ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT) + static(settings.MEDIA_URL,
                                                                                            document_root=settings.MEDIA_ROOT)

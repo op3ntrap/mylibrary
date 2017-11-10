@@ -45,9 +45,6 @@ INSTALLED_APPS = [
     'AlertManager.apps.AlertManagerConfig',
     'AnalyticsManager.apps.AnalyticsManagerConfig',
     'django_extensions',
-    'sorl.thumbnail',
-    'captcha',
-    'languages',
 ]
 
 MIDDLEWARE = [
