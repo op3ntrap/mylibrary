@@ -29,6 +29,7 @@ ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
 
 # Application definition
 INSTALLED_APPS = [
+	'adminactions',
 	'material.theme.indigo',
 	'material',
 	'material.admin',
@@ -187,3 +188,8 @@ SILKY_PYTHON_PROFILER_BINARY = True
 SILKY_AUTHENTICATION = True  # User must login
 SILKY_AUTHORISATION = True  # User must have permissions
 SILKY_META = True
+# SPAGHETTI_SAUCE
+SPAGHETTI_SAUCE = {
+	'apps'       : ['auth', 'BookManager', 'admin', 'UserManager', 'TransactionManager'],
+	'show_fields': False,
+}

@@ -5,6 +5,12 @@ from django.contrib import admin
 from django import forms
 from .models import Book, Magazine, Journal, ResearchPaper, DigitalRecords
 from .extract import Extractor
+from django.contrib.admin import site
+import adminactions.actions as actions
+
+# register all adminactions
+site.add_action(actions.export_as_csv)
+site.add_action(actions.export_as_xls)
 
 
 class BookAdminForm(forms.ModelForm):
