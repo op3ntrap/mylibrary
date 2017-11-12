@@ -1,0 +1,369 @@
+digraph model_graph {
+  // Dotfile by Django-Extensions graph_models
+  // Created: 2017-11-11 21:58
+  // Cli Options: -a -e -d -v 3 --pydot
+
+  fontname = "Helvetica"
+  fontsize = 14"Helvetica "
+  splines  = true
+
+  node [
+    fontname = "Helvetica"
+    fontsize = 12
+    shape = "plaintext"
+  ]
+
+  edge [
+    fontname = "Helvetica"
+    fontsize = 12
+  ]
+
+  // Labels
+
+
+  django_contrib_admin_models_LogEntry [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    LogEntry
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  django_contrib_auth_models_AbstractUser [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    AbstractUser<BR/>&lt;<FONT FACE="Helvetica Italic">AbstractBaseUser,PermissionsMixin</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  django_contrib_auth_models_Permission [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Permission
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  django_contrib_auth_models_Group [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Group
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  django_contrib_auth_models_User [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    User<BR/>&lt;<FONT FACE="Helvetica Italic">AbstractUser</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  django_contrib_contenttypes_models_ContentType [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    ContentType
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  django_contrib_sessions_base_session_AbstractBaseSession [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    AbstractBaseSession
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  django_contrib_sessions_models_Session [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Session<BR/>&lt;<FONT FACE="Helvetica Italic">AbstractBaseSession</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  UserManager_models_Membership [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Membership
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  UserManager_models_Member [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Member
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  UserManager_models_Librarian [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Librarian
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  BookManager_models_Archive [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Archive
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  BookManager_models_DigitalRecords [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    DigitalRecords<BR/>&lt;<FONT FACE="Helvetica Italic">Archive</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  BookManager_models_Book [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Book<BR/>&lt;<FONT FACE="Helvetica Italic">Archive</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  BookManager_models_Magazine [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Magazine<BR/>&lt;<FONT FACE="Helvetica Italic">Archive</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  BookManager_models_Journal [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Journal<BR/>&lt;<FONT FACE="Helvetica Italic">Archive</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  BookManager_models_ResearchPaper [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    ResearchPaper<BR/>&lt;<FONT FACE="Helvetica Italic">Archive</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  TransactionManager_models_Transaction [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Transaction
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  TransactionManager_models_Returning [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Returning<BR/>&lt;<FONT FACE="Helvetica Italic">Transaction</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  TransactionManager_models_Lend [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    Lend<BR/>&lt;<FONT FACE="Helvetica Italic">Transaction</FONT>&gt;
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  AlertManager_models_EmailAlerts [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    EmailAlerts
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+  AlertManager_models_EmailClient [label=<
+    <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+    <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+    <FONT FACE="Helvetica Bold" COLOR="black">
+    EmailClient
+    </FONT></TD></TR>
+  
+    </TABLE>
+    >]
+
+
+
+
+  // Relations
+
+  django_contrib_admin_models_LogEntry -> django_contrib_auth_models_User
+  [label="user (logentry)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  django_contrib_admin_models_LogEntry -> django_contrib_contenttypes_models_ContentType
+  [label="content_type (logentry)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  django_contrib_auth_base_user_AbstractBaseUser [label=<
+  <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+  <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+  <FONT FACE="Helvetica Bold" COLOR="black">AbstractBaseUser</FONT>
+  </TD></TR>
+  </TABLE>
+  >]
+  django_contrib_auth_models_AbstractUser -> django_contrib_auth_base_user_AbstractBaseUser
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+  django_contrib_auth_models_PermissionsMixin [label=<
+  <TABLE BGCOLOR="palegoldenrod" BORDER="0" CELLBORDER="0" CELLSPACING="0">
+  <TR><TD COLSPAN="2" CELLPADDING="6" ALIGN="CENTER" BGCOLOR="DarkOrange">
+  <FONT FACE="Helvetica Bold" COLOR="black">PermissionsMixin</FONT>
+  </TD></TR>
+  </TABLE>
+  >]
+  django_contrib_auth_models_AbstractUser -> django_contrib_auth_models_PermissionsMixin
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+  django_contrib_auth_models_Permission -> django_contrib_contenttypes_models_ContentType
+  [label="content_type (permission)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  django_contrib_auth_models_Group -> django_contrib_auth_models_Permission
+  [label="permissions (group)"] [arrowhead=dot arrowtail=dot, dir=both];
+
+  django_contrib_auth_models_User -> django_contrib_auth_models_Group
+  [label="groups (user)"] [arrowhead=dot arrowtail=dot, dir=both];
+
+  django_contrib_auth_models_User -> django_contrib_auth_models_Permission
+  [label="user_permissions (user)"] [arrowhead=dot arrowtail=dot, dir=both];
+
+  django_contrib_auth_models_User -> django_contrib_auth_models_AbstractUser
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+
+
+  django_contrib_sessions_models_Session -> django_contrib_sessions_base_session_AbstractBaseSession
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+
+  UserManager_models_Member -> UserManager_models_Membership
+  [label="membership_type (member)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  UserManager_models_Member -> django_contrib_auth_models_User
+  [label="user (member)"] [arrowhead=none, arrowtail=none, dir=both];
+
+  UserManager_models_Librarian -> django_contrib_auth_models_User
+  [label="user (librarian)"] [arrowhead=none, arrowtail=none, dir=both];
+
+
+  BookManager_models_Archive -> UserManager_models_Membership
+  [label="accessibility (archive)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  BookManager_models_DigitalRecords -> BookManager_models_Archive
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+  BookManager_models_Book -> BookManager_models_Archive
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+  BookManager_models_Magazine -> BookManager_models_Archive
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+  BookManager_models_Journal -> BookManager_models_Archive
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+  BookManager_models_ResearchPaper -> BookManager_models_Journal
+  [label="journal (researchpaper)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  BookManager_models_ResearchPaper -> BookManager_models_Archive
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+
+  TransactionManager_models_Transaction -> BookManager_models_Book
+  [label="archive (transaction)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  TransactionManager_models_Transaction -> UserManager_models_Member
+  [label="client (transaction)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  TransactionManager_models_Transaction -> UserManager_models_Librarian
+  [label="issuer (transaction)"] [arrowhead=none, arrowtail=dot, dir=both];
+
+  TransactionManager_models_Returning -> TransactionManager_models_Transaction
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+  TransactionManager_models_Lend -> TransactionManager_models_Returning
+  [label="returning_record (lend)"] [arrowhead=none, arrowtail=none, dir=both];
+
+  TransactionManager_models_Lend -> TransactionManager_models_Transaction
+  [label="abstract\ninheritance"] [arrowhead=empty, arrowtail=none, dir=both];
+
+
+
+}
+

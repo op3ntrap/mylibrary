@@ -6,3 +6,4 @@ from django.apps import AppConfig
 
 class BookManagerConfig(AppConfig):
     name = 'BookManager'
+    icon = '<i class="material-icons">&#xE865;</i>'  # Book Material Icon

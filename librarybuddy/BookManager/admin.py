@@ -15,6 +15,7 @@ class BookAdminForm(forms.ModelForm):
 
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
+	icon = '<i class="material-icons">&#xE865;</i>'  # Book Material Icon
     fields = (
         '_Cover', 'identifier', 'identifier_value', 'title', 'description', 'authors', 'publisher', 'published_date',
         'page_count',
