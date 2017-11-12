@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 	# adding the testing settings
 	'debug_toolbar',
 	'silk',
+	'django_spaghetti',
 	# testing settings complete
 	'django.contrib.admindocs',
 	'UserManager.apps.UserManagerConfig',
