@@ -193,7 +193,8 @@ th {
       background-color: rgba(0, 0, 0, 0.05) !important;
 
       .collapsible li.active > a.active,
-      .collapsible li.active > .collapsible-header {
+      .collapsible li.active > .collapsible-header,
+      .collapsible > li > .collapsible-header {
         color: rgba(0, 0, 0, 0.87);
       }
     }
@@ -437,6 +438,7 @@ table[data-form-control="datatable"] {
     }
   }
 }
+
 
 /* ALERTS */
 .toast {

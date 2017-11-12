@@ -26,7 +26,7 @@
         return this.each(function () {
             if ($(this).children('iframe.bgiframe').length === 0)
                 this.insertBefore(document.createElement(html), this.firstChild);
-        });
+    });
     } : function () {
         return this;
     });

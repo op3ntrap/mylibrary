@@ -29,51 +29,58 @@ ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
 
 # Application definition
 INSTALLED_APPS = [
-    'material.theme.indigo',
-    'material',
-    'material.admin',
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
-    'django.contrib.admindocs',
-    'UserManager.apps.UserManagerConfig',
-    'BookManager.apps.BookManagerConfig',
-    'TransactionManager.apps.TransactionManagerConfig',
-    'AlertManager.apps.AlertManagerConfig',
-    'AnalyticsManager.apps.AnalyticsManagerConfig',
-    'django_extensions',
+	'material.theme.indigo',
+	'material',
+	'material.admin',
+	'django.contrib.admin',
+	'django.contrib.auth',
+	'django.contrib.contenttypes',
+	'django.contrib.sessions',
+	'django.contrib.messages',
+	'django.contrib.staticfiles',
+	# adding the development settings
+	'debug_toolbar',
+	'django.contrib.admindocs',
+	'UserManager.apps.UserManagerConfig',
+	'BookManager.apps.BookManagerConfig',
+	'TransactionManager.apps.TransactionManagerConfig',
+	'AlertManager.apps.AlertManagerConfig',
+	'AnalyticsManager.apps.AnalyticsManagerConfig',
+	'django_extensions',
+	'silk'
 ]
 
 MIDDLEWARE = [
-    'django.middleware.security.SecurityMiddleware',
-    'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
-    'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'django.contrib.admindocs.middleware.XViewMiddleware',
+	'django.middleware.security.SecurityMiddleware',
+	'django.contrib.sessions.middleware.SessionMiddleware',
+	'django.middleware.common.CommonMiddleware',
+	'django.middleware.csrf.CsrfViewMiddleware',
+	'django.contrib.auth.middleware.AuthenticationMiddleware',
+	'django.contrib.messages.middleware.MessageMiddleware',
+	'django.middleware.clickjacking.XFrameOptionsMiddleware',
+	'django.contrib.admindocs.middleware.XViewMiddleware',
+	# Testing Middle Ware
+	'silk.middleware.SilkyMiddleware',
+	'debug_toolbar.middleware.DebugToolbarMiddleware',
 ]
 
 ROOT_URLCONF = 'librarybuddy.urls'
 
 TEMPLATES = [
-    {
-        'BACKEND' : 'django.template.backends.django.DjangoTemplates',
-        'DIRS'    : [],
-        'APP_DIRS': True,
-        'OPTIONS' : {
-            'context_processors': [
-                'django.template.context_processors.debug',
-                'django.template.context_processors.request',
-                'django.contrib.auth.context_processors.auth',
-                'django.contrib.messages.context_processors.messages',
-            ],
-        },
-    },
+	{
+		'BACKEND' : 'django.template.backends.django.DjangoTemplates',
+		'DIRS'    : [  # ./templates/ subdirectory is located at the same folder as ./manage.py
+			os.path.join(BASE_DIR, 'templates')],
+		'APP_DIRS': True,
+		'OPTIONS' : {
+			'context_processors': [
+				'django.template.context_processors.debug',
+				'django.template.context_processors.request',
+				'django.contrib.auth.context_processors.auth',
+				'django.contrib.messages.context_processors.messages',
+			],
+		},
+	},
 ]
 
 WSGI_APPLICATION = 'librarybuddy.wsgi.application'
@@ -82,33 +89,33 @@ WSGI_APPLICATION = 'librarybuddy.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE'  : 'django.db.backends.postgresql_psycopg2',
-        'NAME'    : 'library_buddy',
-        'USER'    : 'op3ntrap',
-        'PASSWORD': 'a',
-        'HOST'    : 'localhost',
-        'PORT'    : '',
+	'default': {
+		'ENGINE'  : 'django.db.backends.postgresql_psycopg2',
+		'NAME'    : 'library_buddy',
+		'USER'    : 'op3ntrap',
+		'PASSWORD': 'a',
+		'HOST'    : 'localhost',
+		'PORT'    : '',
 
-    }
+	}
 }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
-    {
-        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
-    },
-    {
-        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
-    },
-    {
-        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
-    },
-    {
-        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
-    },
+	{
+		'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
+	},
+	{
+		'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
+	},
+	{
+		'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
+	},
+	{
+		'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
+	},
 ]
 
 # Internationalization
@@ -133,9 +140,9 @@ STATICFILES_DIRS = (
 )
 
 STATICFILES_FINDERS = (
-    'django.contrib.staticfiles.finders.FileSystemFinder',
-    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
-    #    'django.contrib.staticfiles.finders.DefaultStorageFinder',
+	'django.contrib.staticfiles.finders.FileSystemFinder',
+	'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+	#    'django.contrib.staticfiles.finders.DefaultStorageFinder',
 )
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'covers')
@@ -148,3 +155,33 @@ EMAIL_HOST_PASSWORD = 'ngtqgfgjdtbnezmx'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
+# Testing settings
+
+# Django-debug toolbar settings
+INTERNAL_IPS = ['127.0.0.1', ]
+SHOW_TOOLBAR_CALLBACK = True
+CUSTOM_PANELS = False
+DEBUG_TOOLBAR_PANELS = [
+	'debug_toolbar.panels.versions.VersionsPanel',
+	'debug_toolbar.panels.timer.TimerPanel',
+	'debug_toolbar.panels.settings.SettingsPanel',
+	'debug_toolbar.panels.headers.HeadersPanel',
+	'debug_toolbar.panels.request.RequestPanel',
+	'debug_toolbar.panels.sql.SQLPanel',
+	'debug_toolbar.panels.staticfiles.StaticFilesPanel',
+	'debug_toolbar.panels.templates.TemplatesPanel',
+	'debug_toolbar.panels.cache.CachePanel',
+	'debug_toolbar.panels.signals.SignalsPanel',
+	'debug_toolbar.panels.logging.LoggingPanel',
+	'debug_toolbar.panels.redirects.RedirectsPanel',
+]
+CUSTOM_PANELS_LIST = ['djdt_flamegraph.FlamegraphPanel', ]
+if (CUSTOM_PANELS):
+	DEBUG_TOOLBAR_PANELS.extend(CUSTOM_PANELS_LIST)
+# Silk Settings
+SILKY_PYTHON_PROFILER = True
+SILKY_PYTHON_PROFILER_BINARY = True
+SILKY_AUTHENTICATION = True  # User must login
+SILKY_AUTHORISATION = True  # User must have permissions
+SILKY_META = True

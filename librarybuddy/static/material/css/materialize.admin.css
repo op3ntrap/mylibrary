@@ -271,7 +271,6 @@ nav.breadcrumbs a:not(:first-child):before {
     nav.breadcrumbs {
         white-space: nowrap;
     }
-
     nav.breadcrumbs .nav-wrapper {
         width: 100%;
         overflow-x: hidden;
@@ -566,33 +565,27 @@ nav.breadcrumbs a:not(:first-child):before {
     .change-form .multiselect {
         margin-bottom: 40px;
     }
-
     .change-form .multiselect hr {
         color: #eee;
         background-color: #eee;
         height: 1px;
         border: none;
     }
-
     .change-form .multiselect .selector-available {
         width: calc(50% - 30px);
         width: -moz-calc(50% - 30px);
     }
-
     .change-form .multiselect .selector-available input,
     .change-form .multiselect .selector-chosen input {
         margin-bottom: 0px;
     }
-
     .change-form .multiselect .selector-available select {
         height: 120px;
     }
-
     .change-form .multiselect .selector-chooser {
         width: 60px;
         padding-top: 40px;
     }
-
     .change-form .multiselect .selector-chosen {
         width: calc(50% - 30px);
         width: -moz-calc(50% - 30px);

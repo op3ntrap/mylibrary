@@ -2086,13 +2086,13 @@ jQuery.Velocity ? console.log("Velocity is already loaded. You may be needlessly
         getMaximumWidth = helpers.getMaximumWidth = function (domNode) {
             var container = domNode.parentNode,
                 padding = parseInt(getStyle(container, 'padding-left')) + parseInt(getStyle(container, 'padding-right'));
-            // TODO = check cross browser stuff with this.
+            // TODO.py = check cross browser stuff with this.
             return container.clientWidth - padding;
         },
         getMaximumHeight = helpers.getMaximumHeight = function (domNode) {
             var container = domNode.parentNode,
                 padding = parseInt(getStyle(container, 'padding-bottom')) + parseInt(getStyle(container, 'padding-top'));
-            // TODO = check cross browser stuff with this.
+            // TODO.py = check cross browser stuff with this.
             return container.clientHeight - padding;
         },
         getStyle = helpers.getStyle = function (el, property) {
@@ -5362,7 +5362,6 @@ $(function () {
  * https://github.com/fians/Waves/blob/master/LICENSE
  */
 
-;
 (function (window, factory) {
     'use strict';
 
@@ -6112,7 +6111,7 @@ $('body').on('shown.bs.modal', '.modal', function () {
     if ($('.modal-backdrop').length) {
     } else {
 
-        $modal_dialog = $(this).children('.modal-dialog')
+        $modal_dialog = $(this).children('.modal-dialog');
 
         if ($modal_dialog.hasClass('modal-side')) {
             $(this).addClass('modal-scrolling');

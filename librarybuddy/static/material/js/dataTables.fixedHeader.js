@@ -279,7 +279,7 @@
                     .appendTo('body');
 
                 // Insert a fake thead/tfoot into the DataTable to stop it jumping around
-                var clonedElement = itemElement.clone(false)
+                var clonedElement = itemElement.clone(false);
                 clonedElement.find("*[id]").attr('id', function (i, id) {
                     return id + "_cloned";
                 });

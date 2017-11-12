@@ -14,7 +14,7 @@ from django.utils import timezone
 # from django.core.files.uploadedfile import InMemoryUploadedFile
 
 
-# TODO Create alert object for returning the book and alert the issuer if the book has not been returned.
+# TODO.py Create alert object for returning the book and alert the issuer if the book has not been returned.
 
 
 class Transaction(models.Model):

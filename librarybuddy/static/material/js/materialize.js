@@ -2869,7 +2869,7 @@ if (jQuery) {
                     height: windowHeight,
                     left: -1 * overlayOffset.left,
                     top: -1 * overlayOffset.top
-                })
+                });
 
                 // Animate Overlay
                 overlay.velocity({opacity: 1},
@@ -3245,7 +3245,7 @@ if (jQuery) {
 
                 // Initialize Tabs Content.
                 if (options.swipeable) {
-                    // TODO: Duplicate calls with swipeable? handle multiple div wrapping.
+                    // TODO.py: Duplicate calls with swipeable? handle multiple div wrapping.
                     $links.each(function () {
                         var $curr_content = $(Materialize.escapeHash(this.hash));
                         $curr_content.addClass('carousel-item');
@@ -3291,7 +3291,7 @@ if (jQuery) {
 
                     // Make the old tab inactive.
                     $active.removeClass('active');
-                    var $oldContent = $content
+                    var $oldContent = $content;
 
                     // Update the variables with the new link and content
                     $active = $(this);
@@ -3624,7 +3624,7 @@ if (jQuery) {
  * https://github.com/fians/Waves/blob/master/LICENSE
  */
 
-;(function (window) {
+(function (window) {
     'use strict';
 
     var Waves = Waves || {};
@@ -4555,7 +4555,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         right: 0,
         bottom: 0,
         left: 0,
-    }
+    };
 
     /**
      * Find elements that are within the boundary
@@ -4878,7 +4878,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                     $(this).removeClass('tabbed');
                 });
-                return;
+
             }
         });
 
@@ -4999,7 +4999,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             var min = parseFloat(range.attr('min'));
             var percent = (parseFloat(range.val()) - min) / (max - min);
             return percent * width;
-        }
+        };
 
         var range_wrapper = '.range-field';
         $(document).on('change', range_type, function (e) {
@@ -5136,7 +5136,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     var resetCurrentElement = function () {
                         activeIndex = -1;
                         $autocomplete.find('.active').removeClass('active');
-                    }
+                    };
 
                     // Remove autocomplete elements
                     var removeAutocomplete = function () {
@@ -6157,7 +6157,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     e.preventDefault();
                     self.selectChip(chipsLength - 1, $chips);
                     $target.blur();
-                    return;
+
                 }
             });
 
@@ -6197,7 +6197,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     self.addChip({tag: val}, $chips);
                     input.val('');
                     input.focus();
-                }
+                };
                 input.autocomplete(curr_options.autocompleteOptions);
             }
         };
@@ -6875,20 +6875,20 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
     // AMD.
     if (typeof define == 'function' && define.amd)
-        define('picker', ['jquery'], factory)
+        define('picker', ['jquery'], factory);
 
     // Node.js/browserify.
     else if (typeof exports == 'object')
-        module.exports = factory(require('jquery'))
+        module.exports = factory(require('jquery'));
 
     // Browser globals.
     else this.Picker = factory(jQuery)
 
 }(function ($) {
 
-    var $window = $(window)
-    var $document = $(document)
-    var $html = $(document.documentElement)
+    var $window = $(window);
+    var $document = $(document);
+    var $html = $(document.documentElement);
 
 
     /**
@@ -6897,7 +6897,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     function PickerConstructor(ELEMENT, NAME, COMPONENT, OPTIONS) {
 
         // If there’s no element, return the picker constructor.
-        if (!ELEMENT) return PickerConstructor
+        if (!ELEMENT) return PickerConstructor;
 
 
         var
@@ -6942,33 +6942,33 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 start: function () {
 
                     // If it’s already started, do nothing.
-                    if (STATE && STATE.start) return P
+                    if (STATE && STATE.start) return P;
 
 
                     // Update the picker states.
-                    STATE.methods = {}
-                    STATE.start = true
-                    STATE.open = false
-                    STATE.type = ELEMENT.type
+                    STATE.methods = {};
+                    STATE.start = true;
+                    STATE.open = false;
+                    STATE.type = ELEMENT.type;
 
 
                     // Confirm focus state, convert into text input to remove UA stylings,
                     // and set as readonly to prevent keyboard popup.
-                    ELEMENT.autofocus = ELEMENT == getActiveElement()
-                    ELEMENT.readOnly = !SETTINGS.editable
-                    ELEMENT.id = ELEMENT.id || STATE.id
+                    ELEMENT.autofocus = ELEMENT == getActiveElement();
+                    ELEMENT.readOnly = !SETTINGS.editable;
+                    ELEMENT.id = ELEMENT.id || STATE.id;
                     if (ELEMENT.type != 'text') {
                         ELEMENT.type = 'text'
                     }
 
 
                     // Create a new picker component with the settings.
-                    P.component = new COMPONENT(P, SETTINGS)
+                    P.component = new COMPONENT(P, SETTINGS);
 
 
                     // Create the picker root with a holder and then prepare it.
-                    P.$root = $(PickerConstructor._.node('div', createWrappedComponent(), CLASSES.picker, 'id="' + ELEMENT.id + '_root" tabindex="0"'))
-                    prepareElementRoot()
+                    P.$root = $(PickerConstructor._.node('div', createWrappedComponent(), CLASSES.picker, 'id="' + ELEMENT.id + '_root" tabindex="0"'));
+                    prepareElementRoot();
 
 
                     // If there’s a format for the hidden input element, create the element.
@@ -6978,12 +6978,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
 
                     // Prepare the input element.
-                    prepareElement()
+                    prepareElement();
 
 
                     // Insert the root as specified in the settings.
-                    if (SETTINGS.container) $(SETTINGS.container).append(P.$root)
-                    else $ELEMENT.after(P.$root)
+                    if (SETTINGS.container) $(SETTINGS.container).append(P.$root);
+                    else $ELEMENT.after(P.$root);
 
 
                     // Bind the default component and settings events.
@@ -7001,11 +7001,11 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         open: SETTINGS.onOpen,
                         close: SETTINGS.onClose,
                         set: SETTINGS.onSet
-                    })
+                    });
 
 
                     // Once we’re all set, check the theme in use.
-                    IS_DEFAULT_THEME = isUsingDefaultTheme(P.$root.children()[0])
+                    IS_DEFAULT_THEME = isUsingDefaultTheme(P.$root.children()[0]);
 
 
                     // If the element has autofocus, open the picker.
@@ -7025,8 +7025,8 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 render: function (entireComponent) {
 
                     // Insert a new component holder in the root or box.
-                    if (entireComponent) P.$root.html(createWrappedComponent())
-                    else P.$root.find('.' + CLASSES.box).html(P.component.nodes(STATE.open))
+                    if (entireComponent) P.$root.html(createWrappedComponent());
+                    else P.$root.find('.' + CLASSES.box).html(P.component.nodes(STATE.open));
 
                     // Trigger the queued “render” events.
                     return P.trigger('render')
@@ -7039,10 +7039,10 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 stop: function () {
 
                     // If it’s already stopped, do nothing.
-                    if (!STATE.start) return P
+                    if (!STATE.start) return P;
 
                     // Then close the picker.
-                    P.close()
+                    P.close();
 
                     // Remove the hidden field.
                     if (P._hidden) {
@@ -7050,25 +7050,25 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     }
 
                     // Remove the root.
-                    P.$root.remove()
+                    P.$root.remove();
 
                     // Remove the input class, remove the stored data, and unbind
                     // the events (after a tick for IE - see `P.close`).
-                    $ELEMENT.removeClass(CLASSES.input).removeData(NAME)
+                    $ELEMENT.removeClass(CLASSES.input).removeData(NAME);
                     setTimeout(function () {
                         $ELEMENT.off('.' + STATE.id)
-                    }, 0)
+                    }, 0);
 
                     // Restore the element state
-                    ELEMENT.type = STATE.type
-                    ELEMENT.readOnly = false
+                    ELEMENT.type = STATE.type;
+                    ELEMENT.readOnly = false;
 
                     // Trigger the queued “stop” events.
-                    P.trigger('stop')
+                    P.trigger('stop');
 
                     // Reset the picker states.
-                    STATE.methods = {}
-                    STATE.start = false
+                    STATE.methods = {};
+                    STATE.start = false;
 
                     return P
                 }, //stop
@@ -7080,11 +7080,11 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 open: function (dontGiveFocus) {
 
                     // If it’s already open, do nothing.
-                    if (STATE.open) return P
+                    if (STATE.open) return P;
 
                     // Add the “active” class.
-                    $ELEMENT.addClass(CLASSES.active)
-                    aria(ELEMENT, 'expanded', true)
+                    $ELEMENT.addClass(CLASSES.active);
+                    aria(ELEMENT, 'expanded', true);
 
                     // * A Firefox bug, when `html` has `overflow:hidden`, results in
                     //   killing transitions :(. So add the “opened” state on the next tick.
@@ -7092,16 +7092,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     setTimeout(function () {
 
                         // Add the “opened” class to the picker root.
-                        P.$root.addClass(CLASSES.opened)
+                        P.$root.addClass(CLASSES.opened);
                         aria(P.$root[0], 'hidden', false)
 
-                    }, 0)
+                    }, 0);
 
                     // If we have to give focus, bind the element and doc events.
                     if (dontGiveFocus !== false) {
 
                         // Set it as open.
-                        STATE.open = true
+                        STATE.open = true;
 
                         // Prevent the page from scrolling.
                         if (IS_DEFAULT_THEME) {
@@ -7110,12 +7110,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                         // Pass focus to the root element’s jQuery object.
                         // * Workaround for iOS8 to bring the picker’s root into view.
-                        P.$root.eq(0).focus()
+                        P.$root.eq(0).focus();
 
                         // Bind the document events.
                         $document.on('click.' + STATE.id + ' focusin.' + STATE.id, function (event) {
 
-                            var target = event.target
+                            var target = event.target;
 
                             // If the target of the event is not the element, close the picker picker.
                             // * Don’t worry about clicks or focusins on the root because those don’t bubble up.
@@ -7141,7 +7141,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                                 keycodeToMove = P.component.key[keycode],
 
                                 // Grab the target.
-                                target = event.target
+                                target = event.target;
 
 
                             // On escape, close the picker and give focus.
@@ -7154,7 +7154,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                             else if (target == P.$root[0] && ( keycodeToMove || keycode == 13 )) {
 
                                 // Prevent the default action to stop page movement.
-                                event.preventDefault()
+                                event.preventDefault();
 
                                 // Trigger the key movement action.
                                 if (keycodeToMove) {
@@ -7171,7 +7171,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                             // If the target is within the root and “enter” is pressed,
                             // prevent the default action and trigger a click on the target instead.
                             else if ($.contains(P.$root[0], target) && keycode == 13) {
-                                event.preventDefault()
+                                event.preventDefault();
                                 target.click()
                             }
                         })
@@ -7192,15 +7192,15 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         // ....ah yes! It would’ve been incomplete without a crazy workaround for IE :|
                         // The focus is triggered *after* the close has completed - causing it
                         // to open again. So unbind and rebind the event at the next tick.
-                        P.$root.off('focus.toOpen').eq(0).focus()
+                        P.$root.off('focus.toOpen').eq(0).focus();
                         setTimeout(function () {
                             P.$root.on('focus.toOpen', handleFocusToOpenEvent)
                         }, 0)
                     }
 
                     // Remove the “active” class.
-                    $ELEMENT.removeClass(CLASSES.active)
-                    aria(ELEMENT, 'expanded', false)
+                    $ELEMENT.removeClass(CLASSES.active);
+                    aria(ELEMENT, 'expanded', false);
 
                     // * A Firefox bug, when `html` has `overflow:hidden`, results in
                     //   killing transitions :(. So remove the “opened” state on the next tick.
@@ -7208,16 +7208,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     setTimeout(function () {
 
                         // Remove the “opened” and “focused” class from the picker root.
-                        P.$root.removeClass(CLASSES.opened + ' ' + CLASSES.focused)
+                        P.$root.removeClass(CLASSES.opened + ' ' + CLASSES.focused);
                         aria(P.$root[0], 'hidden', true)
 
-                    }, 0)
+                    }, 0);
 
                     // If it’s already closed, do nothing more.
-                    if (!STATE.open) return P
+                    if (!STATE.open) return P;
 
                     // Set it as closed.
-                    STATE.open = false
+                    STATE.open = false;
 
                     // Allow the page to scroll.
                     if (IS_DEFAULT_THEME) {
@@ -7225,7 +7225,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     }
 
                     // Unbind the document events.
-                    $document.off('.' + STATE.id)
+                    $document.off('.' + STATE.id);
 
                     // Trigger the queued “close” events.
                     return P.trigger('close')
@@ -7247,10 +7247,10 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                     var thingItem, thingValue,
                         thingIsObject = $.isPlainObject(thing),
-                        thingObject = thingIsObject ? thing : {}
+                        thingObject = thingIsObject ? thing : {};
 
                     // Make sure we have usable options.
-                    options = thingIsObject && $.isPlainObject(value) ? value : options || {}
+                    options = thingIsObject && $.isPlainObject(value) ? value : options || {};
 
                     if (thing) {
 
@@ -7263,11 +7263,11 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         for (thingItem in thingObject) {
 
                             // Grab the value of the thing.
-                            thingValue = thingObject[thingItem]
+                            thingValue = thingObject[thingItem];
 
                             // First, if the item exists and there’s a value, set it.
                             if (thingItem in P.component.item) {
-                                if (thingValue === undefined) thingValue = null
+                                if (thingValue === undefined) thingValue = null;
                                 P.component.set(thingItem, thingValue, options)
                             }
 
@@ -7292,7 +7292,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 get: function (thing, format) {
 
                     // Make sure there’s something to get.
-                    thing = thing || 'value'
+                    thing = thing || 'value';
 
                     // If a picker state exists, return that.
                     if (STATE[thing] != null) {
@@ -7315,7 +7315,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     // Check if a component item exists, return that.
                     if (thing in P.component.item) {
                         if (typeof format == 'string') {
-                            var thingValue = P.component.get(thing)
+                            var thingValue = P.component.get(thing);
                             return thingValue ?
                                 PickerConstructor._.trigger(
                                     P.component.formats.toString,
@@ -7335,7 +7335,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                     var thingName, thingMethod,
                         thingIsObject = $.isPlainObject(thing),
-                        thingObject = thingIsObject ? thing : {}
+                        thingObject = thingIsObject ? thing : {};
 
                     if (thing) {
 
@@ -7348,7 +7348,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         for (thingName in thingObject) {
 
                             // Grab the method of the thing.
-                            thingMethod = thingObject[thingName]
+                            thingMethod = thingObject[thingName];
 
                             // If it was an internal binding, prefix it.
                             if (internal) {
@@ -7356,7 +7356,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                             }
 
                             // Make sure the thing methods collection exists.
-                            STATE.methods[thingName] = STATE.methods[thingName] || []
+                            STATE.methods[thingName] = STATE.methods[thingName] || [];
 
                             // Add the method to the relative method collection.
                             STATE.methods[thingName].push(thingMethod)
@@ -7374,7 +7374,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     var i, thingName,
                         names = arguments;
                     for (i = 0, namesCount = names.length; i < namesCount; i += 1) {
-                        thingName = names[i]
+                        thingName = names[i];
                         if (thingName in STATE.methods) {
                             delete STATE.methods[thingName]
                         }
@@ -7388,18 +7388,18 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                  */
                 trigger: function (name, data) {
                     var _trigger = function (name) {
-                        var methodList = STATE.methods[name]
+                        var methodList = STATE.methods[name];
                         if (methodList) {
                             methodList.map(function (method) {
                                 PickerConstructor._.trigger(method, P, [data])
                             })
                         }
-                    }
-                    _trigger('_' + name)
-                    _trigger(name)
+                    };
+                    _trigger('_' + name);
+                    _trigger(name);
                     return P
                 } //trigger
-            } //PickerInstance.prototype
+            }; //PickerInstance.prototype
 
 
         /**
@@ -7452,7 +7452,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             val($ELEMENT.data('value') ?
                 P.get('select', SETTINGS.format) :
                 ELEMENT.value
-            )
+            );
 
 
             // Only bind keydown events if the element isn’t editable.
@@ -7460,7 +7460,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                 $ELEMENT.// On focus/click, focus onto the root to open it up.
                 on('focus.' + STATE.id + ' click.' + STATE.id, function (event) {
-                    event.preventDefault()
+                    event.preventDefault();
                     P.$root.eq(0).focus()
                 }).// Handle keyboard event based on the picker being opened or not.
                 on('keydown.' + STATE.id, handleKeydownEvent)
@@ -7490,7 +7490,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 // When something within the root is focused, stop from bubbling
                 // to the doc and remove the “focused” state from the root.
                 focusin: function (event) {
-                    P.$root.removeClass(CLASSES.focused)
+                    P.$root.removeClass(CLASSES.focused);
                     event.stopPropagation()
                 },
 
@@ -7498,12 +7498,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 // from bubbling to the doc.
                 'mousedown click': function (event) {
 
-                    var target = event.target
+                    var target = event.target;
 
                     // Make sure the target isn’t the root holder so it can bubble up.
                     if (target != P.$root.children()[0]) {
 
-                        event.stopPropagation()
+                        event.stopPropagation();
 
                         // * For mousedown events, cancel the default action in order to
                         //   prevent cases where focus is shifted onto external elements
@@ -7511,7 +7511,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         //   Also, for Firefox, don’t prevent action on the `option` element.
                         if (event.type == 'mousedown' && !$(target).is('input, select, textarea, button, option')) {
 
-                            event.preventDefault()
+                            event.preventDefault();
 
                             // Re-focus onto the root so that users can click away
                             // from elements focused within the picker.
@@ -7537,8 +7537,8 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                     // * For IE, non-focusable elements can be active elements as well
                     //   (http://stackoverflow.com/a/2684561).
-                    activeElement = getActiveElement()
-                activeElement = activeElement && ( activeElement.type || activeElement.href )
+                    activeElement = getActiveElement();
+                activeElement = activeElement && ( activeElement.type || activeElement.href );
 
                 // If it’s disabled or nothing inside is actively focused, re-focus the element.
                 if (targetDisabled || activeElement && !$.contains(P.$root[0], activeElement)) {
@@ -7564,7 +7564,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     P.close(true)
                 }
 
-            }) //P.$root
+            }); //P.$root
 
             aria(P.$root[0], 'hidden', true)
         }
@@ -7575,17 +7575,17 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
          */
         function prepareElementHidden() {
 
-            var name
+            var name;
 
             if (SETTINGS.hiddenName === true) {
-                name = ELEMENT.name
+                name = ELEMENT.name;
                 ELEMENT.name = ''
             }
             else {
                 name = [
                     typeof SETTINGS.hiddenPrefix == 'string' ? SETTINGS.hiddenPrefix : '',
                     typeof SETTINGS.hiddenSuffix == 'string' ? SETTINGS.hiddenSuffix : '_submit'
-                ]
+                ];
                 name = name[0] + ELEMENT.name + name[1]
             }
 
@@ -7603,18 +7603,18 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         ''
                 ) +
                 '>'
-            )[0]
+            )[0];
 
             $ELEMENT.// If the value changes, update the hidden input with the correct format.
             on('change.' + STATE.id, function () {
                 P._hidden.value = ELEMENT.value ?
                     P.get('select', SETTINGS.formatSubmit) :
                     ''
-            })
+            });
 
 
             // Insert the hidden input as specified in the settings.
-            if (SETTINGS.container) $(SETTINGS.container).append(P._hidden)
+            if (SETTINGS.container) $(SETTINGS.container).append(P._hidden);
             else $ELEMENT.after(P._hidden)
         }
 
@@ -7625,11 +7625,11 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             var keycode = event.keyCode,
 
                 // Check if one of the delete keys was pressed.
-                isKeycodeDelete = /^(8|46)$/.test(keycode)
+                isKeycodeDelete = /^(8|46)$/.test(keycode);
 
             // For some reason IE clears the input value on “escape”.
             if (keycode == 27) {
-                P.close()
+                P.close();
                 return false
             }
 
@@ -7637,8 +7637,8 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             if (keycode == 32 || isKeycodeDelete || !STATE.open && P.component.key[keycode]) {
 
                 // Prevent it from moving the page and bubbling to doc.
-                event.preventDefault()
-                event.stopPropagation()
+                event.preventDefault();
+                event.stopPropagation();
 
                 // If `delete` was pressed, clear the values and close the picker.
                 // Otherwise open the picker.
@@ -7656,7 +7656,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         function handleFocusToOpenEvent(event) {
 
             // Stop the event from propagating to the doc.
-            event.stopPropagation()
+            event.stopPropagation();
 
             // If it’s a focus event, add the “focused” class to the root.
             if (event.type == 'focus') {
@@ -7677,7 +7677,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      * The default classes and prefix to use for the HTML classes.
      */
     PickerConstructor.klasses = function (prefix) {
-        prefix = prefix || 'picker'
+        prefix = prefix || 'picker';
         return {
 
             picker: prefix,
@@ -7695,7 +7695,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
             box: prefix + '__box'
         }
-    } //PickerConstructor.klasses
+    }; //PickerConstructor.klasses
 
 
     /**
@@ -7704,7 +7704,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     function isUsingDefaultTheme(element) {
 
         var theme,
-            prop = 'position'
+            prop = 'position';
 
         // For IE.
         if (element.currentStyle) {
@@ -7730,22 +7730,22 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             return 0
         }
 
-        var $outer = $('<div style="visibility:hidden;width:100px" />').appendTo('body')
+        var $outer = $('<div style="visibility:hidden;width:100px" />').appendTo('body');
 
         // Get the width without scrollbars.
-        var widthWithoutScroll = $outer[0].offsetWidth
+        var widthWithoutScroll = $outer[0].offsetWidth;
 
         // Force adding scrollbars.
-        $outer.css('overflow', 'scroll')
+        $outer.css('overflow', 'scroll');
 
         // Add the inner div.
-        var $inner = $('<div style="width:100%" />').appendTo($outer)
+        var $inner = $('<div style="width:100%" />').appendTo($outer);
 
         // Get the width with scrollbars.
-        var widthWithScroll = $inner[0].offsetWidth
+        var widthWithScroll = $inner[0].offsetWidth;
 
         // Remove the divs.
-        $outer.remove()
+        $outer.remove();
 
         // Return the difference between the widths.
         return widthWithoutScroll - widthWithScroll
@@ -7779,14 +7779,14 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 nodesList = '',
 
                 // The counter starts from the `min`
-                counter = PickerConstructor._.trigger(groupObject.min, groupObject)
+                counter = PickerConstructor._.trigger(groupObject.min, groupObject);
 
 
             // Loop from the `min` to `max`, incrementing by `i`
             for (; counter <= PickerConstructor._.trigger(groupObject.max, groupObject, [counter]); counter += groupObject.i) {
 
                 // Trigger the `item` function within scope of the object
-                loopObjectScope = PickerConstructor._.trigger(groupObject.item, groupObject, [counter])
+                loopObjectScope = PickerConstructor._.trigger(groupObject.item, groupObject, [counter]);
 
                 // Splice the subgroup and create nodes out of the sub nodes
                 nodesList += PickerConstructor._.node(
@@ -7808,16 +7808,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         node: function (wrapper, item, klass, attribute) {
 
             // If the item is false-y, just return an empty string
-            if (!item) return ''
+            if (!item) return '';
 
             // If the item is an array, do a join
-            item = $.isArray(item) ? item.join('') : item
+            item = $.isArray(item) ? item.join('') : item;
 
             // Check for the class
-            klass = klass ? ' class="' + klass + '"' : ''
+            klass = klass ? ' class="' + klass + '"' : '';
 
             // Check for any attributes
-            attribute = attribute ? ' ' + attribute : ''
+            attribute = attribute ? ' ' + attribute : '';
 
             // Return the wrapped item
             return '<' + wrapper + klass + attribute + '>' + item + '</' + wrapper + '>'
@@ -7868,7 +7868,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
          * Create ARIA attribute strings.
          */
         ariaAttr: ariaAttr
-    } //PickerConstructor._
+    }; //PickerConstructor._
 
 
     /**
@@ -7880,7 +7880,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         $.fn[name] = function (options, action) {
 
             // Grab the component data.
-            var componentData = this.data(name)
+            var componentData = this.data(name);
 
             // If the picker is requested, return the data object.
             if (options == 'picker') {
@@ -7896,16 +7896,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             // doesn’t exist, create a new picker using `this` element
             // and merging the defaults and options with a deep copy.
             return this.each(function () {
-                var $this = $(this)
+                var $this = $(this);
                 if (!$this.data(name)) {
                     new PickerConstructor(this, name, Component, options)
                 }
             })
-        }
+        };
 
         // Set the defaults.
         $.fn[name].defaults = Component.defaults
-    } //PickerConstructor.extend
+    }; //PickerConstructor.extend
 
 
     function aria(element, attribute, value) {
@@ -7930,10 +7930,10 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         if (!$.isPlainObject(attribute)) {
             attribute = {attribute: data}
         }
-        data = ''
+        data = '';
         for (var key in attribute) {
             var attr = (key == 'role' ? '' : 'aria-') + key,
-                attrVal = attribute[key]
+                attrVal = attribute[key];
             data += attrVal == null ? '' : attr + '="' + attribute[key] + '"'
         }
         return data
@@ -7964,11 +7964,11 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
     // AMD.
     if (typeof define == 'function' && define.amd)
-        define(['picker', 'jquery'], factory)
+        define(['picker', 'jquery'], factory);
 
     // Node.js/browserify.
     else if (typeof exports == 'object')
-        module.exports = factory(require('./picker.js'), require('jquery'))
+        module.exports = factory(require('./picker.js'), require('jquery'));
 
     // Browser globals.
     else factory(Picker, jQuery)
@@ -7981,7 +7981,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      */
     var DAYS_IN_WEEK = 7,
         WEEKS_IN_CALENDAR = 6,
-        _ = Picker._
+        _ = Picker._;
 
 
     /**
@@ -8004,10 +8004,10 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                     // For normal browsers.
                     getComputedStyle(picker.$root[0]).direction == 'rtl'
-            }
+            };
 
-        calendar.settings = settings
-        calendar.$node = picker.$node
+        calendar.settings = settings;
+        calendar.$node = picker.$node;
 
         // The queue of methods that will be used to build item objects.
         calendar.queue = {
@@ -8019,18 +8019,18 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             view: 'parse create validate viewset',
             disable: 'deactivate',
             enable: 'activate'
-        }
+        };
 
         // The component's item object.
-        calendar.item = {}
+        calendar.item = {};
 
-        calendar.item.clear = null
-        calendar.item.disable = ( settings.disable || [] ).slice(0)
+        calendar.item.clear = null;
+        calendar.item.disable = ( settings.disable || [] ).slice(0);
         calendar.item.enable = -(function (collectionDisabled) {
             return collectionDisabled[0] === true ? collectionDisabled.shift() : -1
-        })(calendar.item.disable)
+        })(calendar.item.disable);
 
-        calendar.set('min', settings.min).set('max', settings.max).set('now')
+        calendar.set('min', settings.min).set('max', settings.max).set('now');
 
         // When there’s a value, set the `select`, which in turn
         // also sets the `highlight` and `view`.
@@ -8056,35 +8056,35 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             }, // Left
             go: function (timeChange) {
                 var highlightedObject = calendar.item.highlight,
-                    targetDate = new Date(highlightedObject.year, highlightedObject.month, highlightedObject.date + timeChange)
+                    targetDate = new Date(highlightedObject.year, highlightedObject.month, highlightedObject.date + timeChange);
                 calendar.set(
                     'highlight',
                     targetDate,
                     {interval: timeChange}
-                )
+                );
                 this.render()
             }
-        }
+        };
 
 
         // Bind some picker events.
         picker.on('render', function () {
             picker.$root.find('.' + settings.klass.selectMonth).on('change', function () {
-                var value = this.value
+                var value = this.value;
                 if (value) {
-                    picker.set('highlight', [picker.get('view').year, value, picker.get('highlight').date])
+                    picker.set('highlight', [picker.get('view').year, value, picker.get('highlight').date]);
                     picker.$root.find('.' + settings.klass.selectMonth).trigger('focus')
                 }
-            })
+            });
             picker.$root.find('.' + settings.klass.selectYear).on('change', function () {
-                var value = this.value
+                var value = this.value;
                 if (value) {
-                    picker.set('highlight', [value, picker.get('view').month, picker.get('highlight').date])
+                    picker.set('highlight', [value, picker.get('view').month, picker.get('highlight').date]);
                     picker.$root.find('.' + settings.klass.selectYear).trigger('focus')
                 }
             })
         }, 1).on('open', function () {
-            var includeToday = ''
+            var includeToday = '';
             if (calendar.disabled(calendar.get('now'))) {
                 includeToday = ':not(.' + settings.klass.buttonToday + ')'
             }
@@ -8102,12 +8102,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     DatePicker.prototype.set = function (type, value, options) {
 
         var calendar = this,
-            calendarItem = calendar.item
+            calendarItem = calendar.item;
 
         // If the value is `null` just set it immediately.
         if (value === null) {
-            if (type == 'clear') type = 'select'
-            calendarItem[type] = value
+            if (type == 'clear') type = 'select';
+            calendarItem[type] = value;
             return calendar
         }
 
@@ -8116,9 +8116,9 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         // * In the case of `enable`, keep the queue but set `disable` instead.
         //   And in the case of `flip`, keep the queue but set `enable` instead.
         calendarItem[( type == 'enable' ? 'disable' : type == 'flip' ? 'enable' : type )] = calendar.queue[type].split(' ').map(function (method) {
-            value = calendar[method](type, value, options)
+            value = calendar[method](type, value, options);
             return value
-        }).pop()
+        }).pop();
 
         // Check if we need to cascade through more updates.
         if (type == 'select') {
@@ -8137,7 +8137,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         return calendar
-    } //DatePicker.prototype.set
+    }; //DatePicker.prototype.set
 
 
     /**
@@ -8145,7 +8145,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      */
     DatePicker.prototype.get = function (type) {
         return this.item[type]
-    } //DatePicker.prototype.get
+    }; //DatePicker.prototype.get
 
 
     /**
@@ -8154,10 +8154,10 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     DatePicker.prototype.create = function (type, value, options) {
 
         var isInfiniteValue,
-            calendar = this
+            calendar = this;
 
         // If there’s no value, use the type as the value.
-        value = value === undefined ? type : value
+        value = value === undefined ? type : value;
 
 
         // If it’s infinity, update the value.
@@ -8173,7 +8173,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         // If it’s an array, convert it into a date and make sure
         // that it’s a valid date – otherwise default to today.
         else if ($.isArray(value)) {
-            value = new Date(value[0], value[1], value[2])
+            value = new Date(value[0], value[1], value[2]);
             value = _.isDate(value) ? value : calendar.create().obj
         }
 
@@ -8196,7 +8196,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             obj: isInfiniteValue || value,
             pick: isInfiniteValue || value.getTime()
         }
-    } //DatePicker.prototype.create
+    }; //DatePicker.prototype.create
 
 
     /**
@@ -8211,7 +8211,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     return calendar.create(date)
                 }
                 return date
-            }
+            };
 
         // Create objects if possible.
         if (!_.isInteger(from)) {
@@ -8233,16 +8233,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             from: createDate(from),
             to: createDate(to)
         }
-    } //DatePicker.prototype.createRange
+    }; //DatePicker.prototype.createRange
 
 
     /**
      * Check if a date unit falls within a date range object.
      */
     DatePicker.prototype.withinRange = function (range, dateUnit) {
-        range = this.createRange(range.from, range.to)
+        range = this.createRange(range.from, range.to);
         return dateUnit.pick >= range.from.pick && dateUnit.pick <= range.to.pick
-    }
+    };
 
 
     /**
@@ -8250,27 +8250,27 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      */
     DatePicker.prototype.overlapRanges = function (one, two) {
 
-        var calendar = this
+        var calendar = this;
 
         // Convert the ranges into comparable dates.
-        one = calendar.createRange(one.from, one.to)
-        two = calendar.createRange(two.from, two.to)
+        one = calendar.createRange(one.from, one.to);
+        two = calendar.createRange(two.from, two.to);
 
         return calendar.withinRange(one, two.from) || calendar.withinRange(one, two.to) ||
             calendar.withinRange(two, one.from) || calendar.withinRange(two, one.to)
-    }
+    };
 
 
     /**
      * Get the date today.
      */
     DatePicker.prototype.now = function (type, value, options) {
-        value = new Date()
+        value = new Date();
         if (options && options.rel) {
             value.setDate(value.getDate() + options.rel)
         }
         return this.normalize(value, options)
-    }
+    };
 
 
     /**
@@ -8284,7 +8284,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             targetDate,
             isTargetArray = $.isArray(value),
             isTargetObject = $.isPlainObject(value),
-            viewsetObject = this.item.view
+            viewsetObject = this.item.view;
         /*,
         safety = 100*/
 
@@ -8292,27 +8292,27 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         if (isTargetArray || isTargetObject) {
 
             if (isTargetObject) {
-                targetYear = value.year
-                targetMonth = value.month
+                targetYear = value.year;
+                targetMonth = value.month;
                 targetDate = value.date
             }
             else {
-                targetYear = +value[0]
-                targetMonth = +value[1]
+                targetYear = +value[0];
+                targetMonth = +value[1];
                 targetDate = +value[2]
             }
 
             // If we’re navigating months but the view is in a different
             // month, navigate to the view’s year and month.
             if (options && options.nav && viewsetObject && viewsetObject.month !== targetMonth) {
-                targetYear = viewsetObject.year
+                targetYear = viewsetObject.year;
                 targetMonth = viewsetObject.month
             }
 
             // Figure out the expected target year and month.
-            targetDateObject = new Date(targetYear, targetMonth + ( options && options.nav ? options.nav : 0 ), 1)
-            targetYear = targetDateObject.getFullYear()
-            targetMonth = targetDateObject.getMonth()
+            targetDateObject = new Date(targetYear, targetMonth + ( options && options.nav ? options.nav : 0 ), 1);
+            targetYear = targetDateObject.getFullYear();
+            targetMonth = targetDateObject.getMonth();
 
             // If the month we’re going to doesn’t have enough days,
             // keep decreasing the date until we reach the month’s last date.
@@ -8328,16 +8328,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         return value
-    } //DatePicker.prototype.navigate
+    }; //DatePicker.prototype.navigate
 
 
     /**
      * Normalize a date by setting the hours to midnight.
      */
     DatePicker.prototype.normalize = function (value/*, options*/) {
-        value.setHours(0, 0, 0, 0)
+        value.setHours(0, 0, 0, 0);
         return value
-    }
+    };
 
 
     /**
@@ -8345,7 +8345,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      */
     DatePicker.prototype.measure = function (type, value/*, options*/) {
 
-        var calendar = this
+        var calendar = this;
 
         // If it’s anything false-y, remove the limits.
         if (!value) {
@@ -8363,7 +8363,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         return value
-    } ///DatePicker.prototype.measure
+    }; ///DatePicker.prototype.measure
 
 
     /**
@@ -8371,7 +8371,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      */
     DatePicker.prototype.viewset = function (type, dateObject/*, options*/) {
         return this.create([dateObject.year, dateObject.month, 1])
-    }
+    };
 
 
     /**
@@ -8405,14 +8405,14 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                 // If there’s a date, check where it is relative to the target.
                 if ($.isArray(value)) {
-                    var dateTime = calendar.create(value).pick
-                    if (dateTime < dateObject.pick) hasEnabledBeforeTarget = true
+                    var dateTime = calendar.create(value).pick;
+                    if (dateTime < dateObject.pick) hasEnabledBeforeTarget = true;
                     else if (dateTime > dateObject.pick) hasEnabledAfterTarget = true
                 }
 
                 // Return only integers for enabled weekdays.
                 return _.isInteger(value)
-            }).length
+            }).length;
         /*,
 
         safety = 100*/
@@ -8453,15 +8453,15 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                 // If we’ve looped into the next/prev month with a large interval, return to the original date and flatten the interval.
                 if (Math.abs(interval) > 1 && ( dateObject.month < originalDateObject.month || dateObject.month > originalDateObject.month )) {
-                    dateObject = originalDateObject
+                    dateObject = originalDateObject;
                     interval = interval > 0 ? 1 : -1
                 }
 
 
                 // If we’ve reached the min/max limit, reverse the direction, flatten the interval and set it to the limit.
                 if (dateObject.pick <= minLimitObject.pick) {
-                    reachedMin = true
-                    interval = 1
+                    reachedMin = true;
+                    interval = 1;
                     dateObject = calendar.create([
                         minLimitObject.year,
                         minLimitObject.month,
@@ -8469,8 +8469,8 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     ])
                 }
                 else if (dateObject.pick >= maxLimitObject.pick) {
-                    reachedMax = true
-                    interval = -1
+                    reachedMax = true;
+                    interval = -1;
                     dateObject = calendar.create([
                         maxLimitObject.year,
                         maxLimitObject.month,
@@ -8494,7 +8494,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
         // Return the date object settled on.
         return dateObject
-    } //DatePicker.prototype.validate
+    }; //DatePicker.prototype.validate
 
 
     /**
@@ -8522,13 +8522,13 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 if ($.isPlainObject(dateToDisable)) {
                     return calendar.withinRange(dateToDisable, dateToVerify)
                 }
-            })
+            });
 
         // If this date matches a disabled date, confirm it’s not inverted.
         isDisabledMatch = isDisabledMatch.length && !isDisabledMatch.filter(function (dateToDisable) {
             return $.isArray(dateToDisable) && dateToDisable[3] == 'inverted' ||
                 $.isPlainObject(dateToDisable) && dateToDisable.inverted
-        }).length
+        }).length;
 
         // Check the calendar “enabled” flag and respectively flip the
         // disabled state. Then also check if it’s beyond the min/max limits.
@@ -8536,7 +8536,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             dateToVerify.pick < calendar.item.min.pick ||
             dateToVerify.pick > calendar.item.max.pick
 
-    } //DatePicker.prototype.disabled
+    }; //DatePicker.prototype.disabled
 
 
     /**
@@ -8545,7 +8545,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     DatePicker.prototype.parse = function (type, value, options) {
 
         var calendar = this,
-            parsingObject = {}
+            parsingObject = {};
 
         // If it’s already parsed, we’re good.
         if (!value || typeof value != 'string') {
@@ -8554,7 +8554,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
         // We need a `.format` to parse the value with.
         if (!( options && options.format )) {
-            options = options || {}
+            options = options || {};
             options.format = calendar.settings.format
         }
 
@@ -8567,7 +8567,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                 // The format length is from the formatting label function or the
                 // label length without the escaping exclamation (!) mark.
-                formatLength = formattingLabel ? _.trigger(formattingLabel, calendar, [value, parsingObject]) : label.replace(/^!/, '').length
+                formatLength = formattingLabel ? _.trigger(formattingLabel, calendar, [value, parsingObject]) : label.replace(/^!/, '').length;
 
             // If there's a format label, split the value up to the format length.
             // Then add it to the parsing object with appropriate label.
@@ -8577,7 +8577,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
             // Update the value as the substring from format length to end.
             value = value.substr(formatLength)
-        })
+        });
 
         // Compensate for month 0index.
         return [
@@ -8585,7 +8585,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             +( parsingObject.mm || parsingObject.m ) - 1,
             parsingObject.dd || parsingObject.d
         ]
-    } //DatePicker.prototype.parse
+    }; //DatePicker.prototype.parse
 
 
     /**
@@ -8597,7 +8597,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         function getWordLengthFromCollection(string, collection, dateObject) {
 
             // Grab the first word from the string.
-            var word = string.match(/\w+/)[0]
+            var word = string.match(/\w+/)[0];
 
             // If there's no month index, add it to the date object
             if (!dateObject.mm && !dateObject.m) {
@@ -8653,7 +8653,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             },
             mmm: function (string, dateObject) {
 
-                var collection = this.settings.monthsShort
+                var collection = this.settings.monthsShort;
 
                 // If there's a string, get length of the relevant month from the short
                 // months collection. Otherwise return the selected month from that collection.
@@ -8661,7 +8661,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             },
             mmmm: function (string, dateObject) {
 
-                var collection = this.settings.monthsFull
+                var collection = this.settings.monthsFull;
 
                 // If there's a string, get length of the relevant month from the full
                 // months collection. Otherwise return the selected month from that collection.
@@ -8687,13 +8687,13 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
             // Format an object into a string using the formatting options.
             toString: function (formatString, itemObject) {
-                var calendar = this
+                var calendar = this;
                 return calendar.formats.toArray(formatString).map(function (label) {
                     return _.trigger(calendar.formats[label], calendar, [0, itemObject]) || label.replace(/^!/, '')
                 }).join('')
             }
         }
-    })() //DatePicker.prototype.formats
+    })(); //DatePicker.prototype.formats
 
 
     /**
@@ -8701,7 +8701,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
      */
     DatePicker.prototype.isDateExact = function (one, two) {
 
-        var calendar = this
+        var calendar = this;
 
         // When we’re working with weekdays, do a direct comparison.
         if (
@@ -8725,7 +8725,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         return false
-    }
+    };
 
 
     /**
@@ -8734,15 +8734,15 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     DatePicker.prototype.isDateOverlap = function (one, two) {
 
         var calendar = this,
-            firstDay = calendar.settings.firstDay ? 1 : 0
+            firstDay = calendar.settings.firstDay ? 1 : 0;
 
         // When we’re working with a weekday index, compare the days.
         if (_.isInteger(one) && ( _.isDate(two) || $.isArray(two) )) {
-            one = one % 7 + firstDay
+            one = one % 7 + firstDay;
             return one === calendar.create(two).day + 1
         }
         if (_.isInteger(two) && ( _.isDate(one) || $.isArray(one) )) {
-            two = two % 7 + firstDay
+            two = two % 7 + firstDay;
             return two === calendar.create(one).day + 1
         }
 
@@ -8752,16 +8752,16 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         return false
-    }
+    };
 
 
     /**
      * Flip the “enabled” state.
      */
     DatePicker.prototype.flipEnable = function (val) {
-        var itemObject = this.item
+        var itemObject = this.item;
         itemObject.enable = val || (itemObject.enable == -1 ? 1 : -1)
-    }
+    };
 
 
     /**
@@ -8770,7 +8770,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
     DatePicker.prototype.deactivate = function (type, datesToDisable) {
 
         var calendar = this,
-            disabledItems = calendar.item.disable.slice(0)
+            disabledItems = calendar.item.disable.slice(0);
 
 
         // If we’re flipping, that’s all we need to do.
@@ -8779,12 +8779,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         else if (datesToDisable === false) {
-            calendar.flipEnable(1)
+            calendar.flipEnable(1);
             disabledItems = []
         }
 
         else if (datesToDisable === true) {
-            calendar.flipEnable(-1)
+            calendar.flipEnable(-1);
             disabledItems = []
         }
 
@@ -8793,13 +8793,13 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
             datesToDisable.map(function (unitToDisable) {
 
-                var matchFound
+                var matchFound;
 
                 // When we have disabled items, check for matches.
                 // If something is matched, immediately break out.
                 for (var index = 0; index < disabledItems.length; index += 1) {
                     if (calendar.isDateExact(unitToDisable, disabledItems[index])) {
-                        matchFound = true
+                        matchFound = true;
                         break
                     }
                 }
@@ -8820,7 +8820,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
         // Return the updated collection.
         return disabledItems
-    } //DatePicker.prototype.deactivate
+    }; //DatePicker.prototype.deactivate
 
 
     /**
@@ -8830,7 +8830,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
         var calendar = this,
             disabledItems = calendar.item.disable,
-            disabledItemsCount = disabledItems.length
+            disabledItemsCount = disabledItems.length;
 
         // If we’re flipping, that’s all we need to do.
         if (datesToEnable == 'flip') {
@@ -8838,12 +8838,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         }
 
         else if (datesToEnable === true) {
-            calendar.flipEnable(1)
+            calendar.flipEnable(1);
             disabledItems = []
         }
 
         else if (datesToEnable === false) {
-            calendar.flipEnable(-1)
+            calendar.flipEnable(-1);
             disabledItems = []
         }
 
@@ -8855,28 +8855,28 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 var matchFound,
                     disabledUnit,
                     index,
-                    isExactRange
+                    isExactRange;
 
                 // Go through the disabled items and try to find a match.
                 for (index = 0; index < disabledItemsCount; index += 1) {
 
-                    disabledUnit = disabledItems[index]
+                    disabledUnit = disabledItems[index];
 
                     // When an exact match is found, remove it from the collection.
                     if (calendar.isDateExact(disabledUnit, unitToEnable)) {
-                        matchFound = disabledItems[index] = null
-                        isExactRange = true
+                        matchFound = disabledItems[index] = null;
+                        isExactRange = true;
                         break
                     }
 
                     // When an overlapped match is found, add the “inverted” state to it.
                     else if (calendar.isDateOverlap(disabledUnit, unitToEnable)) {
                         if ($.isPlainObject(unitToEnable)) {
-                            unitToEnable.inverted = true
+                            unitToEnable.inverted = true;
                             matchFound = unitToEnable
                         }
                         else if ($.isArray(unitToEnable)) {
-                            matchFound = unitToEnable
+                            matchFound = unitToEnable;
                             if (!matchFound[3]) matchFound.push('inverted')
                         }
                         else if (_.isDate(unitToEnable)) {
@@ -8889,7 +8889,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 // If a match was found, remove a previous duplicate entry.
                 if (matchFound) for (index = 0; index < disabledItemsCount; index += 1) {
                     if (calendar.isDateExact(disabledItems[index], unitToEnable)) {
-                        disabledItems[index] = null
+                        disabledItems[index] = null;
                         break
                     }
                 }
@@ -8898,7 +8898,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 // make sure there are no “inverted” dates because of it.
                 if (isExactRange) for (index = 0; index < disabledItemsCount; index += 1) {
                     if (calendar.isDateOverlap(disabledItems[index], unitToEnable)) {
-                        disabledItems[index] = null
+                        disabledItems[index] = null;
                         break
                     }
                 }
@@ -8914,7 +8914,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         return disabledItems.filter(function (val) {
             return val != null
         })
-    } //DatePicker.prototype.activate
+    }; //DatePicker.prototype.activate
 
 
     /**
@@ -8941,7 +8941,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                 // If the first day should be Monday, move Sunday to the end.
                 if (settings.firstDay) {
-                    collection.push(collection.shift())
+                    collection.push(collection.shift());
                     fullCollection.push(fullCollection.shift())
                 }
 
@@ -8998,7 +8998,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
             //Materialize modified
             createMonthLabel = function (override) {
 
-                var monthsCollection = settings.showMonthsShort ? settings.monthsShort : settings.monthsFull
+                var monthsCollection = settings.showMonthsShort ? settings.monthsShort : settings.monthsFull;
 
                 // Materialize modified
                 if (override == "short_months") {
@@ -9060,7 +9060,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                     // If years selector is set to a literal "true", set it to 5. Otherwise
                     // divide in half to get half before and half after focused year.
-                    numberYears = settings.selectYears === true ? 5 : ~~( settings.selectYears / 2 )
+                    numberYears = settings.selectYears === true ? 5 : ~~( settings.selectYears / 2 );
 
                 // If there are years to select, add a dropdown menu.
                 if (numberYears) {
@@ -9069,12 +9069,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         minYear = minLimitObject.year,
                         maxYear = maxLimitObject.year,
                         lowestYear = focusedYear - numberYears,
-                        highestYear = focusedYear + numberYears
+                        highestYear = focusedYear + numberYears;
 
                     // If the min year is greater than the lowest year, increase the highest year
                     // by the difference and set the lowest year to the min year.
                     if (minYear > lowestYear) {
-                        highestYear += minYear - lowestYear
+                        highestYear += minYear - lowestYear;
                         lowestYear = minYear
                     }
 
@@ -9084,9 +9084,9 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     if (maxYear < highestYear) {
 
                         var availableYears = lowestYear - minYear,
-                            neededYears = highestYear - maxYear
+                            neededYears = highestYear - maxYear;
 
-                        lowestYear -= availableYears > neededYears ? neededYears : availableYears
+                        lowestYear -= availableYears > neededYears ? neededYears : availableYears;
                         highestYear = maxYear
                     }
 
@@ -9117,19 +9117,19 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
 
                 // Materialize modified
                 if (override == "raw")
-                    return _.node('div', focusedYear)
+                    return _.node('div', focusedYear);
 
                 // Otherwise just return the year focused
                 return _.node('div', focusedYear, settings.klass.year)
-            } //createYearLabel
+            }; //createYearLabel
 
 
         // Materialize modified
         createDayLabel = function () {
             if (selectedObject != null)
-                return _.node('div', selectedObject.date)
+                return _.node('div', selectedObject.date);
             else return _.node('div', nowObject.date)
-        }
+        };
         createWeekdayLabel = function () {
             var display_day;
 
@@ -9137,9 +9137,9 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 display_day = selectedObject.day;
             else
                 display_day = nowObject.day;
-            var weekday = settings.weekdaysFull[display_day]
+            var weekday = settings.weekdaysFull[display_day];
             return weekday
-        }
+        };
 
 
         // Create and return the entire calendar.
@@ -9190,7 +9190,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                         item: function (rowCounter) {
 
                             // If Monday is the first day and the month starts on Sunday, shift the date back a week.
-                            var shiftDateBy = settings.firstDay && calendar.create([viewsetObject.year, viewsetObject.month, 1]).day === 0 ? -7 : 0
+                            var shiftDateBy = settings.firstDay && calendar.create([viewsetObject.year, viewsetObject.month, 1]).day === 0 ? -7 : 0;
 
                             return [
                                 _.group({
@@ -9203,12 +9203,12 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                                     item: function (targetDate) {
 
                                         // Convert the time date from a relative date to a target date.
-                                        targetDate = calendar.create([viewsetObject.year, viewsetObject.month, targetDate + ( settings.firstDay ? 1 : 0 )])
+                                        targetDate = calendar.create([viewsetObject.year, viewsetObject.month, targetDate + ( settings.firstDay ? 1 : 0 )]);
 
                                         var isSelected = selectedObject && selectedObject.pick == targetDate.pick,
                                             isHighlighted = highlightedObject && highlightedObject.pick == targetDate.pick,
                                             isDisabled = disabledCollection && calendar.disabled(targetDate) || targetDate.pick < minLimitObject.pick || targetDate.pick > maxLimitObject.pick,
-                                            formattedDate = _.trigger(calendar.formats.toString, calendar, [settings.format, targetDate])
+                                            formattedDate = _.trigger(calendar.formats.toString, calendar, [settings.format, targetDate]);
 
                                         return [
                                             _.node(
@@ -9217,7 +9217,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                                                 (function (klasses) {
 
                                                     // Add the `infocus` or `outfocus` classes based on month in view.
-                                                    klasses.push(viewsetObject.month == targetDate.month ? settings.klass.infocus : settings.klass.outfocus)
+                                                    klasses.push(viewsetObject.month == targetDate.month ? settings.klass.infocus : settings.klass.outfocus);
 
                                                     // Add the `today` class if needed.
                                                     if (nowObject.pick == targetDate.pick) {
@@ -9286,7 +9286,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                     _.ariaAttr({controls: calendar.$node[0].id})),
                 settings.klass.footer
             ) //endreturn
-    } //DatePicker.prototype.nodes
+    }; //DatePicker.prototype.nodes
 
 
     /**
@@ -9365,7 +9365,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
                 buttonClose: prefix + 'button--close'
             }
         }
-    })(Picker.klasses().picker + '__')
+    })(Picker.klasses().picker + '__');
 
 
     /**
@@ -9457,7 +9457,7 @@ Materialize.toast = function (message, displayLength, className, completeCallbac
         init: function (options) {
             var defaults = {
                 duration: 200, // ms
-                dist: -100, // zoom scale TODO: make this more intuitive as an option
+                dist: -100, // zoom scale TODO.py: make this more intuitive as an option
                 shift: 0, // spacing for center image
                 padding: 0, // Padding between non center items
                 fullWidth: false, // Change to full width styles

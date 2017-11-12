@@ -1,0 +1,2752 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; " width="960" height="600"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+    <g class="svg-pan-zoom_viewport" id="viewport-20171112155515818"
+       style="transform: matrix(0.137112, 0, 0, 0.137112, 503.712, -5.20473);"
+       transform="matrix(0.137112 0 0 0.137112 503.712 -5.20473)">
+        <g class="graph" id="graph0" transform="scale(1) rotate(0) translate(4 2184)">
+            <title>%0</title>
+            <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-2184 698.323,-2184 698.323,4 -4,4"/>
+            <!-- 14 -->
+            <g class="node" id="node1">
+                <title>14</title>
+                <g id="a_node1">
+                    <a xlink:title="C:\Users\risan\AppDatautils:77:execute\n23.81%\n(0.04%)\n4×ocal\Programs\Python\Python36\lib\site-packages\django\db\backends\utils.py">
+                        <polygon fill="#aa9526" stroke="#aa9526"
+                                 points="185.987,-382.701 132.004,-382.701 132.004,-346.099 185.987,-346.099 185.987,-382.701"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="158.9953"
+                              y="-373.4">utils:77:execute
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="158.9953"
+                              y="-366.2">23.81%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="158.9953"
+                              y="-359">(0.04%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="158.9953"
+                              y="-351.8">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 685 -->
+            <g class="node" id="node2">
+                <title>685</title>
+                <g id="a_node2">
+                    <a xlink:title="C:\Users\risan\AppDatautils:59:execute\n23.74%\n(0.01%)\n4×ocal\Programs\Python\Python36\lib\site-packages\django\db\backends\utils.py">
+                        <polygon fill="#aa9526" stroke="#aa9526"
+                                 points="182.987,-313.5 129.004,-313.5 129.004,-276.9 182.987,-276.9 182.987,-313.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="155.9953"
+                              y="-304.2">utils:59:execute
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="155.9953"
+                              y="-297">23.74%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="155.9953"
+                              y="-289.8">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="155.9953"
+                              y="-282.6">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 14&#45;&gt;685 -->
+            <g class="edge" id="edge1">
+                <title>14-&gt;685</title>
+                <path fill="none" stroke="#aa9526" stroke-width="0.95"
+                      d="M 158.191 -345.856 C 157.835 -337.634 157.411 -327.857 157.031 -319.096"/>
+                <polygon fill="#aa9526" stroke="#aa9526" stroke-width="0.95"
+                         points="158.727,-318.617 156.801,-313.796 155.3,-318.765 158.727,-318.617"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9526" text-anchor="middle" x="166.244" y="-331.6">
+                    23.74%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9526" text-anchor="middle" x="166.244" y="-324.4">
+                    4×
+                </text>
+            </g>
+            <!-- 549 -->
+            <g class="node" id="node54">
+                <title>549</title>
+                <g id="a_node54">
+                    <a xlink:title="~">
+                        <polygon fill="#aa9526" stroke="#aa9526"
+                                 points="211.46,-244.301 40.5303,-244.301 40.5303,-207.699 211.46,-207.699 211.46,-244.301"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="125.9953"
+                              y="-235">~:0:&lt;method 'execute' of 'psycopg2.extensions.cursor' objects&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="125.9953"
+                              y="-227.8">23.72%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="125.9953"
+                              y="-220.6">(23.67%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="125.9953"
+                              y="-213.4">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 685&#45;&gt;549 -->
+            <g class="edge" id="edge64">
+                <title>685-&gt;549</title>
+                <path fill="none" stroke="#aa9526" stroke-width="0.95"
+                      d="M 147.956 -276.656 C 144.324 -268.278 139.993 -258.288 136.14 -249.401"/>
+                <polygon fill="#aa9526" stroke="#aa9526" stroke-width="0.95"
+                         points="137.579,-248.409 134.057,-244.596 134.432,-249.773 137.579,-248.409"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9526" text-anchor="middle" x="152.244" y="-262.4">
+                    23.72%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9526" text-anchor="middle" x="152.244" y="-255.2">
+                    4×
+                </text>
+            </g>
+            <!-- 16 -->
+            <g class="node" id="node3">
+                <title>16</title>
+                <g id="a_node3">
+                    <a xlink:title="C:\Users\risan\AppDatainspect:757:findsource\n12.22%\n(0.81%)\n213×ocal\Programs\Python\Python36\lib\inspect.py">
+                        <polygon fill="#aba627" stroke="#aba627"
+                                 points="291.148,-244.301 220.842,-244.301 220.842,-207.699 291.148,-207.699 291.148,-244.301"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-235">inspect:757:findsource
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-227.8">12.22%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-220.6">(0.81%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-213.4">213×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 359 -->
+            <g class="node" id="node4">
+                <title>359</title>
+                <g id="a_node4">
+                    <a xlink:title="C:\Users\risan\AppDatainspect:677:getsourcefile\n9.65%\n(0.78%)\n426×ocal\Programs\Python\Python36\lib\inspect.py">
+                        <polygon fill="#abaa27" stroke="#abaa27"
+                                 points="320.31,-175.1 243.681,-175.1 243.681,-138.499 320.31,-138.499 320.31,-175.1"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-165.8">inspect:677:getsourcefile
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-158.6">9.65%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-151.4">(0.78%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-144.2">426×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 16&#45;&gt;359 -->
+            <g class="edge" id="edge2">
+                <title>16-&gt;359</title>
+                <path fill="none" stroke="#a6ac28" stroke-width="0.5"
+                      d="M 262.963 -207.456 C 266.285 -198.613 270.283 -187.973 273.755 -178.731"/>
+                <polygon fill="#a6ac28" stroke="#a6ac28" stroke-width="0.5"
+                         points="274.924,-179.103 275.009,-175.395 272.631,-178.241 274.924,-179.103"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a6ac28" text-anchor="middle" x="278.744" y="-193.2">
+                    4.54%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a6ac28" text-anchor="middle" x="278.744" y="-186">
+                    213×
+                </text>
+            </g>
+            <!-- 48 -->
+            <g class="node" id="node9">
+                <title>48</title>
+                <g id="a_node9">
+                    <a xlink:title="C:\Users\risan\AppDatagenericpath:16:exists\n7.21%\n(0.19%)\n434×ocal\Programs\Python\Python36\lib\genericpath.py">
+                        <polygon fill="#a9ac27" stroke="#a9ac27"
+                                 points="315.481,-105.9 248.51,-105.9 248.51,-69.2995 315.481,-69.2995 315.481,-105.9"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-96.6">genericpath:16:exists
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-89.4">7.21%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-82.2">(0.19%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-75">434×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 359&#45;&gt;48 -->
+            <g class="edge" id="edge26">
+                <title>359-&gt;48</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 281.995 -138.256 C 281.995 -129.568 281.995 -119.145 281.995 -110.019"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="283.22,-109.696 281.995,-106.196 280.77,-109.696 283.22,-109.696"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="289.744" y="-124">
+                    6.96%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="289.744" y="-116.8">
+                    426×
+                </text>
+            </g>
+            <!-- 44 -->
+            <g class="node" id="node5">
+                <title>44</title>
+                <g id="a_node5">
+                    <a xlink:title="C:\Users\risan\AppDatafunctional:236:inner\n34.24%\n(0.04%)\n38×ocal\Programs\Python\Python36\lib\site-packages\django\utils\functional.py">
+                        <polygon fill="#a98625" stroke="#a98625"
+                                 points="473.485,-1764.7 408.506,-1764.7 408.506,-1728.1 473.485,-1728.1 473.485,-1764.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1755.4">functional:236:inner
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1748.2">34.24%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1741">(0.04%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1733.8">38×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 367 -->
+            <g class="node" id="node6">
+                <title>367</title>
+                <g id="a_node6">
+                    <a xlink:title="~">
+                        <polygon fill="#aa9826" stroke="#aa9826"
+                                 points="221.837,-1626.3 116.154,-1626.3 116.154,-1589.7 221.837,-1589.7 221.837,-1626.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1617">~:0:&lt;built-in method builtins.getattr&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1609.8">21.70%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1602.6">(0.49%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1595.4">1651×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 44&#45;&gt;367 -->
+            <g class="edge" id="edge3">
+                <title>44-&gt;367</title>
+                <path fill="none" stroke="#ab9a26" stroke-width="0.82"
+                      d="M 422.914 -1727.8 C 402.846 -1708.13 368.692 -1677.41 333.995 -1658.8 C 300.387 -1640.77 259.425 -1628.12 226.723 -1619.94"/>
+                <polygon fill="#ab9a26" stroke="#ab9a26" stroke-width="0.82"
+                         points="226.705,-1618.32 221.959,-1618.77 225.952,-1621.38 226.705,-1618.32"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="394.244" y="-1679">
+                    20.51%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="394.244"
+                      y="-1671.8">20×
+                </text>
+            </g>
+            <!-- 637 -->
+            <g class="node" id="node7">
+                <title>637</title>
+                <g id="a_node7">
+                    <a xlink:title="C:\Users\risan\AppDatafunctional:385:_setup\n13.68%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\utils\functional.py">
+                        <polygon fill="#aba427" stroke="#aba427"
+                                 points="508.322,-1695.5 439.669,-1695.5 439.669,-1658.9 508.322,-1658.9 508.322,-1695.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="473.9953"
+                              y="-1686.2">functional:385:_setup
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="473.9953"
+                              y="-1679">13.68%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="473.9953"
+                              y="-1671.8">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="473.9953"
+                              y="-1664.6">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 44&#45;&gt;637 -->
+            <g class="edge" id="edge4">
+                <title>44-&gt;637</title>
+                <path fill="none" stroke="#aba427" stroke-width="0.55"
+                      d="M 449.839 -1727.86 C 453.982 -1719.17 458.952 -1708.75 463.304 -1699.62"/>
+                <polygon fill="#aba427" stroke="#aba427" stroke-width="0.55"
+                         points="464.704,-1699.69 465.128,-1695.8 462.366,-1698.58 464.704,-1699.69"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="469.244"
+                      y="-1713.6">13.68%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="469.244"
+                      y="-1706.4">2×
+                </text>
+            </g>
+            <!-- 382 -->
+            <g class="node" id="node35">
+                <title>382</title>
+                <g id="a_node35">
+                    <a xlink:title="C:\Users\risan\AppDatarelated_descriptors:366:__get__\n20.50%\n(0.01%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\fields\related_descriptors.py">
+                        <polygon fill="#ab9a26" stroke="#ab9a26"
+                                 points="215.807,-1511.3 122.184,-1511.3 122.184,-1474.7 215.807,-1474.7 215.807,-1511.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1502">related_descriptors:366:__get__
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1494.8">20.50%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1487.6">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-1480.4">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 367&#45;&gt;382 -->
+            <g class="edge" id="edge27">
+                <title>367-&gt;382</title>
+                <path fill="none" stroke="#ab9a26" stroke-width="0.82"
+                      d="M 168.995 -1589.52 C 168.995 -1569.57 168.995 -1537.75 168.995 -1516.15"/>
+                <polygon fill="#ab9a26" stroke="#ab9a26" stroke-width="0.82"
+                         points="170.57,-1515.93 168.995,-1511.43 167.42,-1515.93 170.57,-1515.93"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="178.244"
+                      y="-1575.2">20.50%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="178.244" y="-1568">
+                    1×
+                </text>
+            </g>
+            <!-- 1053 -->
+            <g class="node" id="node61">
+                <title>1053</title>
+                <g id="a_node61">
+                    <a xlink:title="C:\Users\risan\AppDatamiddleware:24:&lt;lambda&gt;\n13.56%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\middleware.py">
+                        <polygon fill="#aba427" stroke="#aba427"
+                                 points="565.08,-1626.3 486.911,-1626.3 486.911,-1589.7 565.08,-1589.7 565.08,-1626.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="525.9953"
+                              y="-1617">middleware:24:&lt;lambda&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="525.9953"
+                              y="-1609.8">13.56%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="525.9953"
+                              y="-1602.6">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="525.9953"
+                              y="-1595.4">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 637&#45;&gt;1053 -->
+            <g class="edge" id="edge56">
+                <title>637-&gt;1053</title>
+                <path fill="none" stroke="#aba427" stroke-width="0.54"
+                      d="M 487.93 -1658.66 C 494.575 -1649.81 502.571 -1639.17 509.515 -1629.93"/>
+                <polygon fill="#aba427" stroke="#aba427" stroke-width="0.54"
+                         points="510.834,-1630.33 512.022,-1626.6 508.764,-1628.78 510.834,-1630.33"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="513.244"
+                      y="-1644.4">13.56%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="513.244"
+                      y="-1637.2">1×
+                </text>
+            </g>
+            <!-- 47 -->
+            <g class="node" id="node8">
+                <title>47</title>
+                <g id="a_node8">
+                    <a xlink:title="~">
+                        <polygon fill="#aba827" stroke="#aba827"
+                                 points="324.508,-36.7005 239.483,-36.7005 239.483,-0.0995 324.508,-0.0995 324.508,-36.7005"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-27.4">~:0:&lt;built-in method nt.stat&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-20.2">10.88%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-13">(10.88%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="281.9953"
+                              y="-5.8">721×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 48&#45;&gt;47 -->
+            <g class="edge" id="edge5">
+                <title>48-&gt;47</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 281.995 -69.0557 C 281.995 -60.3681 281.995 -49.9453 281.995 -40.8187"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="283.22,-40.4955 281.995,-36.9955 280.77,-40.4956 283.22,-40.4955"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="289.744" y="-54.8">
+                    7.01%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="289.744" y="-47.6">
+                    434×
+                </text>
+            </g>
+            <!-- 52 -->
+            <g class="node" id="node10">
+                <title>52</title>
+                <g id="a_node10">
+                    <a xlink:title="C:\Users\risan\AppDatastorage:394:listdir\n15.63%\n(0.51%)\n68×ocal\Programs\Python\Python36\lib\site-packages\django\core\files\storage.py">
+                        <polygon fill="#aba127" stroke="#aba127"
+                                 points="110.657,-1465.5 51.3341,-1465.5 51.3341,-1428.9 110.657,-1428.9 110.657,-1465.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1456.2">storage:394:listdir
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1449">15.63%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1441.8">(0.51%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1434.6">68×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 55 -->
+            <g class="node" id="node11">
+                <title>55</title>
+                <g id="a_node11">
+                    <a xlink:title="~">
+                        <polygon fill="#abab27" stroke="#abab27"
+                                 points="155.341,-1396.3 64.65,-1396.3 64.65,-1359.7 155.341,-1359.7 155.341,-1396.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="109.9953"
+                              y="-1387">~:0:&lt;built-in method nt._isdir&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="109.9953"
+                              y="-1379.8">8.76%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="109.9953"
+                              y="-1372.6">(8.76%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="109.9953"
+                              y="-1365.4">414×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 52&#45;&gt;55 -->
+            <g class="edge" id="edge6">
+                <title>52-&gt;55</title>
+                <path fill="none" stroke="#abab27" stroke-width="0.5"
+                      d="M 88.7668 -1428.66 C 92.4725 -1419.81 96.9317 -1409.17 100.804 -1399.93"/>
+                <polygon fill="#abab27" stroke="#abab27" stroke-width="0.5"
+                         points="101.979,-1400.3 102.202,-1396.6 99.7197,-1399.35 101.979,-1400.3"/>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="105.744"
+                      y="-1414.4">8.76%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="105.744"
+                      y="-1407.2">414×
+                </text>
+            </g>
+            <!-- 593 -->
+            <g class="node" id="node12">
+                <title>593</title>
+                <g id="a_node12">
+                    <a xlink:title="C:\Users\risan\AppDatastorage:404:path\n9.18%\n(0.17%)\n430×ocal\Programs\Python\Python36\lib\site-packages\django\core\files\storage.py">
+                        <polygon fill="#abab27" stroke="#abab27"
+                                 points="55.9859,-1396.3 0.0047,-1396.3 0.0047,-1359.7 55.9859,-1359.7 55.9859,-1396.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="27.9953"
+                              y="-1387">storage:404:path
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="27.9953"
+                              y="-1379.8">9.18%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="27.9953"
+                              y="-1372.6">(0.17%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="27.9953"
+                              y="-1365.4">430×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 52&#45;&gt;593 -->
+            <g class="edge" id="edge7">
+                <title>52-&gt;593</title>
+                <path fill="none" stroke="#a1ac28" stroke-width="0.5"
+                      d="M 66.7923 -1428.66 C 59.9009 -1419.66 51.5838 -1408.8 44.4207 -1399.45"/>
+                <polygon fill="#a1ac28" stroke="#a1ac28" stroke-width="0.5"
+                         points="45.3383,-1398.63 42.2375,-1396.6 43.3932,-1400.12 45.3383,-1398.63"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a1ac28" text-anchor="middle" x="66.744" y="-1414.4">
+                    1.42%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a1ac28" text-anchor="middle" x="66.744" y="-1407.2">
+                    68×
+                </text>
+            </g>
+            <!-- 339 -->
+            <g class="node" id="node34">
+                <title>339</title>
+                <g id="a_node34">
+                    <a xlink:title="C:\Users\risan\AppData_os:54:safe_join\n9.76%\n(0.91%)\n460×ocal\Programs\Python\Python36\lib\site-packages\django\utils\_os.py">
+                        <polygon fill="#abaa27" stroke="#abaa27"
+                                 points="74.6569,-1304.7 19.3337,-1304.7 19.3337,-1268.1 74.6569,-1268.1 74.6569,-1304.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="46.9953"
+                              y="-1295.4">_os:54:safe_join
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="46.9953"
+                              y="-1288.2">9.76%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="46.9953"
+                              y="-1281">(0.91%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="46.9953"
+                              y="-1273.8">460×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 593&#45;&gt;339 -->
+            <g class="edge" id="edge49">
+                <title>593-&gt;339</title>
+                <path fill="none" stroke="#abab27" stroke-width="0.5"
+                      d="M 31.8402 -1359.46 C 34.9049 -1344.69 39.204 -1323.96 42.4409 -1308.36"/>
+                <polygon fill="#abab27" stroke="#abab27" stroke-width="0.5"
+                         points="43.6446,-1308.58 43.1561,-1304.91 41.2457,-1308.09 43.6446,-1308.58"/>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="47.744" y="-1334">
+                    9.02%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="47.744" y="-1326.8">
+                    430×
+                </text>
+            </g>
+            <!-- 54 -->
+            <g class="node" id="node13">
+                <title>54</title>
+                <g id="a_node13">
+                    <a xlink:title="C:\Users\risan\AppDatantpath:538:abspath\n9.22%\n(0.68%)\n1346×ocal\Programs\Python\Python36\lib\ntpath.py">
+                        <polygon fill="#abab27" stroke="#abab27"
+                                 points="91.6568,-1235.5 30.3338,-1235.5 30.3338,-1198.9 91.6568,-1198.9 91.6568,-1235.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="60.9953"
+                              y="-1226.2">ntpath:538:abspath
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="60.9953"
+                              y="-1219">9.22%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="60.9953"
+                              y="-1211.8">(0.68%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="60.9953"
+                              y="-1204.6">1346×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 63 -->
+            <g class="node" id="node14">
+                <title>63</title>
+                <g id="a_node14">
+                    <a xlink:title="C:\Users\risan\AppDatantpath:471:normpath\n7.73%\n(4.21%)\n1347×ocal\Programs\Python\Python36\lib\ntpath.py">
+                        <polygon fill="#aaac27" stroke="#aaac27"
+                                 points="97.3247,-1166.3 30.6659,-1166.3 30.6659,-1129.7 97.3247,-1129.7 97.3247,-1166.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1157">ntpath:471:normpath
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1149.8">7.73%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1142.6">(4.21%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1135.4">1347×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 54&#45;&gt;63 -->
+            <g class="edge" id="edge8">
+                <title>54-&gt;63</title>
+                <path fill="none" stroke="#aaac27" stroke-width="0.5"
+                      d="M 61.7992 -1198.66 C 62.1759 -1189.97 62.6277 -1179.55 63.0234 -1170.42"/>
+                <polygon fill="#aaac27" stroke="#aaac27" stroke-width="0.5"
+                         points="64.2613,-1170.15 63.1891,-1166.6 61.8136,-1170.04 64.2613,-1170.15"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aaac27" text-anchor="middle" x="69.744" y="-1184.4">
+                    7.72%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aaac27" text-anchor="middle" x="69.744" y="-1177.2">
+                    1346×
+                </text>
+            </g>
+            <!-- 304 -->
+            <g class="node" id="node15">
+                <title>304</title>
+                <g id="a_node15">
+                    <a xlink:title="~">
+                        <polygon fill="#a7ac27" stroke="#a7ac27"
+                                 points="114.656,-1074.7 13.3345,-1074.7 13.3345,-1038.1 114.656,-1038.1 114.656,-1074.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1065.4">~:0:&lt;method 'join' of 'str' objects&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1058.2">5.38%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1051">(0.44%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="63.9953"
+                              y="-1043.8">2125×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 63&#45;&gt;304 -->
+            <g class="edge" id="edge9">
+                <title>63-&gt;304</title>
+                <path fill="none" stroke="#a0ac28" stroke-width="0.5"
+                      d="M 63.9953 -1129.46 C 63.9953 -1114.81 63.9953 -1094.31 63.9953 -1078.75"/>
+                <polygon fill="#a0ac28" stroke="#a0ac28" stroke-width="0.5"
+                         points="65.2204,-1078.41 63.9953,-1074.91 62.7704,-1078.41 65.2204,-1078.41"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="71.744" y="-1104">
+                    0.27%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="71.744" y="-1096.8">
+                    1347×
+                </text>
+            </g>
+            <!-- 481 -->
+            <g class="node" id="node16">
+                <title>481</title>
+                <g id="a_node16">
+                    <a xlink:title="~">
+                        <polygon fill="#a98625" stroke="#a98625"
+                                 points="201.841,-936.3 104.149,-936.3 104.149,-899.7 201.841,-899.7 201.841,-936.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="152.9953"
+                              y="-927">~:0:&lt;built-in method builtins.len&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="152.9953"
+                              y="-919.8">33.98%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="152.9953"
+                              y="-912.6">(0.84%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="152.9953"
+                              y="-905.4">23344×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 63&#45;&gt;481 -->
+            <g class="edge" id="edge10">
+                <title>63-&gt;481</title>
+                <path fill="none" stroke="#a0ac28" stroke-width="0.5"
+                      d="M 81.5263 -1129.64 C 93.8761 -1115.68 109.792 -1095.41 118.995 -1074.8 C 138.578 -1030.95 129.371 -1015.64 139.995 -968.8 C 142.11 -959.478 144.677 -949.257 146.969 -940.443"/>
+                <polygon fill="#a0ac28" stroke="#a0ac28" stroke-width="0.5"
+                         points="148.232,-940.454 147.933,-936.758 145.862,-939.834 148.232,-940.454"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="142.244"
+                      y="-1023.6">0.50%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="142.244"
+                      y="-1016.4">16537×
+                </text>
+            </g>
+            <!-- 490 -->
+            <g class="node" id="node52">
+                <title>490</title>
+                <g id="a_node52">
+                    <a xlink:title="C:\Users\risan\AppDataquery:231:__len__\n33.32%\n(0.00%)\n3×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\query.py">
+                        <polygon fill="#a98725" stroke="#a98725"
+                                 points="197.823,-867.101 136.168,-867.101 136.168,-830.5 197.823,-830.5 197.823,-867.101"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="166.9953"
+                              y="-857.8">query:231:__len__
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="166.9953"
+                              y="-850.6">33.32%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="166.9953"
+                              y="-843.4">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="166.9953"
+                              y="-836.2">3×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 481&#45;&gt;490 -->
+            <g class="edge" id="edge42">
+                <title>481-&gt;490</title>
+                <path fill="none" stroke="#a98725" stroke-width="1.33"
+                      d="M 156.747 -899.456 C 158.379 -891.389 160.314 -881.825 162.06 -873.193"/>
+                <polygon fill="#a98725" stroke="#a98725" stroke-width="1.33"
+                         points="164.073,-873.483 163.233,-867.396 160.093,-872.678 164.073,-873.483"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a98725" text-anchor="middle" x="170.244" y="-885.2">
+                    33.32%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a98725" text-anchor="middle" x="170.244" y="-878">
+                    3×
+                </text>
+            </g>
+            <!-- 83 -->
+            <g class="node" id="node17">
+                <title>83</title>
+                <g id="a_node17">
+                    <a xlink:title="C:\Users\risan\AppDatafilesystem:26:get_contents\n6.86%\n(0.09%)\n30×ocal\Programs\Python\Python36\lib\site-packages\django\template\loaders\filesystem.py">
+                        <polygon fill="#a9ac27" stroke="#a9ac27"
+                                 points="330.317,-1235.5 249.673,-1235.5 249.673,-1198.9 330.317,-1198.9 330.317,-1235.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1226.2">filesystem:26:get_contents
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1219">6.86%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1211.8">(0.09%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1204.6">30×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 84 -->
+            <g class="node" id="node18">
+                <title>84</title>
+                <g id="a_node18">
+                    <a xlink:title="~">
+                        <polygon fill="#a8ac27" stroke="#a8ac27"
+                                 points="338.338,-1166.3 249.652,-1166.3 249.652,-1129.7 338.338,-1129.7 338.338,-1166.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1157">~:0:&lt;built-in method io.open&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1149.8">6.67%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1142.6">(6.66%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1135.4">31×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 83&#45;&gt;84 -->
+            <g class="edge" id="edge11">
+                <title>83-&gt;84</title>
+                <path fill="none" stroke="#a8ac27" stroke-width="0.5"
+                      d="M 291.067 -1198.66 C 291.569 -1189.97 292.172 -1179.55 292.699 -1170.42"/>
+                <polygon fill="#a8ac27" stroke="#a8ac27" stroke-width="0.5"
+                         points="293.941,-1170.16 292.92,-1166.6 291.495,-1170.02 293.941,-1170.16"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="299.744"
+                      y="-1184.4">6.62%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="299.744"
+                      y="-1177.2">30×
+                </text>
+            </g>
+            <!-- 142 -->
+            <g class="node" id="node19">
+                <title>142</title>
+                <g id="a_node19">
+                    <a xlink:title="C:\Users\risan\AppDatapanel:141:generate_stats\n5.60%\n(0.05%)\n1×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\panels\sql\panel.py">
+                        <polygon fill="#a7ac27" stroke="#a7ac27"
+                                 points="127.808,-1764.7 52.1822,-1764.7 52.1822,-1728.1 127.808,-1728.1 127.808,-1764.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="89.9953"
+                              y="-1755.4">panel:141:generate_stats
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="89.9953"
+                              y="-1748.2">5.60%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="89.9953"
+                              y="-1741">(0.05%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="89.9953"
+                              y="-1733.8">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 151 -->
+            <g class="node" id="node20">
+                <title>151</title>
+                <g id="a_node20">
+                    <a xlink:title="C:\Users\risan\AppDatamiddleware:95:process_response\n39.33%\n(0.05%)\n1×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\middleware.py">
+                        <polygon fill="#a97f25" stroke="#a97f25"
+                                 points="252.634,-1833.9 157.357,-1833.9 157.357,-1797.3 252.634,-1797.3 252.634,-1833.9"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="204.9953"
+                              y="-1824.6">middleware:95:process_response
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="204.9953"
+                              y="-1817.4">39.33%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="204.9953"
+                              y="-1810.2">(0.05%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="204.9953"
+                              y="-1803">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 151&#45;&gt;142 -->
+            <g class="edge" id="edge12">
+                <title>151-&gt;142</title>
+                <path fill="none" stroke="#a7ac27" stroke-width="0.5"
+                      d="M 174.479 -1797.24 C 158.884 -1787.85 139.863 -1776.41 123.821 -1766.75"/>
+                <polygon fill="#a7ac27" stroke="#a7ac27" stroke-width="0.5"
+                         points="124.284,-1765.6 120.654,-1764.85 123.021,-1767.7 124.284,-1765.6"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a7ac27" text-anchor="middle" x="164.744"
+                      y="-1782.8">5.60%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a7ac27" text-anchor="middle" x="164.744"
+                      y="-1775.6">1×
+                </text>
+            </g>
+            <!-- 576 -->
+            <g class="node" id="node21">
+                <title>576</title>
+                <g id="a_node21">
+                    <a xlink:title="C:\Users\risan\AppDatastaticfiles:118:generate_stats\n26.36%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\panels\staticfiles.py">
+                        <polygon fill="#aa9126" stroke="#aa9126"
+                                 points="221.805,-1764.7 136.185,-1764.7 136.185,-1728.1 221.805,-1728.1 221.805,-1764.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="178.9953"
+                              y="-1755.4">staticfiles:118:generate_stats
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="178.9953"
+                              y="-1748.2">26.36%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="178.9953"
+                              y="-1741">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="178.9953"
+                              y="-1733.8">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 151&#45;&gt;576 -->
+            <g class="edge" id="edge13">
+                <title>151-&gt;576</title>
+                <path fill="none" stroke="#aa9126" stroke-width="1.05"
+                      d="M 198.028 -1797.06 C 194.88 -1788.68 191.126 -1778.69 187.788 -1769.8"/>
+                <polygon fill="#aa9126" stroke="#aa9126" stroke-width="1.05"
+                         points="189.447,-1769.14 185.982,-1765 186.105,-1770.4 189.447,-1769.14"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9126" text-anchor="middle" x="203.244"
+                      y="-1782.8">26.36%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9126" text-anchor="middle" x="203.244"
+                      y="-1775.6">1×
+                </text>
+            </g>
+            <!-- 830 -->
+            <g class="node" id="node22">
+                <title>830</title>
+                <g id="a_node22">
+                    <a xlink:title="C:\Users\risan\AppDatatoolbar:56:render_toolbar\n6.43%\n(0.02%)\n1×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\toolbar.py">
+                        <polygon fill="#a8ac27" stroke="#a8ac27"
+                                 points="327.644,-1764.7 250.347,-1764.7 250.347,-1728.1 327.644,-1728.1 327.644,-1764.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="288.9953"
+                              y="-1755.4">toolbar:56:render_toolbar
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="288.9953"
+                              y="-1748.2">6.43%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="288.9953"
+                              y="-1741">(0.02%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="288.9953"
+                              y="-1733.8">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 151&#45;&gt;830 -->
+            <g class="edge" id="edge14">
+                <title>151-&gt;830</title>
+                <path fill="none" stroke="#a8ac27" stroke-width="0.5"
+                      d="M 227.506 -1797.06 C 238.706 -1787.83 252.282 -1776.64 263.826 -1767.14"/>
+                <polygon fill="#a8ac27" stroke="#a8ac27" stroke-width="0.5"
+                         points="264.792,-1767.93 266.714,-1764.76 263.234,-1766.04 264.792,-1767.93"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="261.744"
+                      y="-1782.8">6.43%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="261.744"
+                      y="-1775.6">1×
+                </text>
+            </g>
+            <!-- 225 -->
+            <g class="node" id="node27">
+                <title>225</title>
+                <g id="a_node27">
+                    <a xlink:title="C:\Users\risan\AppDatastaticfiles:131:get_staticfiles_finders\n26.34%\n(0.50%)\n1×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\panels\staticfiles.py">
+                        <polygon fill="#aa9126" stroke="#aa9126"
+                                 points="163.303,-1695.5 58.6874,-1695.5 58.6874,-1658.9 163.303,-1658.9 163.303,-1695.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="110.9953"
+                              y="-1686.2">staticfiles:131:get_staticfiles_finders
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="110.9953"
+                              y="-1679">26.34%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="110.9953"
+                              y="-1671.8">(0.50%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="110.9953"
+                              y="-1664.6">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 576&#45;&gt;225 -->
+            <g class="edge" id="edge47">
+                <title>576-&gt;225</title>
+                <path fill="none" stroke="#aa9126" stroke-width="1.05"
+                      d="M 160.773 -1727.86 C 152.236 -1719.17 141.994 -1708.75 133.025 -1699.62"/>
+                <polygon fill="#aa9126" stroke="#aa9126" stroke-width="1.05"
+                         points="134.116,-1698.18 129.268,-1695.8 131.57,-1700.68 134.116,-1698.18"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9126" text-anchor="middle" x="160.244"
+                      y="-1713.6">26.34%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9126" text-anchor="middle" x="160.244"
+                      y="-1706.4">1×
+                </text>
+            </g>
+            <!-- 464 -->
+            <g class="node" id="node47">
+                <title>464</title>
+                <g id="a_node47">
+                    <a xlink:title="C:\Users\risan\AppDataloader:58:render_to_string\n32.12%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\loader.py">
+                        <polygon fill="#aa8926" stroke="#aa8926"
+                                 points="329.976,-1695.5 250.014,-1695.5 250.014,-1658.9 329.976,-1658.9 329.976,-1695.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1686.2">loader:58:render_to_string
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1679">32.12%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1671.8">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="289.9953"
+                              y="-1664.6">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 830&#45;&gt;464 -->
+            <g class="edge" id="edge76">
+                <title>830-&gt;464</title>
+                <path fill="none" stroke="#a8ac27" stroke-width="0.5"
+                      d="M 289.263 -1727.86 C 289.389 -1719.17 289.539 -1708.75 289.671 -1699.62"/>
+                <polygon fill="#a8ac27" stroke="#a8ac27" stroke-width="0.5"
+                         points="290.901,-1699.31 289.727,-1695.8 288.451,-1699.28 290.901,-1699.31"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="296.744"
+                      y="-1713.6">6.39%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="296.744"
+                      y="-1706.4">1×
+                </text>
+            </g>
+            <!-- 200 -->
+            <g class="node" id="node23">
+                <title>200</title>
+                <g id="a_node23">
+                    <a xlink:title="C:\Users\risan\AppDatabase:986:render\n22.37%\n(0.33%)\n104×ocal\Programs\Python\Python36\lib\site-packages\django\template\base.py">
+                        <polygon fill="#aa9726" stroke="#aa9726"
+                                 points="470.313,-1396.3 415.678,-1396.3 415.678,-1359.7 470.313,-1359.7 470.313,-1396.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="442.9953"
+                              y="-1387">base:986:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="442.9953"
+                              y="-1379.8">22.37%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="442.9953"
+                              y="-1372.6">(0.33%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="442.9953"
+                              y="-1365.4">104×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 782 -->
+            <g class="node" id="node24">
+                <title>782</title>
+                <g id="a_node24">
+                    <a xlink:title="C:\Users\risan\AppDatabase:949:render_annotated\n22.33%\n(0.16%)\n569×ocal\Programs\Python\Python36\lib\site-packages\django\template\base.py">
+                        <polygon fill="#aa9726" stroke="#aa9726"
+                                 points="513.138,-1304.7 432.853,-1304.7 432.853,-1268.1 513.138,-1268.1 513.138,-1304.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="472.9953"
+                              y="-1295.4">base:949:render_annotated
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="472.9953"
+                              y="-1288.2">22.33%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="472.9953"
+                              y="-1281">(0.16%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="472.9953"
+                              y="-1273.8">569×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 200&#45;&gt;782 -->
+            <g class="edge" id="edge15">
+                <title>200-&gt;782</title>
+                <path fill="none" stroke="#aa9726" stroke-width="0.89"
+                      d="M 449.066 -1359.46 C 453.783 -1345.06 460.352 -1325 465.414 -1309.55"/>
+                <polygon fill="#aa9726" stroke="#aa9726" stroke-width="0.89"
+                         points="467.034,-1309.89 466.933,-1304.91 463.907,-1308.86 467.034,-1309.89"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9726" text-anchor="middle" x="472.244" y="-1334">
+                    22.33%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9726" text-anchor="middle" x="472.244"
+                      y="-1326.8">26×
+                </text>
+            </g>
+            <!-- 470 -->
+            <g class="node" id="node50">
+                <title>470</title>
+                <g id="a_node50">
+                    <a xlink:title="C:\Users\risan\AppDataloader_tags:153:render\n17.75%\n(0.01%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py">
+                        <polygon fill="#ab9e27" stroke="#ab9e27"
+                                 points="410.808,-1235.5 339.182,-1235.5 339.182,-1198.9 410.808,-1198.9 410.808,-1235.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="374.9953"
+                              y="-1226.2">loader_tags:153:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="374.9953"
+                              y="-1219">17.75%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="374.9953"
+                              y="-1211.8">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="374.9953"
+                              y="-1204.6">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 782&#45;&gt;470 -->
+            <g class="edge" id="edge68">
+                <title>782-&gt;470</title>
+                <path fill="none" stroke="#ab9e27" stroke-width="0.71"
+                      d="M 446.99 -1268.04 C 434.032 -1258.89 418.3 -1247.78 404.85 -1238.28"/>
+                <polygon fill="#ab9e27" stroke="#ab9e27" stroke-width="0.71"
+                         points="405.401,-1236.87 401.122,-1235.65 403.705,-1239.27 405.401,-1236.87"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9e27" text-anchor="middle" x="441.244"
+                      y="-1253.6">17.75%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9e27" text-anchor="middle" x="441.244"
+                      y="-1246.4">1×
+                </text>
+            </g>
+            <!-- 644 -->
+            <g class="node" id="node62">
+                <title>644</title>
+                <g id="a_node62">
+                    <a xlink:title="C:\Users\risan\AppDatadefaulttags:310:render\n19.67%\n(0.07%)\n90×ocal\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py">
+                        <polygon fill="#ab9b26" stroke="#ab9b26"
+                                 points="566.975,-1235.5 497.016,-1235.5 497.016,-1198.9 566.975,-1198.9 566.975,-1235.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="531.9953"
+                              y="-1226.2">defaulttags:310:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="531.9953"
+                              y="-1219">19.67%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="531.9953"
+                              y="-1211.8">(0.07%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="531.9953"
+                              y="-1204.6">90×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 782&#45;&gt;644 -->
+            <g class="edge" id="edge69">
+                <title>782-&gt;644</title>
+                <path fill="none" stroke="#ab9b26" stroke-width="0.79"
+                      d="M 487.385 -1267.85 C 493.201 -1260.51 500.053 -1252.06 506.498 -1244.6 C 508.091 -1242.76 509.764 -1240.86 511.461 -1238.98"/>
+                <polygon fill="#ab9b26" stroke="#ab9b26" stroke-width="0.79"
+                         points="512.708,-1239.9 514.526,-1235.6 510.428,-1237.82 512.708,-1239.9"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9b26" text-anchor="middle" x="515.244"
+                      y="-1253.6">19.67%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9b26" text-anchor="middle" x="515.244"
+                      y="-1246.4">67×
+                </text>
+            </g>
+            <!-- 804 -->
+            <g class="node" id="node67">
+                <title>804</title>
+                <g id="a_node67">
+                    <a xlink:title="C:\Users\risan\AppDataloader_tags:58:render\n16.00%\n(0.02%)\n6×ocal\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py">
+                        <polygon fill="#aba127" stroke="#aba127"
+                                 points="488.308,-1235.5 419.682,-1235.5 419.682,-1198.9 488.308,-1198.9 488.308,-1235.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="453.9953"
+                              y="-1226.2">loader_tags:58:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="453.9953"
+                              y="-1219">16.00%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="453.9953"
+                              y="-1211.8">(0.02%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="453.9953"
+                              y="-1204.6">6×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 782&#45;&gt;804 -->
+            <g class="edge" id="edge70">
+                <title>782-&gt;804</title>
+                <path fill="none" stroke="#aba127" stroke-width="0.64"
+                      d="M 467.904 -1267.86 C 465.561 -1259.32 462.759 -1249.12 460.285 -1240.11"/>
+                <polygon fill="#aba127" stroke="#aba127" stroke-width="0.64"
+                         points="461.51,-1239.28 459.101,-1235.8 458.81,-1240.02 461.51,-1239.28"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="474.244"
+                      y="-1253.6">16.00%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="474.244"
+                      y="-1246.4">6×
+                </text>
+            </g>
+            <!-- 221 -->
+            <g class="node" id="node25">
+                <title>221</title>
+                <g id="a_node25">
+                    <a xlink:title="C:\Users\risan\AppDatautils:245:get_stack\n18.74%\n(0.18%)\n4×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\utils.py">
+                        <polygon fill="#ab9d27" stroke="#ab9d27"
+                                 points="271.825,-382.701 210.166,-382.701 210.166,-346.099 271.825,-346.099 271.825,-382.701"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="240.9953"
+                              y="-373.4">utils:245:get_stack
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="240.9953"
+                              y="-366.2">18.74%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="240.9953"
+                              y="-359">(0.18%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="240.9953"
+                              y="-351.8">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 428 -->
+            <g class="node" id="node26">
+                <title>428</title>
+                <g id="a_node26">
+                    <a xlink:title="C:\Users\risan\AppDatautils:190:getframeinfo\n18.54%\n(0.83%)\n213×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\utils.py">
+                        <polygon fill="#ab9d27" stroke="#ab9d27"
+                                 points="290.651,-313.5 221.339,-313.5 221.339,-276.9 290.651,-276.9 290.651,-313.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-304.2">utils:190:getframeinfo
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-297">18.54%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-289.8">(0.83%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="255.9953"
+                              y="-282.6">213×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 221&#45;&gt;428 -->
+            <g class="edge" id="edge16">
+                <title>221-&gt;428</title>
+                <path fill="none" stroke="#ab9d27" stroke-width="0.74"
+                      d="M 245.015 -345.856 C 246.865 -337.323 249.077 -327.117 251.029 -318.109"/>
+                <polygon fill="#ab9d27" stroke="#ab9d27" stroke-width="0.74"
+                         points="252.524,-318.317 251.964,-313.796 249.583,-317.679 252.524,-318.317"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9d27" text-anchor="middle" x="258.244" y="-331.6">
+                    18.54%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9d27" text-anchor="middle" x="258.244" y="-324.4">
+                    213×
+                </text>
+            </g>
+            <!-- 428&#45;&gt;16 -->
+            <g class="edge" id="edge36">
+                <title>428-&gt;16</title>
+                <path fill="none" stroke="#aba627" stroke-width="0.5"
+                      d="M 255.995 -276.656 C 255.995 -267.968 255.995 -257.545 255.995 -248.419"/>
+                <polygon fill="#aba627" stroke="#aba627" stroke-width="0.5"
+                         points="257.22,-248.096 255.995,-244.596 254.77,-248.096 257.22,-248.096"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba627" text-anchor="middle" x="265.244" y="-262.4">
+                    12.22%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba627" text-anchor="middle" x="265.244" y="-255.2">
+                    213×
+                </text>
+            </g>
+            <!-- 428&#45;&gt;359 -->
+            <g class="edge" id="edge37">
+                <title>428-&gt;359</title>
+                <path fill="none" stroke="#a6ac28" stroke-width="0.5"
+                      d="M 275.397 -276.811 C 283.416 -267.888 291.806 -256.492 295.995 -244.4 C 303.463 -222.844 297.602 -196.905 291.336 -178.872"/>
+                <polygon fill="#a6ac28" stroke="#a6ac28" stroke-width="0.5"
+                         points="292.417,-178.256 290.082,-175.375 290.11,-179.083 292.417,-178.256"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a6ac28" text-anchor="middle" x="306.744" y="-227.8">
+                    5.11%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a6ac28" text-anchor="middle" x="306.744" y="-220.6">
+                    213×
+                </text>
+            </g>
+            <!-- 225&#45;&gt;367 -->
+            <g class="edge" id="edge17">
+                <title>225-&gt;367</title>
+                <path fill="none" stroke="#a0ac28" stroke-width="0.5"
+                      d="M 126.538 -1658.66 C 134.08 -1649.66 143.181 -1638.8 151.02 -1629.45"/>
+                <polygon fill="#a0ac28" stroke="#a0ac28" stroke-width="0.5"
+                         points="152.1,-1630.06 153.41,-1626.6 150.222,-1628.49 152.1,-1630.06"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="152.744"
+                      y="-1644.4">0.14%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="152.744"
+                      y="-1637.2">354×
+                </text>
+            </g>
+            <!-- 225&#45;&gt;593 -->
+            <g class="edge" id="edge18">
+                <title>225-&gt;593</title>
+                <path fill="none" stroke="#aaac27" stroke-width="0.5"
+                      d="M 66.0944 -1658.7 C 46.5378 -1647.4 27.9953 -1630.7 27.9953 -1608 C 27.9953 -1608 27.9953 -1608 27.9953 -1447.2 C 27.9953 -1431.5 27.9953 -1413.79 27.9953 -1400.22"/>
+                <polygon fill="#aaac27" stroke="#aaac27" stroke-width="0.5"
+                         points="29.2204,-1400 27.9953,-1396.5 26.7704,-1400 29.2204,-1400"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aaac27" text-anchor="middle" x="35.744" y="-1540.6">
+                    7.58%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aaac27" text-anchor="middle" x="35.744" y="-1533.4">
+                    354×
+                </text>
+            </g>
+            <!-- 606 -->
+            <g class="node" id="node28">
+                <title>606</title>
+                <g id="a_node28">
+                    <a xlink:title="C:\Users\risan\AppDatafinders:142:list\n17.97%\n(0.09%)\n355×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\staticfiles\finders.py">
+                        <polygon fill="#ab9e27" stroke="#ab9e27"
+                                 points="107.326,-1626.3 54.6649,-1626.3 54.6649,-1589.7 107.326,-1589.7 107.326,-1626.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1617">finders:142:list
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1609.8">17.97%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1602.6">(0.09%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1595.4">355×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 225&#45;&gt;606 -->
+            <g class="edge" id="edge19">
+                <title>225-&gt;606</title>
+                <path fill="none" stroke="#ab9e27" stroke-width="0.72"
+                      d="M 102.956 -1658.66 C 99.2568 -1650.12 94.8321 -1639.92 90.9269 -1630.91"/>
+                <polygon fill="#ab9e27" stroke="#ab9e27" stroke-width="0.72"
+                         points="92.0763,-1629.86 89.0569,-1626.6 89.3789,-1631.03 92.0763,-1629.86"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9e27" text-anchor="middle" x="107.244"
+                      y="-1644.4">17.97%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9e27" text-anchor="middle" x="107.244"
+                      y="-1637.2">355×
+                </text>
+            </g>
+            <!-- 559 -->
+            <g class="node" id="node55">
+                <title>559</title>
+                <g id="a_node55">
+                    <a xlink:title="C:\Users\risan\AppDatautils:21:get_files\n17.44%\n(0.47%)\n1358×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\staticfiles\utils.py">
+                        <polygon fill="#ab9f27" stroke="#ab9f27"
+                                 points="109.326,-1557.1 52.6641,-1557.1 52.6641,-1520.5 109.326,-1520.5 109.326,-1557.1"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1547.8">utils:21:get_files
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1540.6">17.44%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1533.4">(0.47%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="80.9953"
+                              y="-1526.2">1358×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 606&#45;&gt;559 -->
+            <g class="edge" id="edge50">
+                <title>606-&gt;559</title>
+                <path fill="none" stroke="#ab9f27" stroke-width="0.7"
+                      d="M 80.9953 -1589.46 C 80.9953 -1580.92 80.9953 -1570.72 80.9953 -1561.71"/>
+                <polygon fill="#ab9f27" stroke="#ab9f27" stroke-width="0.7"
+                         points="82.4654,-1561.6 80.9953,-1557.4 79.5254,-1561.6 82.4654,-1561.6"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9f27" text-anchor="middle" x="90.244" y="-1575.2">
+                    17.44%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9f27" text-anchor="middle" x="90.244" y="-1568">
+                    362×
+                </text>
+            </g>
+            <!-- 229 -->
+            <g class="node" id="node29">
+                <title>229</title>
+                <g id="a_node29">
+                    <a xlink:title="C:\Users\risan\AppDatabase:17:get_template\n10.58%\n(0.06%)\n8×ocal\Programs\Python\Python36\lib\site-packages\django\template\loaders\base.py">
+                        <polygon fill="#aba927" stroke="#aba927"
+                                 points="324.481,-1304.7 257.51,-1304.7 257.51,-1268.1 324.481,-1268.1 324.481,-1304.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="290.9953"
+                              y="-1295.4">base:17:get_template
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="290.9953"
+                              y="-1288.2">10.58%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="290.9953"
+                              y="-1281">(0.06%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="290.9953"
+                              y="-1273.8">8×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 229&#45;&gt;83 -->
+            <g class="edge" id="edge20">
+                <title>229-&gt;83</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 290.727 -1267.86 C 290.602 -1259.17 290.451 -1248.75 290.319 -1239.62"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="291.54,-1239.28 290.264,-1235.8 289.09,-1239.31 291.54,-1239.28"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="297.744"
+                      y="-1253.6">6.86%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="297.744"
+                      y="-1246.4">30×
+                </text>
+            </g>
+            <!-- 234 -->
+            <g class="node" id="node30">
+                <title>234</title>
+                <g id="a_node30">
+                    <a xlink:title="C:\Users\risan\AppDataengine:130:find_template\n10.60%\n(0.01%)\n4×ocal\Programs\Python\Python36\lib\site-packages\django\template\engine.py">
+                        <polygon fill="#aba927" stroke="#aba927"
+                                 points="332.65,-1396.3 255.341,-1396.3 255.341,-1359.7 332.65,-1359.7 332.65,-1396.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1387">engine:130:find_template
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1379.8">10.60%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1372.6">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="293.9953"
+                              y="-1365.4">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 234&#45;&gt;229 -->
+            <g class="edge" id="edge21">
+                <title>234-&gt;229</title>
+                <path fill="none" stroke="#aba927" stroke-width="0.5"
+                      d="M 293.388 -1359.46 C 292.908 -1344.81 292.237 -1324.31 291.727 -1308.75"/>
+                <polygon fill="#aba927" stroke="#aba927" stroke-width="0.5"
+                         points="292.94,-1308.37 291.602,-1304.91 290.492,-1308.45 292.94,-1308.37"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba927" text-anchor="middle" x="302.244" y="-1334">
+                    10.58%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba927" text-anchor="middle" x="302.244"
+                      y="-1326.8">8×
+                </text>
+            </g>
+            <!-- 315 -->
+            <g class="node" id="node31">
+                <title>315</title>
+                <g id="a_node31">
+                    <a xlink:title="C:\Users\risan\AppDatasql:20:execute_sql\n48.86%\n(0.06%)\n4×ocal\Programs\Python\Python36\lib\site-packages\django_silk-1.0.0-py3.6.egg\silk\sql.py">
+                        <polygon fill="#a87224" stroke="#a87224"
+                                 points="222.154,-659.5 161.837,-659.5 161.837,-622.899 222.154,-622.899 222.154,-659.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-650.2">sql:20:execute_sql
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-643">48.86%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-635.8">(0.06%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-628.6">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 1040 -->
+            <g class="node" id="node32">
+                <title>1040</title>
+                <g id="a_node32">
+                    <a xlink:title="C:\Users\risan\AppDatacompiler:855:execute_sql\n45.62%\n(0.02%)\n4×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\sql\compiler.py">
+                        <polygon fill="#a87625" stroke="#a87625"
+                                 points="230.978,-590.3 153.012,-590.3 153.012,-553.7 230.978,-553.7 230.978,-590.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-581">compiler:855:execute_sql
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-573.8">45.62%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-566.6">(0.02%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-559.4">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 315&#45;&gt;1040 -->
+            <g class="edge" id="edge22">
+                <title>315-&gt;1040</title>
+                <path fill="none" stroke="#a87625" stroke-width="1.82"
+                      d="M 191.995 -622.656 C 191.995 -614.977 191.995 -605.942 191.995 -597.644"/>
+                <polygon fill="#a87625" stroke="#a87625" stroke-width="1.82"
+                         points="194.375,-597.396 191.995,-590.596 189.615,-597.396 194.375,-597.396"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a87625" text-anchor="middle" x="201.244" y="-608.4">
+                    45.62%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a87625" text-anchor="middle" x="201.244" y="-601.2">
+                    4×
+                </text>
+            </g>
+            <!-- 1044 -->
+            <g class="node" id="node69">
+                <title>1044</title>
+                <g id="a_node69">
+                    <a xlink:title="C:\Users\risan\AppDatatracking:163:execute\n45.14%\n(0.00%)\n4×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\panels\sql\tracking.py">
+                        <polygon fill="#a97725" stroke="#a97725"
+                                 points="225.311,-521.101 158.68,-521.101 158.68,-484.5 225.311,-484.5 225.311,-521.101"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-511.8">tracking:163:execute
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-504.6">45.14%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-497.4">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-490.2">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 1040&#45;&gt;1044 -->
+            <g class="edge" id="edge80">
+                <title>1040-&gt;1044</title>
+                <path fill="none" stroke="#a97725" stroke-width="1.81"
+                      d="M 191.995 -553.456 C 191.995 -545.699 191.995 -536.559 191.995 -528.193"/>
+                <polygon fill="#a97725" stroke="#a97725" stroke-width="1.81"
+                         points="194.34,-528.096 191.995,-521.396 189.65,-528.096 194.34,-528.096"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a97725" text-anchor="middle" x="201.244" y="-539.2">
+                    45.14%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a97725" text-anchor="middle" x="201.244" y="-532">
+                    4×
+                </text>
+            </g>
+            <!-- 327 -->
+            <g class="node" id="node33">
+                <title>327</title>
+                <g id="a_node33">
+                    <a xlink:title="C:\Users\risan\AppDatatracking:103:_record\n45.14%\n(0.08%)\n4×ocal\Programs\Python\Python36\lib\site-packages\debug_toolbar\panels\sql\tracking.py">
+                        <polygon fill="#a97725" stroke="#a97725"
+                                 points="225.311,-451.901 158.679,-451.901 158.679,-415.299 225.311,-415.299 225.311,-451.901"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-442.6">tracking:103:_record
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-435.4">45.14%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-428.2">(0.08%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-421">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 327&#45;&gt;14 -->
+            <g class="edge" id="edge23">
+                <title>327-&gt;14</title>
+                <path fill="none" stroke="#aa9526" stroke-width="0.95"
+                      d="M 183.152 -415.056 C 179.157 -406.678 174.393 -396.688 170.155 -387.801"/>
+                <polygon fill="#aa9526" stroke="#aa9526" stroke-width="0.95"
+                         points="171.52,-386.68 167.863,-382.996 168.424,-388.157 171.52,-386.68"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9526" text-anchor="middle" x="187.244" y="-400.8">
+                    23.81%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9526" text-anchor="middle" x="187.244" y="-393.6">
+                    4×
+                </text>
+            </g>
+            <!-- 327&#45;&gt;221 -->
+            <g class="edge" id="edge24">
+                <title>327-&gt;221</title>
+                <path fill="none" stroke="#ab9d27" stroke-width="0.75"
+                      d="M 205.126 -415.056 C 211.278 -406.368 218.658 -395.945 225.121 -386.819"/>
+                <polygon fill="#ab9d27" stroke="#ab9d27" stroke-width="0.75"
+                         points="226.571,-387.375 227.828,-382.996 224.115,-385.635 226.571,-387.375"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9d27" text-anchor="middle" x="229.244" y="-400.8">
+                    18.74%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9d27" text-anchor="middle" x="229.244" y="-393.6">
+                    4×
+                </text>
+            </g>
+            <!-- 339&#45;&gt;54 -->
+            <g class="edge" id="edge25">
+                <title>339-&gt;54</title>
+                <path fill="none" stroke="#a8ac27" stroke-width="0.5"
+                      d="M 50.747 -1267.86 C 52.5046 -1259.17 54.6133 -1248.75 56.4597 -1239.62"/>
+                <polygon fill="#a8ac27" stroke="#a8ac27" stroke-width="0.5"
+                         points="57.7398,-1239.47 57.2332,-1235.8 55.3384,-1238.98 57.7398,-1239.47"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="62.744" y="-1253.6">
+                    6.01%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="62.744" y="-1246.4">
+                    920×
+                </text>
+            </g>
+            <!-- 491 -->
+            <g class="node" id="node37">
+                <title>491</title>
+                <g id="a_node37">
+                    <a xlink:title="C:\Users\risan\AppDataquery:366:get\n33.80%\n(0.01%)\n3×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\query.py">
+                        <polygon fill="#a98725" stroke="#a98725"
+                                 points="193.823,-1005.5 144.168,-1005.5 144.168,-968.899 193.823,-968.899 193.823,-1005.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-996.2">query:366:get
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-989">33.80%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-981.8">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="168.9953"
+                              y="-974.6">3×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 382&#45;&gt;491 -->
+            <g class="edge" id="edge29">
+                <title>382-&gt;491</title>
+                <path fill="none" stroke="#ab9a26" stroke-width="0.82"
+                      d="M 168.995 -1474.48 C 168.995 -1458.18 168.995 -1433.82 168.995 -1412.6 C 168.995 -1412.6 168.995 -1412.6 168.995 -1056.4 C 168.995 -1041.1 168.995 -1023.9 168.995 -1010.47"/>
+                <polygon fill="#ab9a26" stroke="#ab9a26" stroke-width="0.82"
+                         points="170.57,-1010.2 168.995,-1005.7 167.42,-1010.2 170.57,-1010.2"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="178.244"
+                      y="-1253.6">20.43%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="178.244"
+                      y="-1246.4">1×
+                </text>
+            </g>
+            <!-- 378 -->
+            <g class="node" id="node36">
+                <title>378</title>
+                <g id="a_node36">
+                    <a xlink:title="C:\Users\risan\AppDatamanager:84:manager_method\n13.60%\n(0.01%)\n3×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\manager.py">
+                        <polygon fill="#aba427" stroke="#aba427"
+                                 points="472.639,-1074.7 385.352,-1074.7 385.352,-1038.1 472.639,-1038.1 472.639,-1074.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="428.9953"
+                              y="-1065.4">manager:84:manager_method
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="428.9953"
+                              y="-1058.2">13.60%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="428.9953"
+                              y="-1051">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="428.9953"
+                              y="-1043.8">3×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 378&#45;&gt;491 -->
+            <g class="edge" id="edge28">
+                <title>378-&gt;491</title>
+                <path fill="none" stroke="#aba527" stroke-width="0.53"
+                      d="M 385.184 -1044.74 C 331.693 -1030.5 242.769 -1006.84 197.446 -994.772"/>
+                <polygon fill="#aba527" stroke="#aba527" stroke-width="0.53"
+                         points="197.637,-993.483 193.728,-993.783 196.971,-995.986 197.637,-993.483"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba527" text-anchor="middle" x="331.244"
+                      y="-1023.6">13.37%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba527" text-anchor="middle" x="331.244"
+                      y="-1016.4">2×
+                </text>
+            </g>
+            <!-- 491&#45;&gt;481 -->
+            <g class="edge" id="edge44">
+                <title>491-&gt;481</title>
+                <path fill="none" stroke="#a98725" stroke-width="1.33"
+                      d="M 164.708 -968.656 C 162.842 -960.589 160.631 -951.025 158.635 -942.393"/>
+                <polygon fill="#a98725" stroke="#a98725" stroke-width="1.33"
+                         points="160.579,-941.789 157.295,-936.596 156.624,-942.704 160.579,-941.789"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a98725" text-anchor="middle" x="171.244" y="-954.4">
+                    33.32%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a98725" text-anchor="middle" x="171.244" y="-947.2">
+                    3×
+                </text>
+            </g>
+            <!-- 406 -->
+            <g class="node" id="node38">
+                <title>406</title>
+                <g id="a_node38">
+                    <a xlink:title="C:\Users\risan\AppDatadeprecation:135:__call__\n100.00%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\utils\deprecation.py">
+                        <polygon fill="#a43321" stroke="#a43321"
+                                 points="307.478,-2179.9 230.513,-2179.9 230.513,-2143.3 307.478,-2143.3 307.478,-2179.9"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="268.9953"
+                              y="-2170.6">deprecation:135:__call__
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="268.9953"
+                              y="-2163.4">100.00%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="268.9953"
+                              y="-2156.2">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="268.9953"
+                              y="-2149">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 406&#45;&gt;151 -->
+            <g class="edge" id="edge30">
+                <title>406-&gt;151</title>
+                <path fill="none" stroke="#a97f25" stroke-width="1.57"
+                      d="M 258.393 -2143.16 C 251.579 -2129.57 243.995 -2110.41 243.995 -2092.4 C 243.995 -2092.4 243.995 -2092.4 243.995 -1884.8 C 243.995 -1868.15 235.318 -1851.81 226.15 -1839.19"/>
+                <polygon fill="#a97f25" stroke="#a97f25" stroke-width="1.57"
+                         points="227.786,-1837.7 222.215,-1834.02 224.277,-1840.37 227.786,-1837.7"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a97f25" text-anchor="middle" x="253.244"
+                      y="-1990.4">39.33%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a97f25" text-anchor="middle" x="253.244"
+                      y="-1983.2">1×
+                </text>
+            </g>
+            <!-- 646 -->
+            <g class="node" id="node39">
+                <title>646</title>
+                <g id="a_node39">
+                    <a xlink:title="C:\Users\risan\AppDataexception:38:inner\n100.00%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py">
+                        <polygon fill="#a43321" stroke="#a43321"
+                                 points="331.483,-2110.7 270.507,-2110.7 270.507,-2074.1 331.483,-2074.1 331.483,-2110.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="300.9953"
+                              y="-2101.4">exception:38:inner
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="300.9953"
+                              y="-2094.2">100.00%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="300.9953"
+                              y="-2087">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="300.9953"
+                              y="-2079.8">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 406&#45;&gt;646 -->
+            <g class="edge" id="edge31">
+                <title>406-&gt;646</title>
+                <path fill="none" stroke="#a76224" stroke-width="2.41"
+                      d="M 267.177 -2142.96 C 267.177 -2135.45 268.146 -2126.9 271.498 -2119.8 C 271.871 -2119.01 272.278 -2118.23 272.714 -2117.47"/>
+                <polygon fill="#a76224" stroke="#a76224" stroke-width="2.41"
+                         points="275.059,-2118.88 277.332,-2110.93 270.6,-2115.73 275.059,-2118.88"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a76224" text-anchor="middle" x="280.244"
+                      y="-2128.8">60.34%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a76224" text-anchor="middle" x="280.244"
+                      y="-2121.6">1×
+                </text>
+            </g>
+            <!-- 646&#45;&gt;406 -->
+            <g class="edge" id="edge61">
+                <title>646-&gt;406</title>
+                <path fill="none" stroke="#a43321" stroke-width="4"
+                      d="M 296.593 -2110.76 C 294.47 -2118.23 291.594 -2126.82 287.995 -2134.2 C 287.949 -2134.29 287.903 -2134.39 287.856 -2134.48"/>
+                <polygon fill="#a43321" stroke="#a43321" stroke-width="4"
+                         points="284.799,-2132.78 282.869,-2143.2 290.874,-2136.26 284.799,-2132.78"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a43321" text-anchor="middle" x="303.744"
+                      y="-2128.8">100.00%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a43321" text-anchor="middle" x="303.744"
+                      y="-2121.6">1×
+                </text>
+            </g>
+            <!-- 425 -->
+            <g class="node" id="node44">
+                <title>425</title>
+                <g id="a_node44">
+                    <a xlink:title="C:\Users\risan\AppDatabase:157:_get_response\n60.34%\n(0.01%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py">
+                        <polygon fill="#a76224" stroke="#a76224"
+                                 points="343.813,-2041.5 270.178,-2041.5 270.178,-2004.9 343.813,-2004.9 343.813,-2041.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="306.9953"
+                              y="-2032.2">base:157:_get_response
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="306.9953"
+                              y="-2025">60.34%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="306.9953"
+                              y="-2017.8">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="306.9953"
+                              y="-2010.6">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 646&#45;&gt;425 -->
+            <g class="edge" id="edge62">
+                <title>646-&gt;425</title>
+                <path fill="none" stroke="#a76224" stroke-width="2.41"
+                      d="M 302.603 -2073.86 C 303.249 -2066.41 304.005 -2057.69 304.706 -2049.6"/>
+                <polygon fill="#a76224" stroke="#a76224" stroke-width="2.41"
+                         points="307.429,-2049.8 305.383,-2041.8 301.989,-2049.33 307.429,-2049.8"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a76224" text-anchor="middle" x="313.244"
+                      y="-2059.6">60.34%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a76224" text-anchor="middle" x="313.244"
+                      y="-2052.4">1×
+                </text>
+            </g>
+            <!-- 412 -->
+            <g class="node" id="node40">
+                <title>412</title>
+                <g id="a_node40">
+                    <a xlink:title="C:\Users\risan\AppDataengine:157:get_template\n9.09%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\engine.py">
+                        <polygon fill="#abab27" stroke="#abab27"
+                                 points="336.816,-1465.5 261.175,-1465.5 261.175,-1428.9 336.816,-1428.9 336.816,-1465.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="298.9953"
+                              y="-1456.2">engine:157:get_template
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="298.9953"
+                              y="-1449">9.09%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="298.9953"
+                              y="-1441.8">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="298.9953"
+                              y="-1434.6">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 412&#45;&gt;234 -->
+            <g class="edge" id="edge32">
+                <title>412-&gt;234</title>
+                <path fill="none" stroke="#abab27" stroke-width="0.5"
+                      d="M 297.655 -1428.66 C 297.028 -1419.97 296.275 -1409.55 295.615 -1400.42"/>
+                <polygon fill="#abab27" stroke="#abab27" stroke-width="0.5"
+                         points="296.813,-1400 295.339,-1396.6 294.369,-1400.17 296.813,-1400"/>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="303.744"
+                      y="-1414.4">9.09%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="303.744"
+                      y="-1407.2">2×
+                </text>
+            </g>
+            <!-- 423 -->
+            <g class="node" id="node41">
+                <title>423</title>
+                <g id="a_node41">
+                    <a xlink:title="C:\Users\risan\AppData__init__:202:get_user\n13.56%\n(0.01%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\__init__.py">
+                        <polygon fill="#aba427" stroke="#aba427"
+                                 points="614.158,-1465.5 545.833,-1465.5 545.833,-1428.9 614.158,-1428.9 614.158,-1465.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="579.9953"
+                              y="-1456.2">__init__:202:get_user
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="579.9953"
+                              y="-1449">13.56%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="579.9953"
+                              y="-1441.8">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="579.9953"
+                              y="-1434.6">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 736 -->
+            <g class="node" id="node42">
+                <title>736</title>
+                <g id="a_node42">
+                    <a xlink:title="C:\Users\risan\AppData__init__:58:_get_user_session_key\n7.10%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\__init__.py">
+                        <polygon fill="#a9ac27" stroke="#a9ac27"
+                                 points="694.152,-1396.3 593.838,-1396.3 593.838,-1359.7 694.152,-1359.7 694.152,-1396.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1387">__init__:58:_get_user_session_key
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1379.8">7.10%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1372.6">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1365.4">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 423&#45;&gt;736 -->
+            <g class="edge" id="edge33">
+                <title>423-&gt;736</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 597.146 -1428.66 C 605.468 -1419.66 615.511 -1408.8 624.161 -1399.45"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="625.32,-1400 626.797,-1396.6 623.521,-1398.33 625.32,-1400"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="624.744"
+                      y="-1414.4">7.10%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="624.744"
+                      y="-1407.2">1×
+                </text>
+            </g>
+            <!-- 874 -->
+            <g class="node" id="node43">
+                <title>874</title>
+                <g id="a_node43">
+                    <a xlink:title="C:\Users\risan\AppDatabackends:100:get_user\n6.39%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\backends.py">
+                        <polygon fill="#a8ac27" stroke="#a8ac27"
+                                 points="618.479,-1350.5 547.512,-1350.5 547.512,-1313.9 618.479,-1313.9 618.479,-1350.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="582.9953"
+                              y="-1341.2">backends:100:get_user
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="582.9953"
+                              y="-1334">6.39%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="582.9953"
+                              y="-1326.8">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="582.9953"
+                              y="-1319.6">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 423&#45;&gt;874 -->
+            <g class="edge" id="edge34">
+                <title>423-&gt;874</title>
+                <path fill="none" stroke="#a8ac27" stroke-width="0.5"
+                      d="M 580.477 -1428.72 C 581.006 -1408.44 581.856 -1375.88 582.42 -1354.27"/>
+                <polygon fill="#a8ac27" stroke="#a8ac27" stroke-width="0.5"
+                         points="583.648,-1354.16 582.515,-1350.63 581.198,-1354.1 583.648,-1354.16"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="588.744"
+                      y="-1414.4">6.39%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="588.744"
+                      y="-1407.2">1×
+                </text>
+            </g>
+            <!-- 1050 -->
+            <g class="node" id="node65">
+                <title>1050</title>
+                <g id="a_node65">
+                    <a xlink:title="C:\Users\risan\AppDatabase:56:__getitem__\n7.09%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\sessions\backends\base.py">
+                        <polygon fill="#a9ac27" stroke="#a9ac27"
+                                 points="676.987,-1304.7 611.004,-1304.7 611.004,-1268.1 676.987,-1268.1 676.987,-1304.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1295.4">base:56:__getitem__
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1288.2">7.09%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1281">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1273.8">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 736&#45;&gt;1050 -->
+            <g class="edge" id="edge66">
+                <title>736-&gt;1050</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 643.995 -1359.46 C 643.995 -1344.81 643.995 -1324.31 643.995 -1308.75"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="645.22,-1308.41 643.995,-1304.91 642.77,-1308.41 645.22,-1308.41"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="651.744" y="-1334">
+                    7.09%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="651.744"
+                      y="-1326.8">1×
+                </text>
+            </g>
+            <!-- 874&#45;&gt;378 -->
+            <g class="edge" id="edge77">
+                <title>874-&gt;378</title>
+                <path fill="none" stroke="#a8ac27" stroke-width="0.5"
+                      d="M 583.717 -1313.68 C 584.29 -1297.39 584.995 -1273.02 584.995 -1251.8 C 584.995 -1251.8 584.995 -1251.8 584.995 -1148 C 584.995 -1097.03 522.315 -1073.88 476.417 -1063.75"/>
+                <polygon fill="#a8ac27" stroke="#a8ac27" stroke-width="0.5"
+                         points="476.545,-1062.52 472.865,-1062.98 476.029,-1064.92 476.545,-1062.52"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="592.744" y="-1219">
+                    6.39%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a8ac27" text-anchor="middle" x="592.744"
+                      y="-1211.8">1×
+                </text>
+            </g>
+            <!-- 717 -->
+            <g class="node" id="node45">
+                <title>717</title>
+                <g id="a_node45">
+                    <a xlink:title="C:\Users\risan\AppDataprofiler:139:wrapped_target\n60.25%\n(0.01%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django_silk-1.0.0-py3.6.egg\silk\profiling\profiler.py">
+                        <polygon fill="#a76224" stroke="#a76224"
+                                 points="361.636,-1972.3 278.355,-1972.3 278.355,-1935.7 361.636,-1935.7 361.636,-1972.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="319.9953"
+                              y="-1963">profiler:139:wrapped_target
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="319.9953"
+                              y="-1955.8">60.25%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="319.9953"
+                              y="-1948.6">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="319.9953"
+                              y="-1941.4">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 425&#45;&gt;717 -->
+            <g class="edge" id="edge35">
+                <title>425-&gt;717</title>
+                <path fill="none" stroke="#a76224" stroke-width="2.41"
+                      d="M 310.479 -2004.66 C 311.878 -1997.21 313.516 -1988.49 315.036 -1980.4"/>
+                <polygon fill="#a76224" stroke="#a76224" stroke-width="2.41"
+                         points="317.745,-1980.77 316.502,-1972.6 312.379,-1979.76 317.745,-1980.77"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a76224" text-anchor="middle" x="323.244"
+                      y="-1990.4">60.25%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a76224" text-anchor="middle" x="323.244"
+                      y="-1983.2">1×
+                </text>
+            </g>
+            <!-- 645 -->
+            <g class="node" id="node64">
+                <title>645</title>
+                <g id="a_node64">
+                    <a xlink:title="C:\Users\risan\AppDatadecorators:20:_wrapped_view\n60.20%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\decorators.py">
+                        <polygon fill="#a76324" stroke="#a76324"
+                                 points="385.134,-1903.1 296.856,-1903.1 296.856,-1866.5 385.134,-1866.5 385.134,-1903.1"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1893.8">decorators:20:_wrapped_view
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1886.6">60.20%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1879.4">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1872.2">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 717&#45;&gt;645 -->
+            <g class="edge" id="edge65">
+                <title>717-&gt;645</title>
+                <path fill="none" stroke="#a76324" stroke-width="2.41"
+                      d="M 325.623 -1935.46 C 327.906 -1927.93 330.585 -1919.11 333.06 -1910.95"/>
+                <polygon fill="#a76324" stroke="#a76324" stroke-width="2.41"
+                         points="335.699,-1911.65 335.352,-1903.4 330.475,-1910.07 335.699,-1911.65"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a76324" text-anchor="middle" x="341.244"
+                      y="-1921.2">60.20%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a76324" text-anchor="middle" x="341.244" y="-1914">
+                    1×
+                </text>
+            </g>
+            <!-- 433 -->
+            <g class="node" id="node46">
+                <title>433</title>
+                <g id="a_node46">
+                    <a xlink:title="C:\Users\risan\AppDatamiddleware:10:get_user\n13.56%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\middleware.py">
+                        <polygon fill="#aba427" stroke="#aba427"
+                                 points="582.976,-1557.1 509.014,-1557.1 509.014,-1520.5 582.976,-1520.5 582.976,-1557.1"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="545.9953"
+                              y="-1547.8">middleware:10:get_user
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="545.9953"
+                              y="-1540.6">13.56%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="545.9953"
+                              y="-1533.4">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="545.9953"
+                              y="-1526.2">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 433&#45;&gt;423 -->
+            <g class="edge" id="edge38">
+                <title>433-&gt;423</title>
+                <path fill="none" stroke="#aba427" stroke-width="0.54"
+                      d="M 552.876 -1520.26 C 558.314 -1505.61 565.924 -1485.11 571.699 -1469.55"/>
+                <polygon fill="#aba427" stroke="#aba427" stroke-width="0.54"
+                         points="573.052,-1469.63 573.125,-1465.71 570.623,-1468.73 573.052,-1469.63"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="578.244"
+                      y="-1494.8">13.56%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="578.244"
+                      y="-1487.6">1×
+                </text>
+            </g>
+            <!-- 790 -->
+            <g class="node" id="node48">
+                <title>790</title>
+                <g id="a_node48">
+                    <a xlink:title="C:\Users\risan\AppDatadjango:63:render\n23.00%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py">
+                        <polygon fill="#aa9626" stroke="#aa9626"
+                                 points="423.483,-1626.3 366.508,-1626.3 366.508,-1589.7 423.483,-1589.7 423.483,-1626.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1617">django:63:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1609.8">23.00%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1602.6">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1595.4">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 464&#45;&gt;790 -->
+            <g class="edge" id="edge39">
+                <title>464-&gt;790</title>
+                <path fill="none" stroke="#aa9626" stroke-width="0.92"
+                      d="M 317.858 -1658.84 C 331.623 -1649.77 348.31 -1638.77 362.638 -1629.33"/>
+                <polygon fill="#aa9626" stroke="#aa9626" stroke-width="0.92"
+                         points="363.919,-1630.49 367.003,-1626.45 362.07,-1627.69 363.919,-1630.49"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9626" text-anchor="middle" x="360.244"
+                      y="-1644.4">23.00%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9626" text-anchor="middle" x="360.244"
+                      y="-1637.2">2×
+                </text>
+            </g>
+            <!-- 827 -->
+            <g class="node" id="node49">
+                <title>827</title>
+                <g id="a_node49">
+                    <a xlink:title="C:\Users\risan\AppDataloader:11:get_template\n9.12%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\loader.py">
+                        <polygon fill="#abab27" stroke="#abab27"
+                                 points="346.813,-1626.3 275.178,-1626.3 275.178,-1589.7 346.813,-1589.7 346.813,-1626.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="310.9953"
+                              y="-1617">loader:11:get_template
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="310.9953"
+                              y="-1609.8">9.12%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="310.9953"
+                              y="-1602.6">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="310.9953"
+                              y="-1595.4">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 464&#45;&gt;827 -->
+            <g class="edge" id="edge40">
+                <title>464-&gt;827</title>
+                <path fill="none" stroke="#abab27" stroke-width="0.5"
+                      d="M 295.623 -1658.66 C 298.259 -1649.97 301.422 -1639.55 304.192 -1630.42"/>
+                <polygon fill="#abab27" stroke="#abab27" stroke-width="0.5"
+                         points="305.508,-1630.3 305.352,-1626.6 303.164,-1629.59 305.508,-1630.3"/>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="309.744"
+                      y="-1644.4">9.12%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="309.744"
+                      y="-1637.2">2×
+                </text>
+            </g>
+            <!-- 590 -->
+            <g class="node" id="node56">
+                <title>590</title>
+                <g id="a_node56">
+                    <a xlink:title="C:\Users\risan\AppDatabase:201:render\n22.97%\n(0.01%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\base.py">
+                        <polygon fill="#aa9626" stroke="#aa9626"
+                                 points="422.313,-1557.1 367.678,-1557.1 367.678,-1520.5 422.313,-1520.5 422.313,-1557.1"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1547.8">base:201:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1540.6">22.97%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1533.4">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1526.2">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 790&#45;&gt;590 -->
+            <g class="edge" id="edge72">
+                <title>790-&gt;590</title>
+                <path fill="none" stroke="#aa9626" stroke-width="0.92"
+                      d="M 394.995 -1589.46 C 394.995 -1581.08 394.995 -1571.09 394.995 -1562.2"/>
+                <polygon fill="#aa9626" stroke="#aa9626" stroke-width="0.92"
+                         points="396.675,-1562.2 394.995,-1557.4 393.315,-1562.2 396.675,-1562.2"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9626" text-anchor="middle" x="404.244"
+                      y="-1575.2">22.97%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9626" text-anchor="middle" x="404.244" y="-1568">
+                    2×
+                </text>
+            </g>
+            <!-- 785 -->
+            <g class="node" id="node68">
+                <title>785</title>
+                <g id="a_node68">
+                    <a xlink:title="C:\Users\risan\AppDatadjango:37:get_template\n9.10%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py">
+                        <polygon fill="#abab27" stroke="#abab27"
+                                 points="338.152,-1557.1 265.838,-1557.1 265.838,-1520.5 338.152,-1520.5 338.152,-1557.1"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="301.9953"
+                              y="-1547.8">django:37:get_template
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="301.9953"
+                              y="-1540.6">9.10%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="301.9953"
+                              y="-1533.4">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="301.9953"
+                              y="-1526.2">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 827&#45;&gt;785 -->
+            <g class="edge" id="edge74">
+                <title>827-&gt;785</title>
+                <path fill="none" stroke="#abab27" stroke-width="0.5"
+                      d="M 308.583 -1589.46 C 307.454 -1580.77 306.098 -1570.35 304.911 -1561.22"/>
+                <polygon fill="#abab27" stroke="#abab27" stroke-width="0.5"
+                         points="306.08,-1560.71 304.414,-1557.4 303.651,-1561.02 306.08,-1560.71"/>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="314.744"
+                      y="-1575.2">9.10%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="314.744" y="-1568">
+                    2×
+                </text>
+            </g>
+            <!-- 681 -->
+            <g class="node" id="node51">
+                <title>681</title>
+                <g id="a_node51">
+                    <a xlink:title="C:\Users\risan\AppDatautils:101:instrumented_test_render\n22.77%\n(0.01%)\n4×ocal\Programs\Python\Python36\lib\site-packages\django\test\utils.py">
+                        <polygon fill="#aa9726" stroke="#aa9726"
+                                 points="444.647,-1465.5 345.344,-1465.5 345.344,-1428.9 444.647,-1428.9 444.647,-1465.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1456.2">utils:101:instrumented_test_render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1449">22.77%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1441.8">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="394.9953"
+                              y="-1434.6">4×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 470&#45;&gt;681 -->
+            <g class="edge" id="edge41">
+                <title>470-&gt;681</title>
+                <path fill="none" stroke="#ab9f27" stroke-width="0.68"
+                      d="M 376.606 -1235.72 C 380.241 -1277.52 389.072 -1379.09 393.025 -1424.55"/>
+                <polygon fill="#ab9f27" stroke="#ab9f27" stroke-width="0.68"
+                         points="391.608,-1424.81 393.392,-1428.77 394.467,-1424.56 391.608,-1424.81"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9f27" text-anchor="middle" x="395.244" y="-1334">
+                    16.99%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9f27" text-anchor="middle" x="395.244"
+                      y="-1326.8">1×
+                </text>
+            </g>
+            <!-- 681&#45;&gt;200 -->
+            <g class="edge" id="edge63">
+                <title>681-&gt;200</title>
+                <path fill="none" stroke="#aa9726" stroke-width="0.89"
+                      d="M 407.858 -1428.66 C 413.777 -1420.12 420.856 -1409.92 427.105 -1400.91"/>
+                <polygon fill="#aa9726" stroke="#aa9726" stroke-width="0.89"
+                         points="428.77,-1401.4 430.097,-1396.6 426.066,-1399.52 428.77,-1401.4"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9726" text-anchor="middle" x="432.244"
+                      y="-1414.4">22.37%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9726" text-anchor="middle" x="432.244"
+                      y="-1407.2">2×
+                </text>
+            </g>
+            <!-- 879 -->
+            <g class="node" id="node53">
+                <title>879</title>
+                <g id="a_node53">
+                    <a xlink:title="C:\Users\risan\AppDataquery:1116:_fetch_all\n49.22%\n(0.02%)\n5×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\query.py">
+                        <polygon fill="#a87124" stroke="#a87124"
+                                 points="226.481,-797.901 157.51,-797.901 157.51,-761.299 226.481,-761.299 226.481,-797.901"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-788.6">query:1116:_fetch_all
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-781.4">49.22%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-774.2">(0.02%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-767">5×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 490&#45;&gt;879 -->
+            <g class="edge" id="edge43">
+                <title>490-&gt;879</title>
+                <path fill="none" stroke="#a98725" stroke-width="1.33"
+                      d="M 173.695 -830.256 C 176.609 -822.189 180.064 -812.625 183.183 -803.993"/>
+                <polygon fill="#a98725" stroke="#a98725" stroke-width="1.33"
+                         points="185.216,-804.34 185.277,-798.195 181.397,-802.961 185.216,-804.34"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a98725" text-anchor="middle" x="190.244" y="-816">
+                    33.32%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a98725" text-anchor="middle" x="190.244" y="-808.8">
+                    3×
+                </text>
+            </g>
+            <!-- 749 -->
+            <g class="node" id="node66">
+                <title>749</title>
+                <g id="a_node66">
+                    <a xlink:title="C:\Users\risan\AppDataquery:47:__iter__\n49.20%\n(0.03%)\n7×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\query.py">
+                        <polygon fill="#a87124" stroke="#a87124"
+                                 points="221.486,-728.701 162.504,-728.701 162.504,-692.099 221.486,-692.099 221.486,-728.701"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-719.4">query:47:__iter__
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-712.2">49.20%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-705">(0.03%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="191.9953"
+                              y="-697.8">7×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 879&#45;&gt;749 -->
+            <g class="edge" id="edge78">
+                <title>879-&gt;749</title>
+                <path fill="none" stroke="#a87124" stroke-width="1.97"
+                      d="M 191.995 -761.056 C 191.995 -753.377 191.995 -744.341 191.995 -736.044"/>
+                <polygon fill="#a87124" stroke="#a87124" stroke-width="1.97"
+                         points="194.445,-735.995 191.995,-728.995 189.545,-735.996 194.445,-735.995"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a87124" text-anchor="middle" x="201.244" y="-746.8">
+                    49.20%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a87124" text-anchor="middle" x="201.244" y="-739.6">
+                    7×
+                </text>
+            </g>
+            <!-- 559&#45;&gt;52 -->
+            <g class="edge" id="edge45">
+                <title>559-&gt;52</title>
+                <path fill="none" stroke="#aba127" stroke-width="0.63"
+                      d="M 80.9953 -1520.26 C 80.9953 -1505.74 80.9953 -1485.46 80.9953 -1469.95"/>
+                <polygon fill="#aba127" stroke="#aba127" stroke-width="0.63"
+                         points="82.3954,-1469.71 80.9953,-1465.71 79.5954,-1469.71 82.3954,-1469.71"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="90.244" y="-1494.8">
+                    15.63%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="90.244" y="-1487.6">
+                    68×
+                </text>
+            </g>
+            <!-- 559&#45;&gt;559 -->
+            <g class="edge" id="edge46">
+                <title>559-&gt;559</title>
+                <path fill="none" stroke="#aba027" stroke-width="0.67"
+                      d="M 109.353 -1544.82 C 114.53 -1544.06 118.16 -1542.05 118.16 -1538.8 C 118.16 -1536.56 116.444 -1534.91 113.689 -1533.86"/>
+                <polygon fill="#aba027" stroke="#aba027" stroke-width="0.67"
+                         points="113.678,-1532.37 109.353,-1532.78 112.984,-1535.16 113.678,-1532.37"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba027" text-anchor="middle" x="127.4091"
+                      y="-1540.6">16.69%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba027" text-anchor="middle" x="127.4091"
+                      y="-1533.4">362×
+                </text>
+            </g>
+            <!-- 590&#45;&gt;681 -->
+            <g class="edge" id="edge48">
+                <title>590-&gt;681</title>
+                <path fill="none" stroke="#aa9726" stroke-width="0.91"
+                      d="M 394.995 -1520.26 C 394.995 -1505.99 394.995 -1486.15 394.995 -1470.75"/>
+                <polygon fill="#aa9726" stroke="#aa9726" stroke-width="0.91"
+                         points="396.675,-1470.51 394.995,-1465.71 393.315,-1470.51 396.675,-1470.51"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9726" text-anchor="middle" x="404.244"
+                      y="-1494.8">22.77%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9726" text-anchor="middle" x="404.244"
+                      y="-1487.6">2×
+                </text>
+            </g>
+            <!-- 615 -->
+            <g class="node" id="node57">
+                <title>615</title>
+                <g id="a_node57">
+                    <a xlink:title="C:\Users\risan\AppDatadb:31:load\n7.08%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\sessions\backends\db.py">
+                        <polygon fill="#a9ac27" stroke="#a9ac27"
+                                 points="652.662,-1166.3 611.328,-1166.3 611.328,-1129.7 652.662,-1129.7 652.662,-1166.3"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="631.9953"
+                              y="-1157">db:31:load
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="631.9953"
+                              y="-1149.8">7.08%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="631.9953"
+                              y="-1142.6">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="631.9953"
+                              y="-1135.4">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 615&#45;&gt;378 -->
+            <g class="edge" id="edge51">
+                <title>615-&gt;378</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 625.394 -1129.43 C 619.137 -1114.65 608.253 -1094.69 591.995 -1083.8 C 573.575 -1071.46 518.009 -1064.04 476.849 -1060.09"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="476.512,-1058.83 472.912,-1059.72 476.281,-1061.27 476.512,-1058.83"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="627.744" y="-1104">
+                    7.02%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="627.744"
+                      y="-1096.8">1×
+                </text>
+            </g>
+            <!-- 631 -->
+            <g class="node" id="node58">
+                <title>631</title>
+                <g id="a_node58">
+                    <a xlink:title="C:\Users\risan\AppDatadecorators:46:&lt;lambda&gt;\n13.57%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\auth\decorators.py">
+                        <polygon fill="#aba427" stroke="#aba427"
+                                 points="478.245,-1833.9 403.746,-1833.9 403.746,-1797.3 478.245,-1797.3 478.245,-1833.9"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1824.6">decorators:46:&lt;lambda&gt;
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1817.4">13.57%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1810.2">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="440.9953"
+                              y="-1803">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 631&#45;&gt;44 -->
+            <g class="edge" id="edge52">
+                <title>631-&gt;44</title>
+                <path fill="none" stroke="#aba427" stroke-width="0.54"
+                      d="M 440.995 -1797.06 C 440.995 -1788.37 440.995 -1777.95 440.995 -1768.82"/>
+                <polygon fill="#aba427" stroke="#aba427" stroke-width="0.54"
+                         points="442.29,-1768.7 440.995,-1765 439.7,-1768.7 442.29,-1768.7"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="450.244"
+                      y="-1782.8">13.57%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="450.244"
+                      y="-1775.6">1×
+                </text>
+            </g>
+            <!-- 632 -->
+            <g class="node" id="node59">
+                <title>632</title>
+                <g id="a_node59">
+                    <a xlink:title="D:\mylibrarybuddy\librarybuddy\UserManager\views.py">
+                        <polygon fill="#a87525" stroke="#a87525"
+                                 points="394.302,-1833.9 287.689,-1833.9 287.689,-1797.3 394.302,-1797.3 394.302,-1833.9"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1824.6">views:59:account_management_view
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1817.4">46.62%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1810.2">(0.01%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="340.9953"
+                              y="-1803">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 632&#45;&gt;44 -->
+            <g class="edge" id="edge53">
+                <title>632-&gt;44</title>
+                <path fill="none" stroke="#ab9a26" stroke-width="0.82"
+                      d="M 367.531 -1797.24 C 380.753 -1788.09 396.807 -1776.98 410.531 -1767.48"/>
+                <polygon fill="#ab9a26" stroke="#ab9a26" stroke-width="0.82"
+                         points="411.531,-1768.7 414.336,-1764.85 409.739,-1766.11 411.531,-1768.7"/>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="408.244"
+                      y="-1782.8">20.50%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#ab9a26" text-anchor="middle" x="408.244"
+                      y="-1775.6">1×
+                </text>
+            </g>
+            <!-- 632&#45;&gt;378 -->
+            <g class="edge" id="edge54">
+                <title>632-&gt;378</title>
+                <path fill="none" stroke="#a0ac28" stroke-width="0.5"
+                      d="M 287.729 -1805.44 C 269.143 -1800.87 251.332 -1794.97 244.995 -1788.2 C 232.008 -1774.33 235.995 -1765.4 235.995 -1746.4 C 235.995 -1746.4 235.995 -1746.4 235.995 -1182.6 C 235.995 -1158.71 229.968 -1148.18 244.995 -1129.6 C 278.54 -1088.13 339.002 -1070.04 381.437 -1062.22"/>
+                <polygon fill="#a0ac28" stroke="#a0ac28" stroke-width="0.5"
+                         points="381.744,-1063.41 384.972,-1061.59 381.311,-1061 381.744,-1063.41"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="243.744" y="-1449">
+                    0.19%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a0ac28" text-anchor="middle" x="243.744"
+                      y="-1441.8">1×
+                </text>
+            </g>
+            <!-- 829 -->
+            <g class="node" id="node60">
+                <title>829</title>
+                <g id="a_node60">
+                    <a xlink:title="C:\Users\risan\AppDatashortcuts:25:render\n25.76%\n(0.00%)\n1×ocal\Programs\Python\Python36\lib\site-packages\django\shortcuts.py">
+                        <polygon fill="#aa9226" stroke="#aa9226"
+                                 points="399.315,-1764.7 336.676,-1764.7 336.676,-1728.1 399.315,-1728.1 399.315,-1764.7"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="367.9953"
+                              y="-1755.4">shortcuts:25:render
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="367.9953"
+                              y="-1748.2">25.76%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="367.9953"
+                              y="-1741">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="367.9953"
+                              y="-1733.8">1×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 632&#45;&gt;829 -->
+            <g class="edge" id="edge55">
+                <title>632-&gt;829</title>
+                <path fill="none" stroke="#aa9226" stroke-width="1.03"
+                      d="M 348.231 -1797.06 C 351.499 -1788.68 355.397 -1778.69 358.865 -1769.8"/>
+                <polygon fill="#aa9226" stroke="#aa9226" stroke-width="1.03"
+                         points="360.549,-1770.4 360.74,-1765 357.223,-1769.1 360.549,-1770.4"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9226" text-anchor="middle" x="365.244"
+                      y="-1782.8">25.76%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9226" text-anchor="middle" x="365.244"
+                      y="-1775.6">1×
+                </text>
+            </g>
+            <!-- 829&#45;&gt;464 -->
+            <g class="edge" id="edge75">
+                <title>829-&gt;464</title>
+                <path fill="none" stroke="#aa9226" stroke-width="1.03"
+                      d="M 336.577 -1729.58 C 331.646 -1726.36 326.773 -1722.8 322.498 -1719 C 316.122 -1713.34 310.099 -1706.29 305.011 -1699.61"/>
+                <polygon fill="#aa9226" stroke="#aa9226" stroke-width="1.03"
+                         points="306.442,-1698.54 301.969,-1695.51 303.575,-1700.67 306.442,-1698.54"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9226" text-anchor="middle" x="331.244"
+                      y="-1713.6">25.72%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aa9226" text-anchor="middle" x="331.244"
+                      y="-1706.4">1×
+                </text>
+            </g>
+            <!-- 1053&#45;&gt;433 -->
+            <g class="edge" id="edge84">
+                <title>1053-&gt;433</title>
+                <path fill="none" stroke="#aba427" stroke-width="0.54"
+                      d="M 531.355 -1589.46 C 533.866 -1580.77 536.878 -1570.35 539.516 -1561.22"/>
+                <polygon fill="#aba427" stroke="#aba427" stroke-width="0.54"
+                         points="540.838,-1561.31 540.621,-1557.4 538.349,-1560.59 540.838,-1561.31"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="546.244"
+                      y="-1575.2">13.56%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="546.244" y="-1568">
+                    1×
+                </text>
+            </g>
+            <!-- 644&#45;&gt;200 -->
+            <g class="edge" id="edge57">
+                <title>644-&gt;200</title>
+                <path fill="none" stroke="#a4ac28" stroke-width="0.5"
+                      d="M 531.649 -1235.71 C 530.716 -1253.96 527.655 -1282.3 517.995 -1304.8 C 507.889 -1328.34 501.575 -1332.96 482.995 -1350.6 C 480.038 -1353.41 476.768 -1356.13 473.41 -1358.71"/>
+                <polygon fill="#a4ac28" stroke="#a4ac28" stroke-width="0.5"
+                         points="472.639,-1357.75 470.573,-1360.83 474.108,-1359.72 472.639,-1357.75"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a4ac28" text-anchor="middle" x="535.744"
+                      y="-1288.2">3.10%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a4ac28" text-anchor="middle" x="535.744" y="-1281">
+                    63×
+                </text>
+            </g>
+            <!-- 881 -->
+            <g class="node" id="node63">
+                <title>881</title>
+                <g id="a_node63">
+                    <a xlink:title="C:\Users\risan\AppDataquery:253:__bool__\n15.91%\n(0.00%)\n2×ocal\Programs\Python\Python36\lib\site-packages\django\db\models\query.py">
+                        <polygon fill="#aba127" stroke="#aba127"
+                                 points="243.159,-1120.5 178.831,-1120.5 178.831,-1083.9 243.159,-1083.9 243.159,-1120.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="210.9953"
+                              y="-1111.2">query:253:__bool__
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="210.9953"
+                              y="-1104">15.91%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="210.9953"
+                              y="-1096.8">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="210.9953"
+                              y="-1089.6">2×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 644&#45;&gt;881 -->
+            <g class="edge" id="edge58">
+                <title>644-&gt;881</title>
+                <path fill="none" stroke="#aba127" stroke-width="0.64"
+                      d="M 496.713 -1200.54 C 495.459 -1199.95 494.216 -1199.37 492.995 -1198.8 C 426.461 -1167.76 412.723 -1152.59 342.995 -1129.6 C 311.451 -1119.2 274.318 -1111.91 247.484 -1107.48"/>
+                <polygon fill="#aba127" stroke="#aba127" stroke-width="0.64"
+                         points="247.442,-1106.05 243.269,-1106.79 246.992,-1108.82 247.442,-1106.05"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="481.244"
+                      y="-1184.4">15.91%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="481.244"
+                      y="-1177.2">2×
+                </text>
+            </g>
+            <!-- 881&#45;&gt;879 -->
+            <g class="edge" id="edge79">
+                <title>881-&gt;879</title>
+                <path fill="none" stroke="#aba127" stroke-width="0.64"
+                      d="M 212.8 -1083.7 C 214.233 -1067.42 215.995 -1043.06 215.995 -1021.8 C 215.995 -1021.8 215.995 -1021.8 215.995 -848.8 C 215.995 -832.411 209.912 -814.985 203.871 -801.719"/>
+                <polygon fill="#aba127" stroke="#aba127" stroke-width="0.64"
+                         points="205.137,-801.122 202.173,-798.093 202.601,-802.309 205.137,-801.122"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="225.244" y="-954.4">
+                    15.91%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="225.244" y="-947.2">
+                    2×
+                </text>
+            </g>
+            <!-- 645&#45;&gt;631 -->
+            <g class="edge" id="edge59">
+                <title>645-&gt;631</title>
+                <path fill="none" stroke="#aba427" stroke-width="0.54"
+                      d="M 367.531 -1866.44 C 380.979 -1857.13 397.357 -1845.8 411.233 -1836.2"/>
+                <polygon fill="#aba427" stroke="#aba427" stroke-width="0.54"
+                         points="412.03,-1837.22 414.336,-1834.05 410.556,-1835.09 412.03,-1837.22"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="408.244" y="-1852">
+                    13.57%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba427" text-anchor="middle" x="408.244"
+                      y="-1844.8">1×
+                </text>
+            </g>
+            <!-- 645&#45;&gt;632 -->
+            <g class="edge" id="edge60">
+                <title>645-&gt;632</title>
+                <path fill="none" stroke="#a87525" stroke-width="1.86"
+                      d="M 340.995 -1866.26 C 340.995 -1858.58 340.995 -1849.54 340.995 -1841.24"/>
+                <polygon fill="#a87525" stroke="#a87525" stroke-width="1.86"
+                         points="343.375,-1841 340.995,-1834.2 338.615,-1841 343.375,-1841"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a87525" text-anchor="middle" x="350.244" y="-1852">
+                    46.62%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a87525" text-anchor="middle" x="350.244"
+                      y="-1844.8">1×
+                </text>
+            </g>
+            <!-- 1052 -->
+            <g class="node" id="node70">
+                <title>1052</title>
+                <g id="a_node70">
+                    <a xlink:title="C:\Users\risan\AppDatabase:195:_get_session\n7.09%\n(0.00%)\n7×ocal\Programs\Python\Python36\lib\site-packages\django\contrib\sessions\backends\base.py">
+                        <polygon fill="#a9ac27" stroke="#a9ac27"
+                                 points="678.653,-1235.5 609.338,-1235.5 609.338,-1198.9 678.653,-1198.9 678.653,-1235.5"/>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1226.2">base:195:_get_session
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1219">7.09%
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1211.8">(0.00%)
+                        </text>
+                        <text font-family="FiraSans" font-size="6px" fill="#ffffff" text-anchor="middle" x="643.9953"
+                              y="-1204.6">7×
+                        </text>
+                    </a>
+                </g>
+            </g>
+            <!-- 1050&#45;&gt;1052 -->
+            <g class="edge" id="edge82">
+                <title>1050-&gt;1052</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 643.995 -1267.86 C 643.995 -1259.17 643.995 -1248.75 643.995 -1239.62"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="645.22,-1239.3 643.995,-1235.8 642.77,-1239.3 645.22,-1239.3"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="651.744"
+                      y="-1253.6">7.09%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="651.744"
+                      y="-1246.4">2×
+                </text>
+            </g>
+            <!-- 749&#45;&gt;315 -->
+            <g class="edge" id="edge67">
+                <title>749-&gt;315</title>
+                <path fill="none" stroke="#a87224" stroke-width="1.95"
+                      d="M 191.995 -691.856 C 191.995 -684.177 191.995 -675.141 191.995 -666.844"/>
+                <polygon fill="#a87224" stroke="#a87224" stroke-width="1.95"
+                         points="194.445,-666.795 191.995,-659.795 189.545,-666.796 194.445,-666.795"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a87224" text-anchor="middle" x="201.244" y="-677.6">
+                    48.86%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a87224" text-anchor="middle" x="201.244" y="-670.4">
+                    4×
+                </text>
+            </g>
+            <!-- 804&#45;&gt;200 -->
+            <g class="edge" id="edge73">
+                <title>804-&gt;200</title>
+                <path fill="none" stroke="#aba127" stroke-width="0.64"
+                      d="M 421.69 -1235.73 C 418.768 -1238.4 416.117 -1241.36 413.995 -1244.6 C 408.191 -1253.46 410.502 -1257.46 409.498 -1268 C 407.947 -1284.28 406.015 -1288.82 409.498 -1304.8 C 413.415 -1322.77 422.159 -1341.62 429.732 -1355.68"/>
+                <polygon fill="#aba127" stroke="#aba127" stroke-width="0.64"
+                         points="428.683,-1356.68 431.831,-1359.52 431.139,-1355.34 428.683,-1356.68"/>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="418.244"
+                      y="-1288.2">15.96%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#aba127" text-anchor="middle" x="418.244" y="-1281">
+                    6×
+                </text>
+            </g>
+            <!-- 785&#45;&gt;412 -->
+            <g class="edge" id="edge71">
+                <title>785-&gt;412</title>
+                <path fill="none" stroke="#abab27" stroke-width="0.5"
+                      d="M 301.388 -1520.26 C 300.908 -1505.61 300.237 -1485.11 299.727 -1469.55"/>
+                <polygon fill="#abab27" stroke="#abab27" stroke-width="0.5"
+                         points="300.94,-1469.17 299.602,-1465.71 298.492,-1469.25 300.94,-1469.17"/>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="308.744"
+                      y="-1494.8">9.09%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#abab27" text-anchor="middle" x="308.744"
+                      y="-1487.6">2×
+                </text>
+            </g>
+            <!-- 1044&#45;&gt;327 -->
+            <g class="edge" id="edge81">
+                <title>1044-&gt;327</title>
+                <path fill="none" stroke="#a97725" stroke-width="1.81"
+                      d="M 191.995 -484.256 C 191.995 -476.499 191.995 -467.359 191.995 -458.993"/>
+                <polygon fill="#a97725" stroke="#a97725" stroke-width="1.81"
+                         points="194.34,-458.896 191.995,-452.195 189.65,-458.896 194.34,-458.896"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a97725" text-anchor="middle" x="201.244" y="-470">
+                    45.14%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a97725" text-anchor="middle" x="201.244" y="-462.8">
+                    4×
+                </text>
+            </g>
+            <!-- 1052&#45;&gt;615 -->
+            <g class="edge" id="edge83">
+                <title>1052-&gt;615</title>
+                <path fill="none" stroke="#a9ac27" stroke-width="0.5"
+                      d="M 640.779 -1198.66 C 639.273 -1189.97 637.466 -1179.55 635.883 -1170.42"/>
+                <polygon fill="#a9ac27" stroke="#a9ac27" stroke-width="0.5"
+                         points="637.025,-1169.83 635.22,-1166.6 634.611,-1170.25 637.025,-1169.83"/>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="646.744"
+                      y="-1184.4">7.08%
+                </text>
+                <text font-family="FiraSans" font-size="6px" fill="#a9ac27" text-anchor="middle" x="646.744"
+                      y="-1177.2">1×
+                </text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <style id="svg-pan-zoom-controls-styles" type="text/css">.svg-pan-zoom-control { cursor: pointer; fill: black;
+            fill-opacity: 0.333; } .svg-pan-zoom-control:hover { fill-opacity: 0.8; } .svg-pan-zoom-control-background {
+            fill: white; fill-opacity: 0.5; } .svg-pan-zoom-control-background { fill-opacity: 0.8; }
+        </style>
+    </defs>
+    <g class="svg-pan-zoom-control" id="svg-pan-zoom-controls" transform="translate(890 524) scale(0.75)">
+        <g class="svg-pan-zoom-control" id="svg-pan-zoom-zoom-in" transform="translate(30.5 5) scale(0.015)">
+            <rect class="svg-pan-zoom-control-background" x="0" y="0" width="1500" height="1400"/>
+            <path class="svg-pan-zoom-control-element"
+                  d="M 1280 576 v 128 q 0 26 -19 45 t -45 19 h -320 v 320 q 0 26 -19 45 t -45 19 h -128 q -26 0 -45 -19 t -19 -45 v -320 h -320 q -26 0 -45 -19 t -19 -45 v -128 q 0 -26 19 -45 t 45 -19 h 320 v -320 q 0 -26 19 -45 t 45 -19 h 128 q 26 0 45 19 t 19 45 v 320 h 320 q 26 0 45 19 t 19 45 Z M 1536 1120 v -960 q 0 -119 -84.5 -203.5 t -203.5 -84.5 h -960 q -119 0 -203.5 84.5 t -84.5 203.5 v 960 q 0 119 84.5 203.5 t 203.5 84.5 h 960 q 119 0 203.5 -84.5 t 84.5 -203.5 Z"/>
+        </g>
+        <g class="svg-pan-zoom-control" id="svg-pan-zoom-reset-pan-zoom" transform="translate(5 35) scale(0.4)">
+            <rect class="svg-pan-zoom-control-background" x="2" y="2" width="182" height="58"/>
+            <path class="svg-pan-zoom-control-element"
+                  d="M 33.051 20.632 c -0.742 -0.406 -1.854 -0.609 -3.338 -0.609 h -7.969 v 9.281 h 7.769 c 1.543 0 2.701 -0.188 3.473 -0.562 c 1.365 -0.656 2.048 -1.953 2.048 -3.891 C 35.032 22.757 34.372 21.351 33.051 20.632 Z"/>
+            <path class="svg-pan-zoom-control-element"
+                  d="M 170.231 0.5 H 15.847 C 7.102 0.5 0.5 5.708 0.5 11.84 v 38.861 C 0.5 56.833 7.102 61.5 15.847 61.5 h 154.384 c 8.745 0 15.269 -4.667 15.269 -10.798 V 11.84 C 185.5 5.708 178.976 0.5 170.231 0.5 Z M 42.837 48.569 h -7.969 c -0.219 -0.766 -0.375 -1.383 -0.469 -1.852 c -0.188 -0.969 -0.289 -1.961 -0.305 -2.977 l -0.047 -3.211 c -0.03 -2.203 -0.41 -3.672 -1.142 -4.406 c -0.732 -0.734 -2.103 -1.102 -4.113 -1.102 h -7.05 v 13.547 h -7.055 V 14.022 h 16.524 c 2.361 0.047 4.178 0.344 5.45 0.891 c 1.272 0.547 2.351 1.352 3.234 2.414 c 0.731 0.875 1.31 1.844 1.737 2.906 s 0.64 2.273 0.64 3.633 c 0 1.641 -0.414 3.254 -1.242 4.84 s -2.195 2.707 -4.102 3.363 c 1.594 0.641 2.723 1.551 3.387 2.73 s 0.996 2.98 0.996 5.402 v 2.32 c 0 1.578 0.063 2.648 0.19 3.211 c 0.19 0.891 0.635 1.547 1.333 1.969 V 48.569 Z M 75.579 48.569 h -26.18 V 14.022 h 25.336 v 6.117 H 56.454 v 7.336 h 16.781 v 6 H 56.454 v 8.883 h 19.125 V 48.569 Z M 104.497 46.331 c -2.44 2.086 -5.887 3.129 -10.34 3.129 c -4.548 0 -8.125 -1.027 -10.731 -3.082 s -3.909 -4.879 -3.909 -8.473 h 6.891 c 0.224 1.578 0.662 2.758 1.316 3.539 c 1.196 1.422 3.246 2.133 6.15 2.133 c 1.739 0 3.151 -0.188 4.236 -0.562 c 2.058 -0.719 3.087 -2.055 3.087 -4.008 c 0 -1.141 -0.504 -2.023 -1.512 -2.648 c -1.008 -0.609 -2.607 -1.148 -4.796 -1.617 l -3.74 -0.82 c -3.676 -0.812 -6.201 -1.695 -7.576 -2.648 c -2.328 -1.594 -3.492 -4.086 -3.492 -7.477 c 0 -3.094 1.139 -5.664 3.417 -7.711 s 5.623 -3.07 10.036 -3.07 c 3.685 0 6.829 0.965 9.431 2.895 c 2.602 1.93 3.966 4.73 4.093 8.402 h -6.938 c -0.128 -2.078 -1.057 -3.555 -2.787 -4.43 c -1.154 -0.578 -2.587 -0.867 -4.301 -0.867 c -1.907 0 -3.428 0.375 -4.565 1.125 c -1.138 0.75 -1.706 1.797 -1.706 3.141 c 0 1.234 0.561 2.156 1.682 2.766 c 0.721 0.406 2.25 0.883 4.589 1.43 l 6.063 1.43 c 2.657 0.625 4.648 1.461 5.975 2.508 c 2.059 1.625 3.089 3.977 3.089 7.055 C 108.157 41.624 106.937 44.245 104.497 46.331 Z M 139.61 48.569 h -26.18 V 14.022 h 25.336 v 6.117 h -18.281 v 7.336 h 16.781 v 6 h -16.781 v 8.883 h 19.125 V 48.569 Z M 170.337 20.14 h -10.336 v 28.43 h -7.266 V 20.14 h -10.383 v -6.117 h 27.984 V 20.14 Z"/>
+        </g>
+        <g class="svg-pan-zoom-control" id="svg-pan-zoom-zoom-out" transform="translate(30.5 70) scale(0.015)">
+            <rect class="svg-pan-zoom-control-background" x="0" y="0" width="1500" height="1400"/>
+            <path class="svg-pan-zoom-control-element"
+                  d="M 1280 576 v 128 q 0 26 -19 45 t -45 19 h -896 q -26 0 -45 -19 t -19 -45 v -128 q 0 -26 19 -45 t 45 -19 h 896 q 26 0 45 19 t 19 45 Z M 1536 1120 v -960 q 0 -119 -84.5 -203.5 t -203.5 -84.5 h -960 q -119 0 -203.5 84.5 t -84.5 203.5 v 960 q 0 119 84.5 203.5 t 203.5 84.5 h 960 q 119 0 203.5 -84.5 t 84.5 -203.5 Z"/>
+        </g>
+    </g>
+</svg>
