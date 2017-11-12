@@ -17,6 +17,7 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.conf import settings
 from django.conf.urls.static import static
+import debug_toolbar
 
 # from django.contrib.auth import views as auth_views
 
@@ -29,9 +30,11 @@ urlpatterns = [
                                                                                            document_root=settings.MEDIA_ROOT)
 
 if settings.DEBUG:
-	import debug_toolbar
-
+	# Silk URL Pattern
 	urlpatterns += [url(r'^silk/', include('silk.urls', namespace='silk'))]
+	# Django_Spaghetti URL Pattern
+	urlpatterns += [url(r'^plate/', include('django_spaghetti.urls'))]
+	# Django_debug_toolbar Pattern
 	urlpatterns = [
 		              url(r'^__debug__/', include(debug_toolbar.urls)),
 	              ] + urlpatterns
