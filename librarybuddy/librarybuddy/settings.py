@@ -38,8 +38,10 @@ INSTALLED_APPS = [
 	'django.contrib.sessions',
 	'django.contrib.messages',
 	'django.contrib.staticfiles',
-	# adding the development settings
+	# adding the testing settings
 	'debug_toolbar',
+	'silk',
+	# testing settings complete
 	'django.contrib.admindocs',
 	'UserManager.apps.UserManagerConfig',
 	'BookManager.apps.BookManagerConfig',
@@ -47,7 +49,6 @@ INSTALLED_APPS = [
 	'AlertManager.apps.AlertManagerConfig',
 	'AnalyticsManager.apps.AnalyticsManagerConfig',
 	'django_extensions',
-	'silk'
 ]
 
 MIDDLEWARE = [
