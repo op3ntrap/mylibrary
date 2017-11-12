@@ -29,6 +29,7 @@ ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
 
 # Application definition
 INSTALLED_APPS = [
+	'adminactions',
 	'material.theme.indigo',
 	'material',
 	'material.admin',
@@ -149,3 +150,6 @@ EMAIL_HOST_PASSWORD = 'ngtqgfgjdtbnezmx'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
+# Django Admin Actions Settings
+ADMINACTIONS_STREAM_CSV = True
