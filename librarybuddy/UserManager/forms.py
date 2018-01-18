@@ -27,7 +27,8 @@ def username_check(param):
 
 
 def password_check(param):
-	# parts = [string.ascii_lowercase, string.ascii_uppercase, string.digits, string.punctuation]
+	import string
+	parts = [string.ascii_lowercase, string.ascii_uppercase, string.digits, string.punctuation]
 	import re
 	password = param
 	p = re.compile('^(?=.*[!$?])(?=.*[a-z])(?=.*[A-Z]).{8}$')
@@ -51,7 +52,7 @@ class member_sign_up_form(profile_form):
 
 	def clean_user_password(self):
 		data = self.cleaned_data['user_password']
-		if not password_check(data):
+		if password_check(data):
 			raise forms.ValidationError(
 					'Sorry this Password is not strong enough.Please include lowercase, Uppercase, number and a special character')
 		return data

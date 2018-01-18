@@ -17,7 +17,7 @@ try:
     connn = psycopg2.connect(
         "dbname='library_buddy' user='op3ntrap' host=localhost password='a'")
 except:
-    print "script failed"
+    print("script failed")
     exit()
 conn = connn.cursor()
 
